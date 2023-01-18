@@ -1,0 +1,88 @@
+Title: bDAO Contributor Recognition Program (ThriveCoin Pilot)
+Authors: merlin#4795, senad.eth #8782, 0xBaer#6344, 0xJustice.eth#6213, thrivecoin#4835
+Related Guild: DAOlationships
+Date: Aug 22, 2022
+Summary
+We propose using the ThriveCoin 13 platform to recognize and reward bDAO contributors. Contributors who wish to participate will be able to connect their wallet to the ThriveCoin platform and will get rewarded in $THRIVE for:
+bDAO Snapshot contributions
+bDAO Discord activity
+bDAO Twitter engagement
+More networks and ways to earn are being added on an ongoing basis. bDAO will fully control if and how those network contributions are configured.
+Remuneration can be changed to $BANK at any time in the future. There is no cost for this proposal. ThriveCoin will provide all required setup.
+BACKGROUND
+ThriveCoin is providing what DAOs have been talking about for a long time but have been unable to execute. That is rewarding DAO community members for cross-network activity and engagement.
+Maintaining and growing an active, highly engaged community is essential to the success of bDAO. The ThriveCoin team has tested numerous community engagement tools over the years and has created ThriveCoin to address long-standing needs.
+ThriveCoin provides a platform that will:
+Auto-clarify opportunities to engage
+Auto-verify contributions
+Auto-distribute rewards
+Auto-record meaningful activities
+Auto-surface culture insights
+Auto-clarification of opportunities to engage can encourage more contributions, ease onboarding to contributing with us, and reinforce our framework for how we value various types of contributions.
+Auto-verification of contributions allows us to provide a significantly simpler workflow for contributors and less management for admins. (A manual verification option is also available as needed.)
+Auto-distribution of rewards allows us to reward not just gratitude for contributions (as Coordinape does) but also directly reward the contributions themselves.
+Rewarded activities are auto-recorded on-chain, providing a centralized contribution record, including guild status and contributor roles.
+Finally, recorded activities are periodically auto-analyzed to surface insights and publicly available in an easy-to-review way that eases self-analysis.
+Most importantly, the platform can be used in tandem with our existing tools, such as Discord, Discourse, and Snapshot, as well as other critical platforms for contribution and contribution recognition such as Medium and Coordinape.
+With no required costs and potential substantial community benefit, we believe this proposal is low risk and high reward.
+MISSION & VALUES ALIGNMENT
+This proposal seeks to sustain the motivation for the contributors that power bDAO and incentivize more future contributions.
+This proposal supports our values in the following way:
+Education - ThriveCoin can be used directly to provide user-friendly onramps for people to discover Defi by clarifying the learning and engagement opportunities and incentivizing newcomers to learn and engage with Defi by providing feedback about their learning progress and crypto rewards.
+Integrity - If adopted, this would allow key contributor activities – including participation in a guild and levels – to be easily tracked on the blockchain and navigated via a user-friendly interface. This makes contributions and related reward distribution more transparent, trustworthy, and financially auditable.
+Decentralized governance - If this proposal is adopted, key activities that support decentralized governance – discussions on Discord; debates on Discourse; voting on Snapshot; etc. – can be more transparently seen, acknowledged, and incentivized
+Culture - If adopted, this proposal would provide additional clarity to BanklessDAO’s incentives system, which is built to support a bias toward risk and action. Further, it provides a space to self-organize by providing auto-validation of contributions and encourages moving quickly from idea to action by immediately auto-distributing rewards to auto-validated contributors.
+SPECIFICATION
+From an administrative perspective, piloting the platform requires one or more points of contact who can make authoritative decisions about:
+The content of a public-facing Bankless DAO “Community” page on the ThriveCoin platform
+The content of the contribution opportunities we want to recognize and reward, including any customizations to the default name, description, number of completions per user, and reward amounts for those opportunities
+Additionally, providing read-access to any non-public networks where contributions are happening that we want to recognize
+From a contributor perspective, all that is required to get value out of the ThriveCoin platform is to connect a wallet that’s made BanklessDAO contributions before and verify your identity on any other platforms you’ve used to make contributions (e.g. Discord)
+Once connected/verified, all past and future contributions toward BanklessDAO and other recognized DAOs on ThriveCoin will be automatically recorded on the Mumbai network, Polygon chain, and rewarded with ThriveCoin ($THRIVE) tokens.
+Rewards are auto-distributed using an open-source smart contract that has been audited by Kraken – a top smart contract auditing firm – and received a perfect score on its audit. The ThriveCoin team includes leaders from one of the largest NFTs, the largest collective of crypto organizations, one of the largest exchanges, and former stablecoin creators.
+FINANCIAL IMPLICATIONS
+This proposal has no required funding.
+All rewards for starting contributions will be provided by ThriveCoin in its own testnet token ($THRIVE) at no cost. Similarly, any additional costs (including gas/chain transaction fees and platform fees) will also be covered by ThriveCoin.
+If funding is required at a later date, a new proposal will be submitted.
+No rewards are needed for squad members.
+BRAND USAGE
+BanklessDAO will have a public “Community” and “Mission” page on the ThriveCoin web app. All content on this page can be freely edited by appointed BanklessDAO members.
+A sample “Community” page can be seen here: ThriveCoin 4
+“Mission” pages are gamified versions of Community pages
+SUCCESS METRICS OR KPIS
+The project should result in increased DAO contributions and increased satisfaction for DAO rewards and recognition. A baseline can be established through a survey at the onset of the project, as well as periodically throughout.
+For the project to achieve its desired effect, there are three prerequisites:
+Platform awareness [as measured by periodic BanklessDAO member surveying]
+Platform adoption [as measured by the number of BanklessDAO members connecting their wallet to ThriveCoin]
+Access to all relevant BanklessDAO contribution types [as measured by the percentage of BanklessDAO members on ThriveCoin verifying their identity on multiple networks]
+Additionally, we can survey BanklessDAO maintainers of the project (“POCs”) on their qualitative sense of the project’s value relative to the effort required
+NEXT STEPS
+Appoint a point of contact team
+Proposed bDAO x ThriveCoin squad: 0xJustice + Senad + 0xBear
+Responsible for coordination with ThriveCoin about requests (such as updates to listing contribution opportunities) and receiving product/feature updates
+This point of contact will have the ability to self-update BanklessDAO’s community page on the ThriveCoin web app, as well as appoint additional administrators
+Update the BanklessDAO Community page on the ThriveCoin web app if/as needed
+Set up and finalize initial contribution opportunities
+Request any updates to the starting set of contribution opportunities (these are opportunities whose completion is publicly visible)
+Provide access to the Integromat Discord bot to join BanklessDAO’s Discord – this will enable ThriveCoin to recognize Discord opportunities – and to other key platforms
+Coordinate with ThriveCoin to finalize the set of contribution opportunities and their conditions
+Announce the initiative and encourage participation
+Use the appropriate channel(s) to notify that any voters on the BanklessDAO Snapshot space (past and future) can be automatically rewarded for their contributions if they connect their wallet to ThriveCoin
+Publicly post in the appropriate channel(s) when key changes or new opportunities occur
+SQUAD BACKGROUND
+bDAO ThriveCoin Squad
+0xJustice - GSE. bDAO Constitution Lead. Website Project Champion. PM Guild co-founder.
+Senad - DAOlationships Guild Coordinator; Bankless Research PM; bDAO Core Contributor.
+0xBaer - Governance coordinator SA DAO and Bankless IMN
+ThriveCoin Contact
+Merlin - Chief Product Officer with ThriveCoin; 10 years leading community engagement-based product development across industries; worked with multiple national governments, nonprofits, and multilaterals on customizing and adapting technologies for social impact. I’m interested in this proposal because it allows the product I’ve been helping build to reach and benefit its intended audience. I also hope this will provide valuable feedback on how the product can continue to be improved to provide as much on-the-ground value as possible.
+POLL
+Do you want to move forward with this contributor recognition program?
+Yes - LFG!!
+No - Bad Idea
+Maybe - Needs revision (Please comment)
+43
+voters
+Show results
+1 Reply
+6

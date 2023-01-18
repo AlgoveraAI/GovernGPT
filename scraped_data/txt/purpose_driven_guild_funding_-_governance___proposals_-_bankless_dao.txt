@@ -1,0 +1,89 @@
+Authors: @jengajojo, @Bananachain
+Summary:
+Pivot from purely member based guild funding to funding guilds based on their ability to fulfil their mandate as written in the constitution:
+“Guilds are professional associations of subject matter experts focused on onboarding, education, and community building.”
+Reduce BANK emissions (= sell pressure) by capping BANK emissions to 5.5M BANK/season from S7 for guild funding
+Guilds may retain their residual budget from S6
+Introducing parameters enabling each guild to influence its budget level individually.
+Background:
+Prior to the guild vs departments split, all guilds had to be funded in order to keep the DAO functioning. But with the formation of departments as mission critical infrastructure, guilds can now be held accountable for their function in the DAO.
+Guilds do not, and have so far not been expected to, produce any significant revenue or have any other accountability mechanisms. At the same time, there is no sustainable way which the DAO has found to replenish BANK back to the treasury. This means that if we were to fund guilds perpetually, we’d need to inflate the BANK token, and without a mechanism to create sustainable buy pressure, pretty soon everyone’s bags will go to zero.
+Another challenge we face in the DAO is a system which allows us to determine which guilds are truly needed to unlock our mission and which guilds mission necessity has ceased.
+One such attempt at applying guild performance metrics was to evaluate active guild membership - a metric not applied to departments or projects - to take account of their primary educational mandate. The Member based guild funding spec 1 used last season has highlighted some challenges in the way guilds express their active members and the resulting bloat in budget. It’s difficult to establish a blanket metric for active members DAO wide since every guild has different objectives and priorities. Additionally some guilds chose to split into departments AND guilds instead of choosing one of them, avoiding a clear focus.
+This post attempts to further build on the intentions of the previous strategy while holding guilds accountable to the mandate as written in the constitution.
+Specification:
+Rational for Guild funding max allocation:
+On average in the last 5 seasons, guilds have received 7.34 M BANK/season
+According to the GSE [here] 3, 25% of BANK on average, has been leftover each season. So we suggest that the average maximum guild remuneration be reduced by 25% as compared to S6.
+Thus we arrive at max allocation of 5.5M BANK/season for guild funding
+General Funding Strategy:
+Allocate 5.5M BANK between onboarding, education and community building.
+What is the purpose of guilds according to the constitution?
+“Guilds are professional associations of subject matter experts focused on onboarding, education, and community building.”
+1. Allocate 33.3% guild funding for Education in seasonal guild funding
+For the scope of this season we propose allocating 33.3% of the overall available guild funding budget of 5.5 M BANK in equal portion to all guilds who have applied for seasonal funding and evaluate back in S8.
+Below are some guiding questions and thoughts for the guilds to structure their education programs for S8
+Education on what?
+Do we need to hold the same education sessions again and again each season?
+Do we need to spend BANK to create education sessions for things which already have tons of resources online? Eg: Coordinape, Gnosis safe, snapshot etc…
+What is the qualifying criteria for assessing if a member is educated or not?
+Guilds educate members on how to work in banklessDAO and how to forward its mission. At the same time, many DAOs across web3 use similar models on how they work and use similar tools, hence guilds need funds to ensure that members have the necessary skills and knowledge to forward the banklessDAO mission and that the educational session/course pool is up to date
+How to potentially measure and fund this?
+Measure the number of new members who have passed guild tests on different topics and award guilds a fixed price for each member (guilds can be asked to show on chain proof (such as an Otterspace badge) of the same via an academy course or something on these lines)
+Measure the number of new courses or sessions created by each guild and award a fixed price for the same
+Disclaimer: The measurement criteria listed above is work in progress and will not affect guild funding for S7. As mentioned earlier the 33.3% guild funding will be equally divided amongst guilds. Meanwhile if you have feedback please add comments below
+2. Allocate 33.3% guild funding for Onboarding in seasonal guild funding
+According to the constitution, banklessDAO achieves its mission via projects (not via guilds). There is little point onboarding members to the DAO if they ultimately do not contribute to the mission i.e. to projects. Hence, we should measure the success or failure of guilds based on their ability to successfully onboard members onto projects. With this perspective in mind, a member is onboarded truly to banklessDAO when they also are able to contribute to departments or projects and not guilds alone. Hence a part of the guild funding should at least be partly derived from the ability of a guild to fulfil specific talent needs of projects and departments.
+How to measure and fund this?
+Ask each project and department which guilds they receive talent from in their seasonal forum posts. Each project and department can mention up to 3 guilds
+Multiply each mention with a fixed bank multiplier
+Formula for BANK multiplier:
+33,3% of the earmarked guild funding / (total mentions from all projects and departments) = BANK multiplier
+Example on how mentions are calculated:
+Bankless Academy Proposal
+Top 3 Guilds
+Developer Guild, 2. design guild, 3. marketing Guild)
+EPA
+Top 3 Guilds
+1.Writers Guild, 2.Marketing Guild, 3.Design guild
+Total mentions:
+Marketing Guild X 2 ,Design Guild X 2, Developer Guild X 1, Writers guild x 1
+Total mentions: 6
+3. Allocate 33.3 % guild funding for active community members in seasonal guild funding
+In the previous season, we were able to get a signal on the number of active members in each guild. We want to build on top of this stats calculation exercise for the DAO to be able to generate and foster active community members as being experts in each guild.
+Each guild will calculate the active members based on the consensus of this retrospective 2
+How to measure and fund this?
+Ask each guild to publish a list of active community members each season
+Multiply active community with a fixed bank multiplier
+Formula for BANK multiplier:
+33.3% of the earmarked guild funding / (sum of active community members) = BANK multiplier
+Sample calculations here 2
+Please feel free to fork the table and play with your own numbers and give us feedback
+Financial Implications
+The max allocation for guilds in seasonal funding will be capped at 5.5M BANK until adjusted by a new forum proposal.
+Each project and department mentions max. 3 guilds which guilds they receive talent from in their seasonal forum posts. Multiply each mention with a fixed bank multiplier according to the formula
+33,3% of the earmarked guild funding / (total mentions from all projects and departments) = BANK multiplier
+Allocate 33,3% of the earmarked guild funding equally between guilds in S7 and evaluate in S8 on better ways to quantify education.
+Each guild mentions the number of active community members in their seasonal proposals. Multiply active community members with a fixed BANK multiplier
+33,3% of the earmarked guild funding / (sum of active community member) = BANK multiplier
+Frequently asked questions?
+Can a project/department mention a guild more than once?
+No
+How do guilds allocate funding internally?
+It is up to each guild to decide how they want to structure their affairs internally as long as the structure promotes fulfilling the guild mandate as written in the constitution.
+What happens to active members?
+Active members is now active community and those calculations will be used to identify the amount of active members in each guild
+Next steps:
+Collect feedback from the community
+Update project, department, guilds proposal template
+Define a standard project assessment framework
+POLL
+VIBE CHECK on the proposal?
+Yes, LFG
+Cool, but I have some comments
+No way!
+36
+voters
+Show results
+2 Replies
+4

@@ -1,0 +1,70 @@
+Title: bDIP-03: Dynamic forum quorum for bDIPs
+Draft Author: jengajojo
+BDIP SUMMARY
+The static forum quorum requirements set in the constitution do not reflect the activity of active contributors in the DAO which consequently leads to governance frustration. Instead, the suggestion is to adopt a formula based approach which can evolve as the activity in the DAO evolves.
+BDIP BACKGROUND
+Recently we saw in bDIP-02: Coordinated timings across bDAO 1 that in times when there are less active contributors, it was really difficult to reach quorum for something relatively simple. The quorum thresholds were defined in the constitution in a time when there were many more active contributors. The challenge with a static threshold is that it cannot reflect the number of active contributors in the DAO at any given time, this is especially relevant for an industry such as crypto where the attention can vary significantly between the bull and the bear phases.
+BDIP SPECIFICATION
+How can we address this challenge?
+Option A: Update thresholds at regular intervals
+This option allows contributors to suggest new thresholds based on manually sensing activity in the DAO. The con is the bDIP needs to reach a threshold each time for an update and there may be several updates required each year which costs a lot of admin overhead. Hence I do not recommend this option
+Option B: Update thresholds based on formula
+This option requires less changes as compared to option A if the formula allows for thresholds to be set dynamically based on activity within the DAO. Overall this reduces the admin overhead.
+Current Form
+Governance update Forum quorum Approval % Timeline
+Major 63 70% 1 week
+Minor 51 70% 1 week
+Patch 40 70% 1 week
+Proposal
+Modify the quorum table
+Governance update Forum quorum Approval % Timeline
+Major 30 Day Average + (0.2 x 30 Day Average) 70% 1 week
+Minor 30 Day Average 70% 1 week
+Patch 30 Day Average - (0.2 x 30 Day Average) 70% 1 week
+Add the following items are criteria for the above in the constitution
+- The dataset for 30D avg starts 1 day prior to the date of posting a proposal.
+- All forum quorum calculations are rounded to the nearest whole number
+- Only polls which have been live for atleast 7 days should be taken into account
+- If a forum post includes more than one poll, each poll should be considered a separate datapoint
+- 30D Average formula = Sum of votes / number of independent polls
+Modify the bDIP proposal template and add the following:
+Date posted Post title #votes
+ddmmyyyy Title n
+Title Value
+Major m + (0.2 x m)
+Minor m = 30D avg
+Patch m - (0.2 x m)
+EXPECTED IMPACT
+Makes forum quorum more dynamic and reflective of the latest activity in the DAO
+ANALYTICS
+Here is an example of this formula applied for the current proposal.
+Date posted Post title #votes
+02-12-2022 Snapshot voting - Implement Shielded Voting 53
+14-12-2022 Weekly rollup recap video series 38
+12-12-2022 Purpose Driven Guild Funding 29
+06-12-2022 Proposal to re-create the Education Guild Organizational Unit within the DAO 29
+25-11-2022 Marketing Department Season 6 - Content Coordinator Re-election 58
+Title Value
+Major 50
+Minor 41
+Patch 33
+NEXT STEPS
+Update Constitution
+Update bDIP Format
+WORKING GROUP BACKGROUND
+jengajojo: bDAO contributor involved in governance and project management
+Polls
+1. What type of update is this?
+Major
+Minor
+Patch
+24
+voters
+Show results
+2. Modify forum quorum to a formula based approach as detailed in this proposal
+Yes
+No
+24
+voters
+Show results
+1

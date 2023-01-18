@@ -1,0 +1,159 @@
+BanklessDAO has always been subdivided; decentralized organizations must be.
+Guilds & Projects - each with a separate multisig and governance process (albeit inspired or shared with others) - are critical subdivisions of the larger DAO. Without the distribution of operations, governance, and funding, we would be bottlenecked with centralization.
+These original subdivisions are the inspiration for subDAOs.
+The term has been casually circulated, but (imho) has not been well discussed and too many assumptions have been made for it to be an effective organizational term.
+On the shoulders of Guild & Projects, let’s evaluate “what is a subDAO”, why it matters, how we can harness its power, and understand the evolution coming for BanklessDAO.
+Additional reading: BanklessDAO subDAOs and subTokens 12 (bDAO forum, August '21)
+Terms
+subDAO - The “child” DAO
+superDAO - The “parent” DAO
+Requirements of a subDAO
+While some things may still be discussed or otherwise exist on a spectrum, there are some fundamentals that we need to define. Bonus points if we can tangibly define them on-chain!
+It has a separate address
+The first and clearest requirement of a subDAO is that it exists as a separate address from the superDAO.
+It’s probably a multisig
+Most often this is represented as a multisig treasury, but advanced contracts that allow a group of people to control assets in various ways would be included here as well.
+It could be a smart contract
+On the back of a simple multisig, a subDAO could be defined by an advanced DAO smart contract.
+It’s not an EOA
+Most likely, a subDAO is not an Externally Owned Account (EOA) aka a personal address.
+It uses the superDAO’s token
+Using the superDAO’s token is a clear indication of organizational alignment.
+It might have its own tokens
+Whether the subDAO creates its own ERC20 or NFT for organizational use is an optional choice that should not affect the relationship. Naturally, the superDAO & community sentiment may drive this opinion.
+It might have a minimum token amount
+The superDAO might require the subDAO’s treasury to have a certain minimum number of tokens or even a certain percentage.
+It might have to stake its tokens
+Staked tokens that could be burned could be an effective alignment strategy for the DAOlationship.
+It might vote in the superDAOs affairs
+A subDAO might use its tokens to vote, depending on how the superDAO views this.
+It says it is
+If a subDAO declares its intent and defines itself as a subcomponent of the superDAO’s community, then it is - especially if it’s in good faith and they’re determined to drive the values and mission of the superDAO forward.
+Community participation in DAOs is mostly open - any person or group can declare itself a community member.
+It is aligned
+There must be a degree of economic and incentive alignment. This is easily achieved through the sharing of a base or native token, but can otherwise be achieved through more intricate mechanisms (derivative paring, etc).
+It must meet membership guidelines
+While DAOs are mostly open, most have minimum terms for “membership”. This area may become more developed as superDAOs evolve a collection of subDAOs and define subDAO membership rules.
+Ex: BanklessDAO has a 35,000 BANK membership requirement for Discord access (but anyone can vote in Snapshot). A subDAO may be required to have 35,000 BANK in the treasury or possibly more to certify the subDAO’s relationship.
+It may inherit membership guidelines
+If the superDAO requires a threshold of tokens to be a member, then the subDAO may also be forced to require that threshold for its membership.
+It might have a constitution
+Where would the declaration of the relationship happen? Probably a constitution signed by the members.
+This requirement is becoming more and more obviously critical in the overall management of expectations between subDAOs and more.
+It might need approval from the superDAO
+It’s one thing to declare intent, but another to be accepted by the superDAO.
+It might pay taxes, tithes, or fees to the superDAO
+Depending on the terms, a subDAO might pay towards the community to remain in good standing as a subDAO.
+It might get special treatment
+If the subDAO is accepted by the superDAO, it might get priority access to the resources of the superDAO.
+This could include grants & funding, software support, talent, discord access, etc.
+Extra Thoughts
+A subDAO could be polyamorous
+The multisig could align itself to multiple superDAOs, so long as it meets the criteria to do so for each.
+The subDAO might need its own space
+It might have its own Discord server, social handles, etc.
+Example subDAOs
+Dev Guild
+This core talent-organizing unit of BanklessDAO has its own multisig, its own roles & governance, uses BANK as a treasury asset, and has deep alignment with the BanklessDAO.
+Has a separate address
+Is a multisig
+Uses the superDAO’s token
+Says it is
+Inherits membership requirements
+Approved by superDAO
+Gets special treatment
+Native in superDAOs Discord
+Special grants
+DEGEN
+This public product was created within BanklessDAO and gets grants as well. It has both its own Discord and internal channels in the superDAO. It would eventually pay some of its revenue to the superDAO as well.
+Has a separate address
+Is a multisig
+Uses the superDAO’s token
+Says it is
+Pays a percentage of revenue to BanklessDAO
+Inherits membership requirements
+Approved by superDAO
+Gets special treatment
+Native in superDAOs Discord
+Special grants
+Bounty Board
+This public product was created within BanklessDAO and gets grants as well. It has internal channels in the superDAO. It would eventually pay some of its revenue to the superDAO as well.
+Has a separate address
+Is a multisig
+Uses the superDAO’s token
+Says it is
+Pays a percentage of revenue to BanklessDAO
+Inherits membership requirements
+Approved by superDAO
+Gets special treatment
+Native in superDAOs Discord
+Special grants
+DAO Punks
+This spin-out NFT community has deep roots in the BanklessDAO, pays % of revenue back to the DAO, and grants special features to BANK token holders.
+Has a separate address
+Is a multisig
+Uses the superDAO’s token
+Says it is
+Pays a percentage of revenue to BanklessDAO
+What other examples can we use to validate our assumptions?
+Bankless Brazil
+Content Gateway
+The Rug
+Why does this matter?
+Increasingly (from my current viewpoint) we need to manage expectations in our projects, our guilds, and the DAO as a whole. We have journeyed 2+ seasons on amazing trust and now we are seeing some growing pains as we push into even newer territory.
+Coordination at scale requires a distributed organization. Distributed organizations require certain expectations to be set to work together effectively.
+By defining subDAOs, we enter a new era of organizational design - one where the lines are well defined and the rules of engagement are clear.
+In every subDAO, we need to answer questions like:
+How do we define membership?
+How are conflicts resolved and escalated?
+What are our financial policies on revenue & taxation?
+How are elections handled?
+What is the contributor rewards strategy?
+How does a new token fit into the greater landscape?
+How is ownership of IP defined?
+And the DAO as a whole must be able to answer:
+How do we properly create new projects?
+How do we work together across different communication platforms and duplicate Discord servers?
+How can the Grants Committee effectively evaluate projects?
+How do we know where the DAO ends?
+These questions need answers and I believe that building upon the subDAO frame of reference is a great way to approach the problem.
+In that vein, I see the need for firmly defining subDAOs with constitutional documents that must answer these questions.
+Templatizing subDAOs
+Imagine the following:
+You are new to the DAO and you join the Developers guild. When you join, you are sent a Constitution that outlines the following items:
+The mission of the Guild
+Minimum requirements for membership
+Membership rewards policy (UBI, Coordinape)
+Election framework
+Conflict resolution policy
+Revenue & taxation policy
+Ownership Framework
+You’d have an extremely clear view of the structure and boundaries that this organization defines itself within.
+Now imagine you’re on the grants committee and are evaluating dozens of projects for funding. Wouldn’t it be much clearer to understand the shape and intent of the project if it had listed all of those policies?
+As a GC member, it’s much easier to categorize a project that “sends all revenue to DAO treasury” vs one that “intends to use funds as seed capital and use revenue for the project team”.
+Let’s take it further.
+In the same vein as an LLC or 501c3 organization (in the US), we can create specific codes for the agreements of a subDAO as shorthand for ease of use and even compliance.
+Election Framework: EF-7
+Conflict Resolution Policy: T-800
+Taxation Policy: T-1
+Ownership Framework: O-600
+Not all subDAOs could use such shorthands for everything, but my instinct tells me that there is decent overlap and this could offer a number of benefits.
+Quick spawn new subDAOs with templates
+a. “Non for profit, internal subDAO”
+b. “Revenue seeking, external product”
+Standardized & fast evaluation for Grants Committee
+a. “Oh, this Conflict Resolution policy is the T-800, I’m familiar with this and approve.”
+b. “This subDAO does not have a defined Conflict Resolution policy, we shouldn’t fund it.”
+c. “Our budget states that 30% of funds must go to Taxation Policy T-1 subDAOs.”-
+d. “This subDAO’s contributor rewards policy & membership policy clearly show the need to fund 200K BANK coordinape round”
+Let’s take it FURTHER!
+Perhaps for each of these line items, we can standardize the entire unit and roll up the common choices to a classified subDAO system.
+Maybe a Guild is an “S-1” subDAO, which would be the same way of saying it has the agreement list as defined above. Maybe even subDAOs as CODE!
+Ultimately, a classification system forces us to answer core questions about our subDAOs and the nature of how we are all connected. Acutely defining our values and processes will ultimately allow us to manage expectations and work together on top of a solid foundation.
+What now?
+We need to discuss and come to some consensus on what is and is not a subDAO.
+From there we would begin evaluating each of the facets of a subDAO and if we could even templatize them - this could eventually lead to the classification system after a long effort.
+This is the beginning of a long road to understanding what we are and how we work together going forward.
+I’m happy I get to walk it with you all.
+DAO strong
+9

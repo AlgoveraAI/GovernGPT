@@ -1,0 +1,54 @@
+Author: @jengajojo, @Bananachain
+contributors: @tesa_fc
+Summary:
+Project Assessment Framework is a methodology which the grants committee can employ to conduct quantitative and qualitative analysis on project proposals and assign a risk score. This risk score helps the GC to make objective decisions on grant requests.
+Specification:
+The assessment framework consists of multiple questions grouped in chapters (criteria). A project reviewer would use score guidelines to assign a certain value to each question. All the answers given by the different project reviewers to one question are then aggregated to generate an average score. Finally all these averages scores together are averaged again and the final project score generated. The chapters themselves are currently not weighted.
+What is a risk score?
+A risk score is a numerical representation of an inherent project risk. The risk score is derived from weighing and averaging qualitative or quantitative evaluations. A score of 1 means the project is least risky under any given criteria and a score of 5 means that the project is most risky under any given criteria.
+What is a scoring guide?
+A scoring guide describes objective and subjective metrics to be used by the reviewer when scoring. These assist the reviewer in making unbiased decisions.
+How are projects scored?
+At least 4 GC members need to evaluate each project and fill out the score card.
+Recommendations based on cumulative score
+Risk Score non-binding recommendation
+Score <= 2 Accept the grant request
+2 < score <= 3.5 Discuss further/negotiate KPIs or total ask/ restructure project plan etc
+Score >3.5 Deny the grant request
+Criteria
+1. Team
+Champion Membership level
+Champion, previous experience (within bDAO or outside)
+Previous consensus attained by the champion
+Number of members in the team
+Team previous experience (within bDAO or outside)
+How well organised is the team? Does it appear “healthy”, dynamic, good vibes and organised judging by their notion, discord, internal and external communications etc?
+2. Ask
+Type of Ask
+Total Ask
+3. Alignment to banklessDAO mission
+How well does the project align with the mission?
+How ambitious is the mission?
+How many unique anti-sybil addresses can this project create?
+4. Competitor Analysis
+How many other projects in web3 have a similar product?
+How effective is this product/service at generating value?
+To how many existing projects/departments/guilds does this initiative add value?
+How well has the project identified the problem that it is trying to solve?
+Is the project/product/service unique and/or cutting edge?
+5. Roadmap
+Does the team have a roadmap or milestones?
+Do the project roadmap or milestones appear sound?
+Has the team delivered any of its milestones?
+Is there any third party funding envisaged in the roadmap or milestones?
+6. Return on investment
+Does the project offer potential for any short term utility to bDAO?
+Does this project offer any potential long term return for bDAO?
+7. Repeat ask
+Does the team conduct retrospectives and if yes how frequently?
+Has the team implemented the outputs from their retrospects?
+Is there a positive change in the month over month KPI metrics?
+Is the project representing the bankless brand adequately?
+For how many seasons has the project asked for funding?
+A sample grid can be found [here 3]. Some Grants Committee members also participated in an exercise to test how this would work for the last proposal we looked at, which can be found in the linked sheet above.
+1

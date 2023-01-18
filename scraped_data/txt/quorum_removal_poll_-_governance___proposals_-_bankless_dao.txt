@@ -1,0 +1,9 @@
+This is a proposal to remove the quorum requirement for Snapshot votes and return voting standards to a simple majority. A new quorum requirement may be set following this proposal.
+Background on the quorum requirement issue can be found here. 20 Quorum was proposed in this Firming Up Governance 6 post on November 15 and voted in via this snapshot vote 8 on December 31.
+The snapshot vote of this must reach the 36.8M BANK Quorum in order to be enacted.
+Remove the 36.8M BANK Quorum
+Keep the 36.8M BANK Quorum
+96
+voters
+Vote now!
+Show results

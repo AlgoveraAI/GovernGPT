@@ -1,0 +1,49 @@
+Guest Pass Temperature Check
+The Summary
+This proposal is a method for us to gather the necessary consensus and sentiment in order to create a bDIP
+Currently our Guest Pass has unlimited renewals and it limits our ability to mitigate value extraction and raise the bar of commitment in the DAO
+A limited Guest Pass will create speculative and tangible benefits for the DAO
+Due to these constraints and potential benefits we must come to an agreement on the new timeframe and amount of renewals for a revised Guest Pass
+The Problem
+Our much-beloved Guest Pass system has a fatal flaw: it allows people to sidestep our member leveling system, which greatly reduces the utility of holding BANK, incentivises “value-extracting” contributors to join (i.e. those who come for BANK, sell it, and leave), and disincentives “value-creating” members to stay (i.e. those who believe in the mission and want to make the token worth more over time).
+This is something that has been brought up by Genesis Members 4, GSEs 3, and many 3 others 1.
+It’s time we did something about it.
+The Solution
+The issue with the Guest Pass is that it is INFINITELY RENEWABLE. This one property is what causes all of the issues mentioned above. To fix the problem, we need to limit the Guest Pass. If we limit it too much, however, we could lose potential contributors because they were unable to accrue enough BANK or find a place in the DAO where they feel the vibes. We present the following solution:
+Extend Guest Pass time frame
+Allow Guest Pass to be renewed a limited number of times (i.e. 0,1 or 2 renewals)
+Introduce a Season Pass which gives people XXs weeks of membership (i.e. Discord access and potential Snapshot governance rights) for XXXX amount of BANK paid or time-locked (To be determined in follow up proposal(s) – @bpetes @icedcool)
+The Benefits
+The limited Guest Pass will allow new contributors to join, engage, and figure out whether or not the BanklessDAO community is for them. It will give a time-based incentive to create relationships with members, figure out ways to earn BANK, and ultimately determine whether they would like to become a larger part of the DAO. This will give a better experience for new members because they will feel a slight push to explore the value that the DAO can bring to them. Additionally, it will lead to a better experience for current members because there will be a higher bar of commitment for everyone in the DAO.
+Furthermore, limiting the Guest pass can create speculative demand for BANK due to the nature of having a large gated community. While speculation can be seen as bad in some economic situations, due to the social nature of our DAO, it is a lever for us to pull in order to incentivise more capital and contributors to join our system.
+The Next Steps
+Reach out to other members of the DAO to solidify specification and constraints of limiting Guest Passes and introducing Season Passes, as well as gathering teammates
+Ops Department to figure out Discord constraints and updating DAO-wide documents
+Dev Guild to figure out technology specs (incl. cost)
+Treasury Department for alignment on their tokenomics efforts
+Education Department for updating onboarding sessions/documentation
+Figure out a budget and team for the above
+Get consensus on the plan
+Go to Grants Committee for funding
+Implement and roll out
+The Polls
+How long do you think the Guest Pass should last?
+4 weeks, no renewal
+4 weeks, 1 renewal (8 weeks total)
+4 weeks, 2 renewals (12 weeks total)
+I don’t think the Guest Pass should be limited
+Other (I will comment below)
+62
+voters
+Choose up to 2 options.
+Vote now!
+Show results
+Do you agree to limiting Guest Passes using the results of the above poll and exploring the concept of a Season Passes?
+Yes!
+No! (I’ll leave a comment explaining why)
+It’s complicated (I’ll leave a comment explaining why)
+57
+voters
+Vote now!
+Show results
+4

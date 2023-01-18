@@ -1,0 +1,94 @@
+Title: Founding a Project Management guild 2.0
+Author: 0xRene
+Squad: links, Swol Chasse, DSide, fi_bo, Bo I Bankless, 0xJustice
+Date Created: 5th April 2022
+Date Posted: 10th April 2022
+FIND US HERE IN BDAO DISCORD:
+Discord
+Discord - A New Way to Chat with Friends & Communities 21
+Discord is the easiest way to communicate over voice, video, and text. Chat, hang out, and stay close with your friends and communities.
+SUMMARY
+The Project Management Working Group proposes to found a project management guild (PM guild) within BanklessDAO.
+The mission of the guild will be: The PM Guild is the Mecca of web3 project management by providing project management education, excellent project management talents and thought leadership.
+The guild will provide talent to projects and serve as an upskilling base for project management in Web3. In addition, the PM guild will be the landing pad for new project managers in the DAO and the home base to all those project managers already working in the DAO thus addressing the need of the DAO for talent acquisition and long term retention.
+The guild will have some independent funding models and asks for additional funding from the Grants Committee of 220,000 BANK in Season 4.
+BACKGROUND
+Professional project management is a critical element of successful projects. Projects benefit from project management because it facilitates smoother execution, which leads to happier, more effective, focused teams. For the DAO, project management creates transparency on project progress. This can help reduce administrative work like Seasonal budgeting.
+With DAOs growing massively, the number and size of projects grows as well. Within bDAO as well as in the DAO space as a whole, project management skills are scarce. Bankless Academy for example had a vacant project manager position for months.
+twitter.com
+steph 🤸🏻 hun3y.eth 7
+@cryptohun3y
+real talk: project managers are highly undervalued and underutilized in the DAOspace. 
+
+we need more contributors who are excited to steward pop-up and emerging squads, teams, working groups, etc 
+
+workflow wizards where you at 🧙
+1:45 AM - 4 Mar 2022
+133
+9
+At the same time we do not know a lot about our project management capabilities in bDAO. There is no natural home for project managers. There is no structural onboarding specific to this skill set. And neither do we have data about who our project managers are nor are they in any way curated. This means that projects need to rely on word of mouth to find project managers.
+The project management working group was founded in Q4/2021 to understand more about the needs of projects in the DAO, to create best practices and to support projects in questions of project management. With bDAO growing, we believe there is a need to have a more structured approach to project management. This will be a critical cornerstone to the future success of our projects.
+We believe this is best achieved through a project management guild.
+MISSION & VALUES ALIGNMENT
+BanklessDAOs mission of creating user-friendly onramps for people to discover decentralized financial technologies can only be facilitated through effective delivery of its projects. Professional project management is a vital component for the success of projects and therefore directly serves to accomplish our mission.
+SCOPE OF WORK
+We believe that a project management guild will bring value for the DAO through direct services but also indirect effects. While direct effects can be priced easier and can hence be used to fund the guild, indirect effects take more the character of common goods and therefore a part of the funding will be requested from the Grants Committee. The following section outlines the value the PM guild will bring to the DAO and how funding could be achieved. A more precise planning per Season is part of the section SPECIFICATION of this proposal.
+How does a project management guild create value?
+Talent curation, retention and cohesion - keeps the DAO alive
+Place that attracts and binds project managers to the DAO through quality signaling
+Homebase team of likeminded for project managers working across projects in the DAO
+Space for networking (also outside of the DAO through external speakers)
+Talent pool of curated project managers for DAO projects
+Coordinated and structural upskilling of project managers
+Cross pollination of professionals in the PM space
+→ Potential funding through paid project manager recruitment requests.
+→ Potential funding through GC. It is a public good that the DAO actually attracts and retains project managers. This stabilizes projects and increases the surface of luck that the invested BANK has a positive ROI.
+Success enabler - makes the DAO successful
+Link between projects to reduce silos through regular exchange with other project managers. This way we can identify common challenges in the DAO and reduce the costs of developing solutions multiple times in parallel.
+Success amplifier tool of the DAO for projects in a critical phase
+Safe space for transparent conversations about projects
+→ Potential funding through project management consulting engagements within the DAO (like Retrospectives).
+→ Potential funding through specific project management consulting engagements for Bankless consultancy (e.g. giving a new project manager in a DAO just a crash course on the best practices or shadowing them for some time).
+Center of competence for project management - makes the DAO important
+Center of competence for web3 project management in the DAO space
+Knowledge base for projects within the DAO
+Creation of guardrails (templates guidelines) for project management in the DAO
+→ Potential funding through web3/DAO project management certificate. This could be just a two days course that coaches about the differences between traditional project management and project management in the web3 space. Maybe this could also run under the brand of Bankless consultancy or even a traditional project management certifier.
+SPECIFICATION
+In Season 3, the PM working groups main service to the DAO were agile Retrospectives. We performed eight Retrospectives with the main projects of the DAO and received excellent feedback from participants.
+In Season 4 we want to keep offering Retrospectives to projects, which are funded through the projects themselves. A poll resulted in eight projects being interested in this service. In addition, we want to build services in two work streams:
+Talent
+This workstream will develop methods to create transparency on project managers in the DAO, their skills and what is needed to retain them for the DAO. It is successful, if:
+We have a way to guide new joiners to the project management guild
+We have a method to give the DAO transparency, who our project managers are
+We have a method to signal the skills and experience of each project manager to the DAO.
+We defined a pricing logic for talent recruiting from PM guild to projects
+Education
+This workstream will develop a model to promote education of project managers within
+the DAO as well as explore options to offer a project management certificate as external
+source of funding. This workstream is successful if:
+We have method to continuously train project managers
+We have performed an analysis of potential ways to create revenue through offering a project management certificate. The analysis should outline a realistic timeline, the prerequisites that are needed to offer this service and the main obstacles that need to be tackled.
+FINANCIAL IMPLICATIONS
+Funding request to the Grants Committee:
+Tl;dr: we request 220000 BANK from the Grants Committee.
+Aligned with the widely agreed forum proposal of SamanthaJ on a new funding model for guilds here, Guilds As Professional Associations: a new funding model 6, we are asking for 10000 BANK per active guild member. We define an active guild member as:
+having attended at least 50 % of all weekly calls.
+having engaged in at least one of our two work streams ‘talent’ or ‘education’
+having completed at least three small or two large item of our Kanban board during the Season
+As per this definition the PM guild has seven active members. We are assuming that this will grow in the coming Season by another four members. This means we request 110000 BANK for our members. Should the members count be below, the respective excess BANK will be returned to the treasury.
+In addition we request funding for three roles in the PM guild, the PM guild coordinator and the coordinators for the two work streams ‘talent’ and ‘education’. We assume that each of the roles will need three hours of work each week of the Season. We therefore ask for another 110000 BANK for these three roles.
+Self-funding through offering of Retrospectives as a service to the DAO:
+The PM team offers Retrospectives as a service to projects. Retrospectives are used in agile project management to continuously identify potential for improvement of the project. Retrospectives as a service have the advantage that the team including the coordinator of the project can completely focus on analyzing the situation and no one needs to worry about moderation, time keeping, documentation etc. This service is offered to projects for 6000 BANK per Session.
+SUCCESS METRICS OR KPIS
+The success of the two work streams of the PM guild in Season 4 is defined in the SPECIFICATION section of this proposal. In addition, we measure the success of the PM guild as a measure of retaining and growing active members of the guild (as defined in the section FINANCIAL IMPLICATIONS). We aim to have an increase of active members to the guild of 50% in Season 4.
+NEXT STEPS
+Renaming of Discord channel
+Formal funding request to Grants Committee
+I can work with the above post
+This needs fundamental rework
+45
+voters
+Show results
+1 Reply
+4

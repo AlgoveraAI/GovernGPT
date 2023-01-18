@@ -1,0 +1,23 @@
+Constitution & bDIP Standard (Part 2)
+Draft Authors: 0xJustice
+Working Group: GSE Team
+Two weeks ago the GSE group posted this proposal:
+DAO Constitution & Improvement Proposal Standard
+Governance
+DAO Constitution & Improvement Proposal Standard [bDIP-0] Draft Authors: 0xJustice Working Group: GSE Team SUMMARY Introduce a canonical consolidation and crystalization of our org structure and governance processes via the BanklessDAO Constitution & Community Handbook. Introduce a change management process via the BanklessDAO Improvement Proposal (bDIP) template designed specifically for making changes to the above constitution. BACKGROUND Our current org structure and governance process…
+The intention was to validate the vision and gather feedback on readiness. Many of you responded to the call and we are forever thankful! We have responded to and resolved tons of questions and concerns shared both in the original forum post and the constitution doc.
+Now that all of these changes and all requested refinements have been made, we are kindly asking everyone to again review the constitution and speak to its current readiness.
+Please keep in mind that this is just a 1.0. We can and should be always improving, expanding, and clarifying the doc. Perfection is the enemy of progress. We all want to do some things differently but this is the time to capture the current structure and operations.
+Let’s get this established as a baseline so we can start the improvements we all want to see!!
+The docs:
+BanklessDAO Constitution & Handbook (June 28th) 67
+bDIP Template 41
+Poll 3 - Readiness (Part 2)
+Can we adopt the current Constitution (v0.1.0) and bDIP template as it stands now? (June 28)
+Yes - It’s ready for us to start using
+No - It’s not ready
+88
+voters
+Show results
+1 Reply
+5

@@ -1,0 +1,84 @@
+Title: Member-Based Guild Funding Retrospective
+Author: links
+Edits: Trewkat, Jameswmontgomery, Bananachain
+Summary
+Season 6 is the first season with member-based guild funding, and guilds had to determine their own criteria for active membership.
+Season 6 seasonal guild budgets were 3.7% higher than Season 5.
+Guild+Department spending could be as much as 15% higher if additional guild/department proposals pass in S6
+There were some big differences in the way guilds calculated active members, and the following criteria need consensus (see polls below):
+Activity time windows
+Meeting attendance
+Types of members
+Tracking Methodology
+Background
+The Season 6 seasonal funding round was the first round where BanklessDAO used member-based guild funding 4. As per the initiative, guilds chose whether or not to stay guilds (and be funded based on the # of active members they had) OR turn into departments (and be funded based upon detailed accounts from S5 and detailed budgets for S6).
+Also related to the initiative, guilds chose their own way to define “active members”, and shared their criteria, calculation, and list of active members with the DAO on their seasonal forum posts (you can find a list of forum posts here: S6 Funding Requests 2). The intent behind letting guilds set their own formula and “show their work” was to do an analysis after the fact to see what criteria, if any, should be used when determining “active members”.
+This post shares an analysis of member-based guild funding for Season 6 and attempts to gather consensus on the procedure for Season 7.
+Impact on Seasonal Budgets
+Here’s an analysis which compares S5/S6 budgets: Member-Based Guild Funding Analysis 3
+TL;DR
+For the 13 guilds, seasonal budgets went up 3.7% total
+2 Guilds split up into both a guild and a department. These groups were NOT included in seasonal funding, but if you assume their spending will pass, then seasonal budgets increased by 15%
+Active Members
+As expected, every guild had a different definition for “active members”. The intent from the originating Team Taxonomy forum post 3 was to let guilds define their own criteria for S6, and then use that criteria to come up with some DAO-wide criteria, if possible.
+What follows is a list of criteria that various guilds used, with polls to help us give direction for Season 7.
+Time Window
+Many guilds used the previous season (last 3 months) as the window in which to measure activity, but some guilds used the past two seasons (last 6 months) and some even used 6-week windows.
+Longer time windows will count more participants, but it did lead to some members who were not part of our Discord anymore or not having been seen in 5 months and still being counted as active.
+POLL: What do you believe that time window for activity should be?
+6 months (2 seasons)
+3 months (1 season)
+1 month (0.5 seasons)
+Each guild should continue to decide for themselves
+33
+voters
+Show results
+Meeting Attendance
+Many guilds included meeting attendance as a standalone criteria for active membership (i.e. attending meetings counts as contribution), while other guilds did not include meeting attendance at all.
+POLL: Do you believe that meeting attendance should be counted as active membership?
+Yes, meeting attendance by itself can be counted as active membership
+No, meeting attendance alone should not be counted as active membership
+Each guild should continue to decide for themselves
+43
+voters
+Show results
+Some guilds required a certain number of weekly meetings to be attended during their time horizon to be counted as active, while others counted anyone who has been to even a single meeting as active.
+POLL: How many weekly meetings should someone attend to be counted as “an active member”
+I don’t believe meeting attendance should count towards activity
+1 weekly meeting (i.e. 1 week of attendance)
+2 weekly meetings (i.e. 2 weeks of attendance)
+3 or more weekly meetings (i.e. 3+ weeks of attendance)
+Each guild should continue to decide for themselves
+42
+voters
+Show results
+Types of Members
+Some guilds limit active membership only to those who have the skills that the guild is gathering (i.e. only people who know at least 2 languages can be counted as active members for the Translators Guild). Others included those who have the skills and want to learn (i.e. those who want to learn project management can be considered active members of the PM Guild). Still others included those who have the skills, learners, and those who contribute in other ways (i.e. a designer who makes artwork for an article for the Writers Guild can be considered an active member).
+POLL: Who should be considered as active members of a guild?
+Only those who have a skill that a guild is named for should be counted as active members
+Those who have or are learning the guild’s skill should be counted as active members
+Anyone who contributes to a guild should be counted as active members, regardless of skill or desire to learn
+Each guild should continue to decide for themselves
+41
+voters
+Show results
+Tracking Methodology
+Some guilds submitted a list of active members which described what individual members had done to be considered active (i.e. mr_bankless is active because they completed 3 tasks and attended 3 meetings). Other guilds allowed members to self-report activity through Coordinape signups. Still other guilds didn’t include how they tracked activity, they just submitted a list of members that the Guild Coordinator considered active.
+POLL: How do you think guilds should be tracking activity?
+Guilds should track tasks/bounties/attendance to determine active members
+Guilds should allow members to “self-report” activity (i.e. via Coordinape signups)
+Guild Coordinators should be allowed to determine activity without any supporting documentation
+Each guild should continue to decide for themselves
+41
+voters
+Show results
+Next Steps
+Gather consensus from the questions above from BanklessDAO
+Submit this report to the Grants Committee
+Ask Grants Committee to refine the definition of active membership for Season 7 based on the community feedback
+What do YOU think?!
+It’s not all about the numbers. Member-based funding was intended to make seasonal budgeting easier than before, and to provide direction for guilds and departments.
+Was your guild budgeting process significantly easier or harder than normal this season? Did your guild feel more focused on finding new members? Why did you decide to become a guild or department?
+Remember: member-based guild funding is an iteration on our seasonal grants framework. It’s an experiment, so it’s really important to hear what the community thinks if we want to improve. Whether you liked or hated it, your opinion is important, so please leave any and all feedback you have below!
+1 Reply
+11

@@ -1,0 +1,237 @@
+Title: Bankless DAO x ConsenSys DAOlationship Proposal
+Authors: Erikson Herman [thetruth#1976], Matt Wright [mattwright.eth (,)#5268], Lucas Campbell [0xLucas#3124] + Senad Dilji [senad.eth #8782]
+Squad: Erikson Herman [thetruth#1976], Matt Wright [mattwright.eth (,)#5268], April Kim [ApK48#6673] + Lucas Campbell [0xLucas#3124] + Senad Dilji [senad.eth #8782]
+Date Created: July 25, 2022
+Date Posted: September 13, 2022
+SUMMARY
+ConsenSys is seeking the opportunity to onboard some of their employees to the Bankless DAO in order to help the DAO across various guilds and projects, allowing their employees to learn how to effectively explore DAO culture, experiment with external contribution in the DAO community and continuously provide value to the wider Ethereum ecosystem.
+As part of this DAOlationship proposal, ConsenSys would like to secure 50 Guest Passes for a 3 month period so that ConsenSys employees can have a trial period to experience the Bankless DAO prior to independently joining the Bankless DAO (i.e. purchasing 35,000 BANK tokens on their own) and potentially contributing if they should choose to do so.
+In addition, Bankless DAO will offer additional stewardship, educational materials and support to an agreed upon capacity and ConsenSys will allocate an equal value to this partnership.
+At ConsenSys, we encourage all employees to dedicate at least one full day every month to third party initiatives external to ConsenSys—namely, DAOs. This is an org-wide plan for employees to migrate to a contributor model, unbundle the mystic DAO ecosystem, and to “green pill” our people into becoming fully consumed by web3 culture.
+BACKGROUND
+ConsenSys is making this proposal because we are committed to bettering both the overall Ethereum ecosystem and the DAO ecosystem and we believe that a DAOlationship with Bankless will result in several positive outcomes for both parties as well as learning outcomes that the overall community will benefit from.
+Positive Outcomes - Bankless
+Bankless DAO will gain access to potentially valuable contributors who have the opportunity to contribute some of their working hours to third party initiatives external to ConsenSys—namely, DAOs.
+Bankless DAO may be able to increase the output of various guilds if these working relationships prove to be fruitful; in turn, this will increase the footprint of the Bankless brand
+Bankless DAO will have a direct line of communication with a steward from the ConsenSys team to ensure that all parties are satisfied with the relationship; specifically, it is less likely that contributors will disappear or become disengaged as can sometimes be the case with individual contributors
+Positive Outcomes - ConsenSys
+Allow ConsenSys employees to experiment with contributing to one of the most respected DAOs in the ecosystem
+ConsenSys employees will gain insight into how a well functioning DAO organizes and operates
+ConsenSys employees will be able to expand their horizons in terms of the types of work that can be completed in DAOs and potentially find new areas of interest (ex. writing / research / operations / marketing) that they may not be exposed to in their day-to-day work life
+Learning Outcomes - Both Parties
+Strengthen the DAO onboarding process for both parties and learn previously unrecognized insights about DAO onboarding
+MISSION & VALUES ALIGNMENT
+The Bankless DAO mission and values are as follows:
+Mission: We will help the world go Bankless by creating user-friendly onramps for people to discover decentralized financial technologies through education, media, and culture.
+Vision: To live in a world where anyone with an internet connection has access to the financial tools needed to achieve financial independence
+Values: Education, Integrity, Decentralized Governance, and Culture
+Education: We learn from each other. We seek to become a trusted guide that empowers people all over the globe to adopt decentralized finance by sharing accurate, truthful, and objective information.
+Integrity: We operate transparently and build trust through radically public discourse and financial auditability.
+Decentralized Governance: We put decision making into the hands of the collective. We create legitimacy through an environment where the best ideas win.
+Culture: We reward action and embrace risk. We empower our community to continually drive new initiatives by providing a space to self-organize and quickly move from idea to action.
+ConsenSys values are as follows:
+We act with kindness.
+We continually evolve.
+We cultivate community.
+We embrace innovation.
+We deliver impact.
+As you can see, there is a lot of overlap between the core values of both Bankless and ConsenSys. In particular, both parties aim to educate and onboard as many people as possible into the Ethereum ecosystem and to help all citizens of the world to evolve and embrace innovation.
+By partnering with ConsenSys, the Bankless DAO will be able to further their mission by gaining access to potential contributors who share these same values and who have a proven track record of delivering on projects across various departments (guilds).
+SCOPE OF WORK
+As part of this proposal, ConsenSys employees will be encouraged to identify 1-2 guilds and 1-2 work stream/active workgroups for their potential contributions during this 3 month trial period. In addition, it is highly encouraged that ConsenSys employees join the weekly calls of their selected guilds as well as the DAO-wide community call on Friday’s at 3pm UTC.
+Details on specific guilds and call times can be found below:
+Community Call
+Join the weekly community call on Friday 3pm UTC!
+Writers Guild
+Join the weekly calls on Monday 5:30pm UTC and contribute to one of the following workgroups:
+Newsletter team
+Editorial and Publishing Arm (EPA)
+Bankless Publishing
+Treasury Guild
+Join the weekly tokenomics department calls on Friday 2pm UTC and contribute to one of the following workgroups:
+L2 Migration Workgroup
+Bank Utility Workgroup
+Tokenomics Leveling Up Initiative
+Join the weekly treasury management calls on Wednesday 2pm UTC and contribute to one of the following teams:
+Guiding Principles Documentation (Governance) Team
+Accounting Reconciliation Team
+Investment Planning Team
+Project Revenue Recognition Team
+Research Guild
+Join the weekly calls on Monday 4pm UTC and contribute to one of the following active workgroups:
+Bankless Research
+DAO Sentiment Tracker
+TestDAO
+Operations Guild
+Join the weekly calls on Tuesday 6pm UTC and contribute to one of the following workstreams:
+DAO Cartography
+Coordinate
+NPS Surveys / NPS Implementor
+Community Calls
+Notion Administration
+Seasonal Planning
+Community Stewards
+Discord Administration
+GM.xyz | web3 native social media
+Marketing Guild
+Join the weekly calls on Thursday 6pm UTC and contribute to one of the following workstreams:
+External Marketing Campaign Team
+Content Creation on Social Media:
+Twitter
+Instagram
+Facebook
+Telegram
+LinkedIn
+TikTok
+Legal Guild
+Join the weekly calls on Thursday 3pm UTC and contribute to one of the following workstreams:
+Decentralized Law
+Tax Corner
+Whitepaper
+Crypto Legal Observations
+DAO legal entity
+Education Guild
+Join the weekly calls on Sunday 3pm UTC and contribute to one of the following workgroups:
+Administrator Workgroup
+Education Workgroup
+Cross-Guild Coordination & Promotion Workgroup
+Talent Coordinator Workgroup
+Design Guild
+Join the weekly calls on Wednesday 4pm UTC and contribute to one of the following projects:
+Community Call POAP design
+Instagram Strategy & Design for BanklessDAO
+Decentralized Arts Weekly Spotlight
+DAO Heat Design Contest
+Design Guild Weekly Newsletter
+Bankless Designers - The Drawing Board Website
+External Marketing Campaign Team
+DAOlationships
+Join the weekly calls on Monday 7pm UTC and contribute to one of the following workstreams:
+Focused Demos & Presentation
+AMA Special Ops
+PMA (Pitch Me Anything) Workgroup
+External Marketing Campaign Team
+Developer’s Guild
+Join the weekly calls on Monday 6pm UTC and contribute to one of the following projects:
+Bankless Academy
+Bankless Checkout
+Bankless Loans
+Bounty Board
+DAO Website
+DEGEN
+Dev First Quest
+Dev Guild - Knowledge Session
+Gov Bots
+Mad Hatter - The BanklessDAO Discord Bot
+Mobile App/Content Gateway
+Solidity Training
+Audio-Visual Guild
+Join the weekly calls on Wednesday 7pm UTC and contribute to one of the following initatives:
+AV Guild Services Workgroup
+External Marketing Campaign Team
+Youtube GQ Team
+Podcast Hatchery
+BanklessHQ Clips
+Analytics Guild
+Join the weekly calls on Thursday 2am UTC and contribute to one of the following workstreams:
+DAO Dash
+Bounty Board Queries
+Onboard MVO
+POAP Metrics/Analytics
+Discord Data/Metrics
+DAO Member Categories
+DAO Treasury Dashboard
+Twitter Analytics
+Tipping Metrics/Analytics
+BANK Trading Volume
+Social Media Metrics
+Current BANK Allocation
+Social Analytics for B2B-Initiative
+Additional List of Projects of Interest:
+Bankless Card
+Bankless Academy
+Crypto Sapiens
+Podcast Hatchery
+BanklessAfrica
+Bankless DAOplomats
+The Rug
+Governator
+DAOversity
+Bankless Mobile App
+Bankless Nouns WTF
+Bankless Loans
+BanklessDAO Weekly Rollup
+bDAO at global events
+Fight Club (NFT gated)
+IMN - International Media Nodes
+Ultrasound Merch Supply Chain
+Additional details regarding specific projects can be found within the “proposal” column of the BanklessDAO Projects Notion:
+Notion
+Notion – The all-in-one workspace for your notes, tasks, wikis, and databases. 7
+A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team
+SPECIFICATION
+ConsenSys employees will go through the bDAO onboarding process and then select a project or guild workstream that fits their skills.
+This will include tapping into the new joiner session, first quest, and joining the first few community calls every Friday.
+From there, ConsenSys employees will have the option to allocate a percentage of their work time towards their respective initiative, with the goal of driving value and additional manpower towards these projects.
+Communication & Marketing
+This initiative is a first of its kind and we should highlight that. After discussion with the proposal’s working group, we’ve outlined the following communications and marketing strategy to pair with this initiative (assuming it passes community vote).
+ConsenSys Marketing/PR Announcement
+Bankless DAO marketing assistance (retweets, sharing on socials, different media outlets, etc.)
+Bankless HQ marketing assistance (retweets, sharing in bankless HQ media assets); ex. Weekly Rollup podcast (Fridays) and Market Mondays newsletter (Mondays)
+Twitter Spaces with Bankless DAO x ConsenSys
+Roadmap/Timeline
+Here’s a high level roadmap for this initiative.
+September 13th
+Proposal posted in Bankless Forum
+September 19th (Week of)
+Proposal voting complete
+ConsenSys Marketing/PR Announcement
+ConsenSys employee vetting begins
+October 3rd
+ConsenSys employees officially join Bankless DAO
+October 17th
+ConsenSys employees begin applying to various Bankless DAO guilds
+November 10th - ConsenSys DAO Day #5
+Bankless Presentation and/or Co-working Session? ConsenSys contributors discuss some of the projects they’re working on?
+January 9th, 2023
+Program concludes. ConsenSys and Bankless share learnings (internally)
+SUCCESS METRICS OR KPIS
+Success metrics for the initial phase of this partnership will be as follows:
+Total number of ConsenSys employees successfully onboarded to Bankless DAO
+Total number of ConsenSys employees successfully onboarded into a project/guild
+Bankless DAO project and guild leader evaluations of new talent & value add
+Total number of ConsenSys employees who complete a joint survey providing feedback to both ConsenSys and Bankless DAO regarding the onboarding and contribution process at Bankless DAO
+NEXT STEPS
+ConsenSys will provide a CSV file with the names/Discord names of 50 employees to the Bankless DAO team
+Bankless will supply Guest Passes to these ConsenSys employees - giving them Level 1 access to the Bankless DAO discord
+*These employees will receive a “Guest Pass” tag on their Discord IDs
+ConsenSys employees will review all appropriate onboarding documentation for the Bankless DAO (Ex. BanklessDAO Cheat Sheet for New Joiners, Official Website) and will join the DAO and begin applying to various guilds
+Bankless will notify various talent coordinators at each respective guild that ConsenSys employees will be applying to join their guild (although this does not guarantee that these employees will be accepted to these particular guilds)
+TL;DR
+Bankless DAO to be onboarded as ConsenSys ‘DAOlationship’ Partner
+ConsenSys to be onboarded as Bankless DAO partner
+ConsenSys employees will have the option to contribute to Bankless DAO as would any other individual of the DAO contributor process
+Bankless DAO will offer additional stewardship, educational materials and support to an agreed upon capacity
+Completely voluntary amount of time and resource requirement
+ConsenSys will allocate equal value of partnership
+ConsenSys employees will be treated as individuals within the DAO and will contribute for 1-3 months as a trial period without full intention of joining or contributing
+If ConsenSys employees decide to join the DAO and/ or contribute, that will be up to the individual
+All the work provided by ConsenSys employees will not be the property of ConsenSys. Ownership of IP will be under the jurisdiction or governance of the DAO.
+ConsenSys employees officially joining the DAO will have to purchase BANK in the same manner as other contributors
+ConsenSys employees will not be forced to work on any projects and will be responsible for their own professional output and agreements while participating in the DAO
+SQUAD BACKGROUND
+Erikson Herman is a DAO Strategist at ConsenSys and a Membership Committee member at Friends With Benefits (FWB).
+Matt Wright is the Director of DAOs + web3 Community at ConsenSys as well as the Managing Partner at EVM Fund.
+April Kim is a Product Research and Development team member at ConsenSys with a focus on DAOs.
+Lucas Campbell is a Senior Editor at Bankless, a genesis member of Bankless DAO and a founding member of Fire Eyes DAO.
+Senad Dilji is a Research PM at Bankless, a DAOlationships Guild Coordinator at Bankless DAO, and a DAOlationships Team Lead at Weavr DAO.
+Each of us are excited to help onboard ConsenSys employees to the Bankless DAO ecosystem and to help better the wider Ethereum ecosystem. WAGMI
+Poll
+78%
+Approve ConsenSys DAOlationship Proposal
+22%
+Deny
+37
+voters
+Show vote
+9

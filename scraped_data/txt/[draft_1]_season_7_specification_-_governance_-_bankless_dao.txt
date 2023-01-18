@@ -1,0 +1,70 @@
+Summary
+This is Draft 1 of the BanklessDAO Season 7 Specification. Compared to Season 6, this timeline has things scheduled sooner to hopefully achieve a smoother season transition for everyone. It also intentionally leaves Gap Week unscheduled to enable as many folks as possible to actually take a gap week. That break is important and I wanted to ensure our operational timelines were aligned to accommodate Gap Week by default.
+Please review the proposed timeline for Season 7 and provide any feedback regarding the adjustment of dates. If a change in dates is desired for any of the Season 7 milestones, please open discussion in the comments so that any updates can be reflected in a second draft.
+Author’s Introduction
+Hello! I am 0xZFi, and I helped coordinate the Season 6 transition just a few short months ago. The processes around season transitions have been adapting to changes in governance, so I’d like to offer some context on the current state of the season transition process.
+As I understood the process before the Season 6 transition, the Community Vote was a temp-check process of aggregated votes, and was to inform what would be collectively included in the Seasonal Specification. The Seasonal Specification included all changes, in all areas, into one packaged vote – funding requests from all groups, governance changes, operational changes, and the detailed seasonal timeline.
+It was brought to attention late last season that the Community Vote/Seasonal Specification process, with the scope that had been used for several previous seasons, was superseded by the Constitution 3 upon its ratification. To bring the season transition process into alignment with the Constitution for Season 6, it meant we needed to split the process flows of the old Community Vote into separate workstreams.
+Any portion of the old Seasonal Specification that requested funding would need to go through the Seasonal Budget Request
+Any changes to governance would need to be proposed with their own individual bDIPs
+There is unclear guidance, however, on operational changes that do not impact the Constitution. Without this guidance, that leaves the scope of the Seasonal Specification limited to operational timelines and a list of references to operational changes that have passed individually on the Forum throughout the current season.
+Given these changes, the Community Vote process that was used through Season 5 does not seem to fit anymore. I would encourage any ideas that you’d like to temp-check or operational adjustments you’d like to propose to be posted individually to the Forum at any point during the season.
+This change empowers all members to participate in governance without relying on the Operations Department to aggregate and curate topics to be discussed. It also affords the Operations Department an opportunity to reduce the overhead cost of the season transition process so BANK funds can be used more effectively elsewhere.
+This process is evolving and is not without flaws. Suggestions for improvements are welcome. Thank you for your active participation in BanklessDAO governance. Let’s make 2023 up-only!
+Remaining Season 6 Operations Timeline
+Gantt Chart [Season 6 Timeline - Google Sheets 2]
+January 3: Draft 1 of the Season 7 Specification posted to the Forum
+January 9 - 19: The Grants Committee will accept applications for Season 7 Committee Member elections
+January 17: Draft 2 of the Season 7 Specification to be posted to the Forum, if needed
+January 20: The Season 7 Grants Committee election will be posted to Snapshot
+January 20: All funding requests from guilds, departments, and projects to be posted to the Forum for the Grants Committee to review
+January 20 - January 29: The Grants Committee will work with groups to review and finalize their budgets
+January 30: The Season 7 Specification will be posted to Snapshot
+January 30: The Season 7 Budget Request will be posted to Snapshot
+January 30 - February 5: Gap Week
+February 5: Last day of Season 6
+Operational/Governance Changes
+These changes have been proposed and have independently passed a vote on the Forum during the current season and their details are to be implemented upon their passage or in upcoming weeks. The vote on this Seasonal Specification will not impact the results of these previously-passed proposals.
+bDIP-01: Correcting Grant Proposal Requirements 3
+This bDIP will bring the Constitution in line with the practices of the Grants Committee, providing clarity for future funding requests.
+bDIP-02: Coordinated Timing Across BanklessDAO 1
+This bDIP will establish Universal Coordinated Time (UTC) as the single reference timezone for meetings and events across BanklessDAO.
+Delegate SAFE tokens to DAOstewards.eth 1
+SAFE tokens in the Banklessvault.eth wallet are being delegated to DAOstewards
+PENDING: bDIP-03: Dynamic forum quorum for bDIPs
+Establishes the precedent for an adjustment to quorum requirements to be categorized as a “major change” to the Constitution
+Modifies the Forum quorum requirements to adopt a formula-based approach that evolves with DAO activity levels
+PENDING: Purpose Driven Guild Funding 4
+Purpose-Driven Guild Funding may be implemented in Season 7
+PENDING: BDIP - Coordinape Season 7 Proposal - Pause/Reduction (draft 2) 3
+Coordinape round funding may be reduced or paused
+Community-Indicated Direction
+These temp-checks have been posted on the Forum for discussion and voting, but their details are not ready for immediate implementation. This list indicates new experiments and directions the community is considering taking, but specifics are still being worked out. The vote on this Seasonal Specification will not impact the results of these discussions.
+Guest Pass Temperature Check
+Guest Passes may become limited to 4 weeks with 2 renewals
+Snapshot Voting - Implement Shielded Voting 2
+All Snapshot votes may be posted using shielded voting if the Season 6 trial produces positive results
+Season 7 Operations Timeline
+If this proposal passes Snapshot, the following timeline will fall into place for Season 7:
+Gantt Chart [Season 7 Timeline - Google Sheets 3]
+February 6: Season 7 begins
+February 10: The Season 7 Kick-Off Event will be held on Twitter
+March 31: All funding requests from guilds, departments, and projects to be posted to the Forum for the Grants Committee to review
+March 31 - April 13: Grants Committee to work with groups to review funding requests
+April 7: Draft 1 of the Season 8 Specification to be posted to the Forums
+April 14 - 20: Grants Committee to work with groups to finalize funding requests
+April 14 - 23: Season 8 Grants Committee Election applications accepted
+April 24: The Season 8 Grants Committee election will be posted to Snapshot
+April 24: The Season 8 Specification will be posted to Snapshot
+April 24: The Season 8 Budget Request will be posted to Snapshot
+May 1 - 7: Gap Week
+May 7: Last day of Season 7
+POLL
+Is this Season 7 Specification ready to move to Snapshot on January 30?
+Yes, the Season 7 Specification is ready to move to Snapshot
+No, this draft needs revision before it moves to Snapshot
+(Please add your thoughts/notes below)
+17
+voters
+Show results
+6

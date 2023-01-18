@@ -1,0 +1,57 @@
+<p>Title: Tokenomics - L2 Liquidity Deepening</p>
+<p>Author: Icedcool🏴#4947</p>
+<p>Discord Vote: <a >Link <span >5</span></a></p>
+<p>Forum Post: <a >Link</a></p>
+<hr>
+<h1>
+<a name="tldr-1" ></a>TLDR</h1>
+<ul>
+<li>In Balancer L2 we have a liquidity depth of $46,419 (2184423 BANK and 5.4556 ETH)
+<ul>
+<li>This translates into high slippage for AMM operations on Polygon.</li>
+</ul>
+</li>
+<li>We need sufficient liquidity on every chain $BANK is implemented on to enable BanklessDAO operations.</li>
+<li>To resolve this we would like to migrate 50k of liquidity from L1 to Polygon Balancer
+<ul>
+<li>Sushiswap <a >Liquidity <span >2</span></a> (705,194.04 BANK and 7.49 ETH ≈ $24,122.29) - (50/50)</li>
+<li>Balancer <a >Liquidity <span >1</span></a> (1217788 BANK and 3 ETH ≈ $25,878) - (80/20)</li>
+</ul>
+</li>
+</ul>
+<h2>
+<a name="summary-2" ></a>SUMMARY</h2>
+<p>BanklessDAO has the Balancer pool on Polygon which has a volume(usage) of around $1,000 daily. Currently we have a liquidity depth of 46k on L2, which is resulting in high slippage for people using and trading on L2. BanklessDAO needs to support the liquidity depth for operational usage on all chains, and so plans to migrate 24k of liquidity from Sushi (low usage) and 26k from the Balancer L1 pool for a total of 50K liquidity to support depth on Polygon L2.</p>
+<p>This proposal is to gain approval from the DAO to migrate this liquidity to enable Polygon operations.</p>
+<h2>
+<a name="specifications-3" ></a>SPECIFICATIONS</h2>
+<ul>
+<li>Sushiswap <a >Liquidity <span >2</span></a> (705,194.04 BANK and 7.49 ETH ≈ $24,122.29) - (50/50)</li>
+<li>A portion of Balancer <a >Liquidity <span >1</span></a> (1217788 BANK and 3 ETH ≈ $25,878) - (80/20)</li>
+</ul>
+<h2>
+<a name="implementation-4" ></a>IMPLEMENTATION</h2>
+<p>Implementation steps would be as follows:</p>
+<ol>
+<li>
+<p>BDAO multisig would unpair the Sushiswap liquidity.</p>
+</li>
+<li>
+<p>The multisig would unpair a portion of the Balancer Liquidity (1217788 BANK and 3 ETH ≈ $25,878)</p>
+</li>
+<li>
+<p>The multisig would then migrate the total amount of assets to Polygon via the Treasury Guild Bridging Service (TBS) to the Polygon multisig (X ADDRESS)</p>
+</li>
+<li>
+<p>FInally the multisig would deposit the assets into Balancer pool at an 80/20% ratio.</p>
+</li>
+<li>
+<p>The Sushi assets (50/50) would be auto balanced to the 80/20 ratio.</p>
+</li>
+</ol>
+<p>Post implementation the liquidity depth will be at roughly 100k worth of depth, which should enable Polygon Operations and usage.</p>
+<hr>
+<p>This vote will be active for 7 days, and pending the approval of this vote will go to snapshot for DAO wide approval.</p>
+<h1>
+<a name="vote-5" ></a>Vote:</h1>
+Tokenomics - L2 Liquidity Deepening<ul ><li ><p><span >97%</span><span>Approve</span></p></li><li ><p><span >3%</span><span>Deny</span></p></li></ul><p><span >35</span><span >voters</span></p><span >Closed <strong>Aug '22</strong></span><section ><nav ></nav></section>

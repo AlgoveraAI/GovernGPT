@@ -1,0 +1,25 @@
+Governance Election: Season 6 - Grants Committee Election Application Submission
+Date: 10/14/22
+Submission Period: 10/14/22 - 10/24/22
+Election Period: 10/26/22 - 11/3/22 (Snapshot)
+According to the Seasonal spec, there will be 4 (potentially 5) seats open for Season 6 Grants Committee.
+The Grants Committee consists of 5-7 members along with a multisig with all committee members as signers.
+The Committee is responsible and accountable for managing the grants system, reviewing grant applications, and managing the grants treasury, with the help of other guilds as needed (e.g., treasury).
+The Committee has a quorum with five members and is otherwise responsible for their own operations.
+The Committee cannot change the application process to be a Committee member without a snapshot vote and is encouraged to accept the DAO’s proposal template.
+The Grants Committee is required to be transparent and communicative with the DAO, such as access to Committee meetings and an opportunity to voice opinions and feedback.
+The voting period will last one week and will take place on Snapshot:
+Grants Committee Applications will be submitted and decided on by a weighted snapshot vote, and the highest 4 (potentially 5) voted applications will be elected into the Grants Committee.
+Any unelected candidate can gather feedback, improve their resume, and resubmit for future vacancies.
+Committee members can be recalled by Snapshot with a simple majority. Committee members may leave the Committee at any time by submitting a written resignation note to the Committee.
+Additional Info:
+Submitter must be Level 1 or higher
+Elected GC members serve for a term (2 seasons) for a maximum of 2 consecutive terms.
+For more details, read more here:
+Grants Committee Notion 11
+To submit your application you must reply to this post by including:
+Discord handle
+Reason for applying
+Qualifications
+Sponsor(s) (i.e., those who will second your nomination - the more the merrier!)
+4

@@ -1,0 +1,70 @@
+<p>Title: Stake 10 ETH from Treasury using Rocket Pool</p>
+<p>Authors: 0xHunter#3863</p>
+<p>Date Created: March 9th, 2022</p>
+<p>Date Posted: March 30th, 2022</p>
+<h1>
+<a name="tldr-1" ></a>TLDR</h1>
+<ul>
+<li>Stake 10 ETH from the Bankless treasury with Rocket Pool
+<ul>
+<li>Generate 4.3% annual yield (potential ~10% after the PoS merge)</li>
+<li>Support permissionless staked ETH pooling infrastructure</li>
+<li>Gather data to support staking larger percentage of Bankless treasury ETH in the future</li>
+</ul>
+</li>
+</ul>
+<h1>
+<a name="summary-2" ></a>Summary</h1>
+<p>The proposal is to stake (10 ETH) of our ETH in the treasury (34.45 ETH) for rETH to generate passive yield on ETH and support permissionless, decentralized PoS ETH staking. The reason for starting with a 10 ETH stake is to minimize our initial Rocket Pool protocol risk exposure, and we should stake more after we are more confident in the benefits of staking our ETH with Rocket Pool. rETH is liquid and can be swapped back for ETH at any time if needed.</p>
+<p>The future vision that this proposal will aid in proving out is to make holding rETH (or other decentralized ETH PoS pools) the standard for the BanklessDAO treasury using any ETH not set aside for gas. This proposal is our initial foray into this vision.</p>
+<h1>
+<a name="background-3" ></a>BACKGROUND</h1>
+<p>We currently have 34.45 ETH in our treasury that could be passively generating low-risk yield via securing the ETH PoS network using Rocket Pool’s protocol.</p>
+<p>Rocket Pool docs: <a >https://docs.rocketpool.net/ <span >7</span></a></p>
+<h1>
+<a name="mission-values-alignment-4" ></a>MISSION &amp; VALUES ALIGNMENT</h1>
+<p>This proposal would extend our treasury runway by generating low-risk yield, which would allow BanklessDAO to allocate more funds to support our mission.</p>
+<p>This proposal is also highly aligned with BanklessDAO’s commitment to supporting fully permissionless, decentralized systems. Rocket Pool is currently the only fully permissionless, decentralized ETH PoS Staking system. This system allows anyone with less than 32 ETH and anyone willing to maintain a validator to secure the ETH PoS consensus mechanism. In the same way that the Ethereum community has elected to maintain low block size in the PoW consensus mechanism to allow for a higher degree of decentralization, Rocket Pool allows any amount of ETH to be staked, further decentralizing the upcoming PoS consensus mechanism.</p>
+<p><strong>Why not Lido?</strong></p>
+<p>Lido is not a truly permissionless platform and whitelists validators. This mitigates slashing risk but does not promote true decentralization. Rocket Pool has collateral mechanisms to mitigate slashing effects instead of whitelisting, which is outlined in the specification below.</p>
+<h1>
+<a name="scope-of-work-5" ></a>SCOPE OF WORK</h1>
+<p>Stake 10 ETH from our treasury for rETH</p>
+<h1>
+<a name="specification-6" ></a>SPECIFICATION</h1>
+<p><strong>Yield:</strong> Currently, Rocket Pool’s website lists a 4.33% APR, which will decrease slowly as more ETH is staked and potentially jump up to ~9-12% APR (<a >Reference by Justin Drake <span >3</span></a>) after the PoS merge and fees are distributed to PoS validators.</p>
+<h3>
+<a name="income-generated-per-season-7" ></a>Income generated per season:</h3>
+<p>10 ETH stake:</p>
+<ul>
+<li>
+<p>0.099 ETH per season pre-merge</p>
+</li>
+<li>
+<p>0.249 ETH per season post-merge</p>
+</li>
+</ul>
+<p>Future potential of 34.45 ETH stake:</p>
+<ul>
+<li>
+<p>0.345 ETH per season pre-merge</p>
+</li>
+<li>
+<p>0.861 ETH per season post-merge</p>
+</li>
+</ul>
+<p><strong>Slashing risk:</strong> There is a slashing risk losing underlying ETH if the Rocket Pool validators misbehave, but this is heavily insured by the ETH and Rocket Pool token collateral that validators have to put up. And the pooled nature of rETH spreads the risk across all holders (Reference: <a >🤔 Frequently Asked Questions | Rocket Pool <span >1</span></a>).</p>
+<p><strong>Smart contract risk:</strong> There is a risk of the Rocket Pool contracts being exploited, although greatly reduced as they have been audited by Sigma Prime and ConsenSys Diligence and have been operational on mainnet since November 9th 2021 and have gone through multiple rounds of beta testing (Reference: <a >🤔 Frequently Asked Questions | Rocket Pool <span >1</span></a>).</p>
+<h1>
+<a name="success-metrics-or-kpis-8" ></a>SUCCESS METRICS OR KPIS</h1>
+<p><strong>Yield:</strong> Any yield would be considered a success against our current ETH generating no yield. Slashing and Rocket Pool smart contract exploitation could move our yield below 0%, so we should still consider this a success despite a slashing event or smart contract exploit if our yield stays above 0%.</p>
+<h1>
+<a name="next-steps-9" ></a>NEXT STEPS</h1>
+<p>Stake 10 ETH from our treasury for rETH</p>
+<h1>
+<a name="discord-poll-10" ></a>DISCORD POLL</h1>
+<p>Treasury Guild member <a >temp check poll <span >3</span></a>:<br>
+</p>
+<h1>
+<a name="forum-poll-11" ></a>FORUM POLL</h1>
+<ul><li ><use xlink:></use></svg> <span>Approve</span></li><li ><use xlink:></use></svg> <span>Dispute</span></li></ul><p><span >47</span><span >voters</span></p><section ><nav ></nav></section>

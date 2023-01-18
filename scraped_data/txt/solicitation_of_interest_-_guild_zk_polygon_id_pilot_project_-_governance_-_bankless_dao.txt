@@ -1,0 +1,9 @@
+Several BanklessDAO members and alumni are working with Polygon technologies to build the next set of DAO tooling. One of those tools is Polygon ID , a ZK roll up digital ID which was launch last week.
+As a GSE member I can share that one of the areas that has come up twice, in separate exercises, as both a risk to the sustainability of the DAO under strategic in risk management, but then also again as an identified weakness during DAO business analysis, is the obsolescence of the tech stack.
+Polygon ID essentially enables 1 person 1 vote and digital privacy. You can read more about the technology here: https://blog.polygon.technology/introducing-polygon-id-zero-knowledge-own-your-identity-for-web3/ 8
+In a pilot project concept bDAO ultimately could issue and verify its own credentials.
+Trying new things is synonymous with leadership and in my view at least should be synonymous with bDAO’s pioneering mission.
+So this is a solicitation of interest for 1 or 2 guilds or subDAOs, who are willing to step forward and make history and adopt a polygon ID system for Guild governance and try it out for a season or two, give feedback and be part of the shape of Digital identities.
+Go to your guild meetings and talk about, and post here, and if you guild is amenable, we can connect that guild to the next steps.
+Please comment.
+7

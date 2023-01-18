@@ -1,0 +1,47 @@
+TITLE - Coordinape Pause Proposal
+AUTHORS - infinitehomie.eth
+SCOPE - N/A
+WORKING DEPARTMENT/GUILD - Ops (Potentially Research Guild as well)
+SUMMARY
+I am writing this proposal today to consider a pause to the current DAO wide proposal. I do so with a heavy heart, as I know there are contributors who utilize Coordinape for their livelihoods. I believe this pause in coordinape should last 1 season at least starting with season 7.
+Hopefully, the pause in Coordinape could result in better incentive solutions for contributors, or a better process for future coordinape rounds.
+Even though not all Coordinape Rounds have been problematic, I believe there have been enough questions regarding Coordinape, and how Coordinape is used in BanklessDAO, to warrant a pause in the process for retrospection and reflection.
+BACKGROUND
+Coordinape has been utilized since the early seasons of Bankless DAO. It is typically used as a way for contributors to express their appreciation with one another, outside of the typical bounty method.
+Most Coordinape rounds have been completed without much trouble, or many reasons for delay. There have been questions however surrounding the cost effectiveness over the process.
+Those questions have grown exponentially over the past few weeks. Recently, the Season 6 Period 1 Coordinape led to more questions, and some cause for concern.
+Over the last 1-2 weeks, we have seen concerning situations arise with respect to the DAO Wide Coordinape. These situations involve the Coordinape calculation process, and some members in the DAO as well.
+I have linked a few discord channels for reference purposes. These channels discussed some of the issues that occurred regarding the recent DAO Wide Coordinape
+Discord
+Discord - A New Way to Chat with Friends & Communities 22
+Discord is the easiest way to communicate over voice, video, and text. Chat, hang out, and stay close with your friends and communities.
+Discord
+Discord - A New Way to Chat with Friends & Communities 9
+Discord is the easiest way to communicate over voice, video, and text. Chat, hang out, and stay close with your friends and communities.
+Typically, we see that Coordinape has been a fantastic way to show gratitude to other members of the DAO that have contributed. The notes that we all receive during Coordinape can sometimes be the motivation that we use to move forward through each season, especially during bear markets like what we are experiencing now.
+Unfortunately, even the greatest projects can have situations that can be exploited, or gamed. Resulting in the need to re-evaluate processes previously created.
+The previous Coordinape had been delayed due to circumstances with an allocation calculation, and with respect to the sentiment analysis held along with the Coordinape. Members were concerned, and this also led to more issues being uncovered in the DAO.
+This delay revealed issues with the Coordinape process, including issues with the relationship between the sentiment analysis admin, and the Coordinape admin, as well as other other processes in the operations department.
+There were other issues revealed as a result of this Coordinape review. Allegations of suspicious behavior by multiple members surrounding lending BANK appeared, causing discussions to occur surrounding Coordinape eligibility.
+While the intent of these actions may have not been malicious, the optics have become problematic. it appears that these funds were on loan to artificially assist the lender in receiving more GIVE. With the lender artificially receiving more give, they in turn received more bank.
+With some of the members in question being role holders; and other members now not as the optics of the situation can be considered problematic.
+THE PLAN
+It is possible that we may need to take another look at Coordinape for future seasons. During this pause, we can decide on the future of Coordinape for Bankless DAO. We can take season 7 to investigate the current procedures surrounding the DAOwide Coordinape process. We can decide on whether the current process works, or whether we need to change some aspects of the DAO Wide Coordinape Process.
+We can decide on procedures surrounding member eligibility, future treasury allocation amounts, and more.
+While we investigate different options to incentivize members at the same level of Coordinape, I propose that we implement a pause for Coordinape starting with season 7.
+IMPACT
+Considering the amount of BANK that is used for a Coordinape Round, roughly 1.5 million BANK per Coordinape Period, this would save, at the most, closer to 4.5 million BANK for Season 7. Ideally, we would see the BANK utilized in a different area, however that could potentially be used in another aspect for the DAO, or it could be held in lieu of creating a solution, or an alternative to the Coordinape Rounds.
+ANALYTICS
+While analytics are not available for this portion of the proposal, It is my hope that we can gather data to analyze the effectiveness of Coordinape during this Season 7 pause.
+NEXT STEPS
+Obtain Feedback and make suggested updates to this proposal
+Gather Quorum
+Gather information to begin Research Regarding Coordinape Issues
+Should we impose a pause for Coordinape For Season 7?
+Yes, we SHOULD impose a Season 7 Pause for Coordinape
+NO, we SHOULD NOT impose a Season 7 Pause for Coordinape
+I have a suggestion, or I would like to make a change to this proposal. (Explain Below)
+51
+voters
+Show results
+1 Reply

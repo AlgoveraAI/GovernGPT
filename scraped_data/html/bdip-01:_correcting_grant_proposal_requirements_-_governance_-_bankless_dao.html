@@ -1,0 +1,119 @@
+<div class="regular contents"><div class="cooked"><p><strong>Title</strong>: bDIP-01: Correcting Grant Proposal Requirements<br>
+<strong>Scope</strong>: patch (bug fix)<br>
+<strong>Draft Authors</strong>: links<br>
+<strong>Working Group</strong>: links, hirokennelly, trewkat, siddhearta</p>
+<h1>
+<a name="bdip-summary-1" class="anchor" href="#bdip-summary-1"></a>BDIP SUMMARY</h1>
+<p>The <a href="https://github.com/BanklessDAO/bankless-dao-constitution/blob/main/bdao-constitution.md">BanklessDAO Constitution <span class="badge badge-notification clicks" title="2 clicks">2</span></a> failed to capture the operational realities of the Grants Committee, and incorporated incorrect requirements (quorum, ungated polls) for grant proposals. This bDIP will bring the Constitution in line with the practices of the Grants Committee, providing clarity for future funding requests.</p>
+<h1>
+<a name="bdip-background-2" class="anchor" href="#bdip-background-2"></a>BDIP BACKGROUND</h1>
+<p>The BanklessDAO Constitution lists Forum quorum requirements for grant applications which are specified in the <a href="https://snapshot.org/#/banklessvault.eth/proposal/0x0eb29303825c37c67ddc5d71b199bbc66c149712918c2a7c9261c7f6a2953d66">Firming Up Governance <span class="badge badge-notification clicks" title="9 clicks">9</span></a> Snapshot vote. Those quorum requirements were interpreted by the Grants Committee as having been vacated by the <a href="https://snapshot.org/#/banklessvault.eth/proposal/0x903b96c30ac4f555c3dd598e48d5b1566f394dfa072eb6945d7c093704d1f064">Quorum Removal Vote <span class="badge badge-notification clicks" title="3 clicks">3</span></a>. In the perceived absence of a quorum, the Grants Committee created its <a href="https://discord.com/channels/834499078434979890/996478071353909279/1005128811823775845">own quorum adjustment method <span class="badge badge-notification clicks" title="3 clicks">3</span></a>, with help from the GSE, and this has been in operation since July, 2022. Later, the Constitution was enacted via a <a href="https://snapshot.org/#/banklessvault.eth/proposal/0x30028859fd36f3e6ac797b9cc1dac27ef9907d6a917191b4a75c19df9bc41863">Snapshot vote which incorporated the incorrect quorum information <span class="badge badge-notification clicks" title="5 clicks">5</span></a>.</p>
+<p>The BanklessDAO Constitution also states that proposal votes are REQUIRED to be ungated. This was never specified in any seasonal specification or previous Snapshot, and introduces significant security issues (sybil attacks). There have already been one suspected and one confirmed case of non-BanklessDAO members voting for grant proposals to meet quorum requirements, so it’s important we ensure the Constitution does not encourage this.</p>
+<p>This bDIP’s intent is to patch the two bugs listed above.</p>
+<h1>
+<a name="bdip-specification-3" class="anchor" href="#bdip-specification-3"></a>BDIP SPECIFICATION</h1>
+<p>Since this is a “bug fix”, this bDIP can be considered a patch.</p>
+<h2>
+<a name="current-form-4" class="anchor" href="#current-form-4"></a>Current Form</h2>
+<p>Forum voting leverages one vote per user and is not token-weighted or gated. Forum proposals require 70% approval to pass to successive stages of governance. Proposals must be posted for one week unless the request exceeds 1M BANK. In these instances, they must be posted for two weeks. Forum quorum is the minimum number of voters that need to be present for the vote to be valid and is listed in the following table. For example, if your Forum post is asking for 50,000 BANK or less, only 25 voters need to cast their votes for the vote to be valid.</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Requested Bank</th>
+<th>Forum Quorum</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&lt; 50k BANK</td>
+<td>25</td>
+</tr>
+<tr>
+<td>50k - 250k BANK</td>
+<td>31</td>
+</tr>
+<tr>
+<td>250k - 500k BANK</td>
+<td>40</td>
+</tr>
+<tr>
+<td>500k - 1M BANK</td>
+<td>51</td>
+</tr>
+<tr>
+<td>&gt; 1M BANK</td>
+<td>63</td>
+</tr>
+<tr>
+<td>Governance (Major)</td>
+<td>63</td>
+</tr>
+<tr>
+<td>Governance (Minor)</td>
+<td>51</td>
+</tr>
+<tr>
+<td>Governance (Patch)</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>
+</div><p>[<a href="https://snapshot.org/#/banklessvault.eth/proposal/0x0eb29303825c37c67ddc5d71b199bbc66c149712918c2a7c9261c7f6a2953d66">See Snapshot <span class="badge badge-notification clicks" title="9 clicks">9</span></a>]</p>
+<h2>
+<a name="proposed-form-5" class="anchor" href="#proposed-form-5"></a>Proposed Form</h2>
+<p>Proposal votes are one vote per user and are not token-weighted. Grant proposals must meet the quorum requirements set by the Grants Committee (available on their <a href="https://www.notion.so/bankless/Grants-Committee-Procedures-4e2c62bb890d47d2bdba12adee27fce8">Notion page <span class="badge badge-notification clicks" title="4 clicks">4</span></a>), which may be adjusted seasonally at their discretion.</p>
+<p>Governance quorums are listed below.</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Governance Update</th>
+<th>Forum Quorum</th>
+<th>Approval %</th>
+<th>Timeline</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Major</td>
+<td>63</td>
+<td>70%</td>
+<td>1 week</td>
+</tr>
+<tr>
+<td>Minor</td>
+<td>51</td>
+<td>70%</td>
+<td>1 week</td>
+</tr>
+<tr>
+<td>Patch</td>
+<td>40</td>
+<td>70%</td>
+<td>1 week</td>
+</tr>
+</tbody>
+</table>
+</div><h1>
+<a name="expected-impact-6" class="anchor" href="#expected-impact-6"></a>EXPECTED IMPACT</h1>
+<p>The Constitution will accurately reflect the current quorum requirements in effect at BanklessDAO.</p>
+<h1>
+<a name="analytics-7" class="anchor" href="#analytics-7"></a>ANALYTICS</h1>
+<p>None</p>
+<h1>
+<a name="next-steps-8" class="anchor" href="#next-steps-8"></a>NEXT STEPS</h1>
+<ol>
+<li>Get Forum consensus (40 votes)</li>
+<li>Get Snapshot consensus</li>
+<li>Update the Constitution</li>
+</ol>
+<h1>
+<a name="working-group-background-9" class="anchor" href="#working-group-background-9"></a>WORKING GROUP BACKGROUND</h1>
+<p><strong>links</strong> was the Grants Committee Lead from S4-5 and Champion of Bankless Card.<br>
+<strong>HiroKennelly</strong> is a long-time DAO member and helps lead various projects…<br>
+<strong>Trewkat</strong> is a member of Writers Guild and Lead Staff Editor of the EPA.<br>
+<strong>Siddhearta</strong> is the Writers Guild Coordinator and Newsletter Team Champion.</p>
+<h1>
+<a name="poll-do-you-accept-this-bdip-change-10" class="anchor" href="#poll-do-you-accept-this-bdip-change-10"></a>POLL - Do you accept this bDIP change?</h1>
+<div class="poll" data-poll-name="poll" data-poll-type="regular"><div><div class="poll-container"><ul><li tabindex="0" data-poll-option-id="f37c41d637e2028156d9a405479c5bfa"><svg class="fa d-icon d-icon-far-circle svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-circle"></use></svg> <span>Yes!</span></li><li tabindex="0" data-poll-option-id="1b3c188e70e0c154088df35072eed8ea"><svg class="fa d-icon d-icon-far-circle svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-circle"></use></svg> <span>No! (I’ll explain why in comments)</span></li></ul></div><div class="poll-info"><p><span class="info-number">48</span><span class="info-label">voters</span></p></div><div class="poll-buttons"><button class="widget-button btn btn-default toggle-results btn-icon-text" title="Display the poll results"><svg class="fa d-icon d-icon-far-eye svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-eye"></use></svg><span class="d-button-label">Show results</span></button></div></div></div></div><section class="post-menu-area clearfix"><nav class="post-controls expanded"><button class="widget-button btn-flat show-replies btn-icon-text" title="1 Reply" aria-label="This post has 1 reply. Click to expand" aria-pressed="false"><span class="d-button-label">1 Reply</span><svg class="fa d-icon d-icon-chevron-down svg-icon svg-node" aria-hidden="true"><use xlink:href="#chevron-down"></use></svg></button><div class="actions"><div class="double-button"><button class="widget-button btn-flat button-count like-count highlight-action regular-likes btn-icon-text" title="6 people liked this post" aria-label="6 people liked this post. Click to view" aria-pressed="false">6<svg class="fa d-icon d-icon-d-unliked svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-heart"></use></svg></button></div><button class="widget-button btn-flat share no-text btn-icon" title="share a link to this post"><svg class="fa d-icon d-icon-d-post-share svg-icon svg-node" aria-hidden="true"><use xlink:href="#link"></use></svg></button></div></nav></section></div>

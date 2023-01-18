@@ -1,0 +1,39 @@
+Summary
+We would like to create a new announcements channel that is specifically for announcing new opportunities to learn. This could include a new live session led by the education guild, the next knowledge session from the developers guild, a learning session from the design guild, and any other resource BanklessDAO creates.
+BACKGROUND
+Educational resources across the DAO are largely promoted within the guild that created it. These resources produce value not only for the members of each guild but also to the DAO and the entire Web3 community.
+At the moment, if you don’t participate in the guild where the initiative is born, it can be easy to miss. Did you know the analytics guild has learning sessions? Or that there was a copywriting course on February 22nd? Workshops, masterclasses, beginner’s classes, and useful resources get lost in the waves of DAO-life, limiting distribution and awareness. Today, there is a lot of work that goes into spreading awareness about a new learning opportunity. You’ve likely seen people posting in your general guild channels about a new learning session. And since we are all involved in multiple guilds, these messages show up over and over. “Spam” is a harsh word, but sometimes these messages border the line. I’m guilty of this.
+The creation of an education announcements channel helps concentrate and properly announce all educational efforts being developed without crossing the “spam line”.
+MISSION & VALUES ALIGNMENT
+“We will help the world go Bankless by creating user-friendly onramps for people to discover decentralized financial technologies through education, media, and culture.” Education is an important mechanism to onboard everyone to a Bankless life. Let’s give it the attention it deserves.
+SPECIFICATION
+This proposal is to create a new channel to announce educational content. In it, there will be no conversations, only announcements. This will result in higher visibility, more promotion, more participation, and a more knowledgeable DAO. It will also be useful to have stats on how many educational activities we are having each month, about what, and their attendance. It can be the first step towards a more holistic education initiative in BanklessDAO.
+Why not use the current announcements channel?
+The main reason is to create a single place where anyone can go and know exactly what resources are available for them to learn. Anyone, whether they are a guest pass or a whale, will know exactly where to find the latest learning opportunities. Resources are currently scattered across Notion and hidden in guild channels. Education guild is working on creating a Notion database to create easier access to these resources, but we all spend a lot more time on Discord than Notion. Discord is a necessary place for this to live.
+What about other existing channels like #workshops and #cross-collab
+Less clutter. These channels have a lot of different conversations happening. Even if someone posts an announcement of a new workshop, there could be 50 messages that bury the original announcement. We need a channel that does not allow commentary that announcements get lost in.
+Permissions
+Permissions to the channel will be limited to a very limited set of members. They will consist of two people (primary and backup) from each educational initiative in the DAO. If a new educational initiative is created that does not have a representative with write permissions, they can be added.
+Location
+The new channel will live below the general announcements channel.
+SUCCESS METRICS OR KPIS
+Number of educational teams who use the channel.
+Number of events published.
+A bonus potential outcome: A signal for new members joining the DAO. They see all the learning opportunities we are creating and are immediately introduced to the value we provide crypto noobies. They fall in love with BanklessDAO and commit to a world without banks
+NEXT STEPS
+Create the channel.
+Determine the members who will have access to the channel.
+Communicate this on the Community Call and with each guild.
+Continue our work towards being an educational powerhouse.
+SQUAD BACKGROUND
+ManuelMaccou🏴 | BanklessDAO#6974 - Education Workgroup Champion
+Ornella bDAO EN/ESP/IT#2775 - Talent Coordinator, Education Guild, Translations Guild, Marketing Guild
+Should we make a new channel to announce new learning opportunities?
+Yes
+No
+26
+voters
+Choose up to 2 options.
+Vote now!
+Show results
+4

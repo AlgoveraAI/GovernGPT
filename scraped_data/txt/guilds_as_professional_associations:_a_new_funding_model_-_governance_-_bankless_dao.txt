@@ -1,0 +1,118 @@
+Guilds As Professional Associations: a new funding model
+Our DAO currently views guilds as talent pools that must be funded through the Grants Committee. However, the DAO will quickly run the treasury dry if we fund guilds without question. So, we need a better way to look at guild funding. This will allow the Grants Committee to put more bandwidth toward identifying how to fund projects rather than stressing over Guild funding.
+I spoke with a number of guild coordinators to get feedback on membership numbers and pain points. Here are a few commonalities:
+Membership numbers are very difficult to measure, but they’re much lower than the number of people holding the tag, the people listed on the guild’s notion page, or the people in the Sobol bubble.
+Membership retention is really tough: people come and go, whether it’s because they think they can make more crypto elsewhere, our meetings don’t fit their timezone, or the vibes aren’t what they’re looking for—there’s a lot of “permissionless leaving.”
+The gray area between guilds and projects is difficult to define. Many guilds run projects underneath them, while others are more true to the original talent pool ethos.
+Thank you to all the guild coordinators who answered my questions. I’ve taken these conversations into account when building this funding model. Here we go!
+The Numbers
+For Season 3, our guilds were funded 8,060,986 BANK and 6 ETH. For IRL perspective, I find it useful to convert to USD.
+Bear market scenario: BANK is 5 cents and ETH is $2,200. For three months of operating as talent pools, our guilds received $416,249.25.
+Bull market scenario: BANK is at 10 cents and ETH is at $4,400. Guilds received $832,498.50.
+By contrast, projects, which are supposed to be the mission-aligning, public-facing, revenue-generating powerhouses of the DAO, received 11,124,100 BANK and 0.5 ETH.
+Bear market scenario: $557,305
+Bull market scenario: $1,114,610
+I’m proposing a new way to approach the What Is A Guild question. By doing so, we will alter our funding model for guilds. This will:
+Keep guilds accountable for the work they do, similarly to what we do with projects.
+Allocate needed BANK toward projects that align with the mission and generate revenue.
+Help the Grants Committee evaluate guilds without using excess bandwidth.
+Establish a model for guilds to begin spinning their projects into projects rather than nesting them under the guild.
+Guilds as Professional Associations, Not Public Goods
+We’ve been calling guilds “public goods.” What’s a public good? It’s something funded by the government and/or the government’s citizens so they can all share the good. Here are a few examples of things that are public goods in the United States:
+Your local fire department
+Interstate highways
+National Public Radio
+How do those things get funding and operate?
+Mostly by taxes
+Sometimes by donations
+Sometimes by volunteers
+If guilds were to continue operating as public goods, as they do now, we would need to:
+Tax all DAO members
+Ask for donations from DAO members
+Require that all guild positions are run by volunteers
+We should not do any of those things.
+I’m proposing we shift our mental model around what guilds are and find a new way to fund them.
+Guilds are not public goods.
+Guilds are not public goods because:
+They serve a small number of people, not everyone.
+They don’t serve an immediate, life-saving need. (My house is burning down, I need the fire department now.)
+They don’t really operate or communicate between each other in a way that benefits the entire DAO like an interstate highway would—at least not in a way that is measurable or large-scale enough to fund, like an “infrastructure bill” in the U.S.
+However, there are two guilds that are public goods and should continue to be funded as such:
+Ops Guild
+Treasury Guild
+Instead of seeing the remainder of the guilds as public goods, we should see guilds as professional associations.
+What’s a professional association?
+It’s a group of professionals in the same field of practice who choose to share knowledge and resources.
+It’s not a union, or a lobbyist group, or a homeowners association, or your local elementary school’s opinionated PTO.
+It’s more like a group of local blacksmiths in thirteenth century England, a society of medical professionals in the modern United States 3, or a trio of lollipop-enthused confectioners. 4
+How are professional associations funded?
+In return for benefits, members pay dues.
+Okay. You probably don’t want to pay dues to your guild. I argue that that’s a red flag. But I’m not about to propose that members pony up BANK to their guilds. I just want you to think about why you would or wouldn’t pay dues for a moment. What is the measurable value the guild brings or doesn’t bring you? If you could, would you only operate within project teams and not be part of any guilds? If your guild vanished, what would happen?
+Take a moment to have this small thought experiment.
+….
+….
+Now, cease your thought experiment, write down your thoughts and feelings on a sticky note, and let’s look at a new method.
+How to fund our guilds
+([# active members] x [10,000 BANK]) + [nested project needs, which will be clearly defined] = [Guild seasonal funding]
+More simply,
+(members x 10,000) + nested project funding = guild funding
+This method incentivizes guilds to:
+Retain and cultivate active members.
+Think critically about the benefits they offer members, therefore incentivizing members to stick around.
+Create clear membership standards (that are evaluated….possibly by GSEs).
+Decentralize and automate tasks as much as possible to prevent overhead that member management brings.
+Define their nested projects and spin them out into separate projects.
+Part one of the equation: Active members are not everyone with a guild tag.
+How do you evaluate who your active members are?
+Here’s one way:
+An active member is someone who is involved in the guild, not just someone who has the tag. In the Writers Guild, our active members are individuals who have completed at minimum one paid task in one of our nested projects over the course of one season. An example of a paid task is writing an article, editing an article, or holding a role.
+Here’s another way:
+An active member is someone who receives and gives GIVE tokens in your guild’s Coordinape round.
+And a third way:
+Meeting attendance can be a good indicator of how active your guild members are. For example, the PLM working group argues that attending over 50% of meetings = being a member. This opens up issues around time zones, but large guilds have alternate (or should have alternate) time zone meetings to serve other contributors.
+Part two of the equation: Why 10,000?
+If each individual member requires the guild more than 10 hours of work a season, then there’s something broken in the guild’s structure. That guild will need to figure out a new way to work.
+As guilds become more efficient and work radiates outward to projects, I envision the BANK number will lower to 7,000, then to 5,000, and maybe even 3,000. We must operate guilds like efficient professional associations that give value to members, not slow government bureaucracies.
+Part three of the equation: does your guild have nested projects?
+Projects should normally be separate from guilds, but they aren’t always separate from guilds. Projects that are nested underneath guilds and use guild funding should be broken out and explained like projects. These projects should then be encouraged to spin out into separate projects that get funding differently from the guild. We don’t want projects “hiding” under guilds, but we also don’t want to make guild-internal projects obsolete.
+Guilds should:
+Clearly report the budget and explain which budgets are going to what projects. This will help the DAO identify how much guild funding is actually project funding.
+Explain how they have projects “fitting” underneath them.
+Be more transparent in spending.
+The nested project funding would be determined based on:
+Squad background
+KPIs
+Clear goals and roadmap
+What this looks like in practice:
+The Writers Guild defines membership based on the number of contributors who have completed a paid task over the course of a season. Following those standards, it has 55 active members. This means that 55 individuals completed a paid task or held a role in Season 2.
+The Writers Guild was funded 592,000 BANK for Season 3. This was one of the lowest funding requests. But it’s still nearly $60,000 in a bull market.
+55 active members x 10,000 BANK = 550,000 BANK.
+All our projects are external to the guild, so we’d be funded 550,000 BANK.
+Let’s look at another example, the Dev Guild.
+The Dev Guild has about the same number of active members as the Writers Guild, but they have nested projects. So, their funding would look approximately like:
+550,000 + nested project funding requirements = X BANK
+The nested project funding requirements would be broken down and evaluated like a project.
+Quick FAQ:
+What if my guild generates revenue, separate from projects?
+Excellent! This revenue should be used to fund the guild’s operations. Maybe it should be broken into a project, though?
+What if my guild needs more BANK than 10,000 per active member?
+Time to work on some automation and some time management. Set up a time to chat with the PLM working group!
+A final word
+We need to take some of the centralized decision making out of the Grants Committee. Right now, it’s too easy to get a fat sum of BANK for a guild. We need to hold guilds accountable like we hold projects. We must approach it differently—with guilds as professional associations.
+Looking forward to hearing your perspectives in the comments.
+Agree
+Agree but needs revisions
+Disagree
+49
+voters
+Vote now!
+Show results
+Next steps:
+Aggregate comments on this post and publish a second draft if needed.
+Present the new funding model to the Grants Committee to get feedback.
+Publish a write-up of the new funding model in the Weekly Rollup.
+Hold a formal vote via forum or snapshot, but given that this isn’t requesting any funding, I believe forum would be sufficient.
+Next step for YOU that will only take five minutes:
+How’d your guild-vanishing thought experiment go? What’s written on your sticky note? Tell me in the comments here or DM me @samanthaj#8487. I’d love to talk about it! The more human data I can get from you, the better we can make our DAO.
+2 Replies
+12

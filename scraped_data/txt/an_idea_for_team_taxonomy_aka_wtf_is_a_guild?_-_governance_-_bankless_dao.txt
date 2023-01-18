@@ -1,0 +1,115 @@
+An Idea For Team Taxonomy aka WTF is a Guild?
+“Taxonomy” is a $5 word for “naming system”. Serving on the Grants Committee this season has given me first-hand experience on how difficult it can be to navigate the different types of teams we have at BanklessDAO, let alone try to judge them for funding purposes. I believe that by agreeing on a taxonomy, we can ease a lot of the friction we have at the DAO.
+The Problem
+Teams have designations of: project, guild, committee, program, etc. There is no common definition for these “team types”, which makes it difficult to judge whether or not these teams are fulfilling their purpose.
+Funding at BanklessDAO is a chaotic and stressful process, which contributors have come to dread.
+There’s a big discrepancy in compensation around the DAO, which ties directly to the funding process.
+The Idea
+Let’s create a taxonomy (i.e. naming system) for teams from the funding perspective.
+Why a taxonomy? Naming things will allow us to attach a purpose to each type of team. Purpose provides focus, which will hopefully make the funding process smoother and easier. It will also allow us to compare teams of the same type, which may allow us to moderate some compensation discrepancies.
+Why from the funding perspective? We’re a decentralized org that believes in team empowerment. Ideally, BanklessDAO has as little “central influence” as possible on our teams while still providing some direction towards our vision. As a DAO, one of our few centralized parts is our treasury (aka our funding source). By constraining our taxonomy to funding, we can provide clarity for funding while leaving as much scope as possible to individual teams.
+Defining Teams
+BanklessDAO is a team of teams - we have to work together not just as individuals, but as teams, too. At the same time, we don’t want to enforce any specific way of working within teams - that would reduce their autonomy, which defeats the purpose of being decentralized.
+Instead, we can focus on the “shape” of teams, aka their inputs and outputs. This allows teams to act any way they want internally, while still being able to work with other teams. To do that, we need to agree upon a shared model we can use to define teams. Here’s a simple template for documenting teams that I’ve used in the past.
+Team Name: Sample Team
+Purpose: A single sentence which summarizes why this team exists.
+Rights (can dos) Responsibilities (must dos)
+A set of authorities that a team has. Responsibilities associated with the rights
+Authorities/rights are essentially decision-making abilities If you have a responsibility to do something, but not the authority, it leads to unhappiness
+A Draft Taxonomy
+Here’s a draft taxonomy I came up with for BanklessDAO:
+Every team is either funded or unfunded, and then further classified based on when/how they are funded. More details on each below.
+Teams
+Our “organizational primitive” - every group of contributors is a team.
+Unfunded Teams
+Unfunded teams include uncompensated teams like multisig holders and pre-funded projects like Bankless Card. Because they aren’t funded, they have no defined responsibilities to BanklessDAO (at least from a funding perspective, which is what this post is all about).
+Funded Teams
+Funded teams use BanklessDAO funding and therefore have certain responsibilities to the DAO. All projects, guilds, and any other group that uses BanklessDAO funding is part of this group, and therefore have the following rights and responsibilities:
+Rights (can dos) Responsibilities (must dos)
+Can use DAO funding in any way they see fit Must keep a public accounting of BANK spend
+Must maintain a Notion page
+Must maintain a Discord channel
+Must report on progress monthly
+If asking for more than 100K BANK, must have a multisig with at least 3 signers
+Guilds
+Guilds are responsible for attracting, retaining, and upskilling talent, and nothing else. They are funded teams, so they inherit the rights and responsibilities above.
+Guilds are a core function of BanklessDAO and we therefore expect to fund guilds in perpetuity. At the same time, we also want to keep them focused on talent, hence the following responsibilities:
+All rights and responsibilities for Funded Teams, plus…
+Rights (can dos) Responsibilities (must dos)
+Can expect recurring, automatic seasonal funding from the DAO forever (using the formula below) Must have a documented governance process for electing roles and coordinators
+Must maintain an auditable list of active members
+Seasonal Guild funding = 195 general role hours * 1000 BANK/hour
+                         +13 Notion admin role hours * 1000 BANK/hour
+                         + (# active members * 10,000 BANK)
+195 general role hours amounts to 3 roles at 5 hours/wk for 13 weeks (season)
+Guilds can choose the number and type of roles for which to use the funding. Some suggested roles are: Guild Coordinator, Education Lead, and Talent Lead
+Notion Administration is 1hr/wk for 13 weeks (as per this forum proposal 1)
+“Active members” needs to be defined (likely by meeting attendance and/or output).
+I suggest that we let guilds define their own “active member” metric, and show their work, so that we can find the best mechanism through decentralized experimentation. Eventually, once we have found the mechanism that works best, we can have all guilds use the same definition.
+The 10K BANK/member/season could be used by guilds in any way they like. They could use it to fund additional roles (if you’re a big guild, you may need another talent coordinator) or bounties (perhaps for meeting minutes?) or for infrastructure.
+Why 10,000 BANK? It’s what was suggested in Guilds as Professional Associations 6, and currently used by the PM Guild 3. Check out the poll below if you’d rather it was more or less?
+POLL: What do you think of the proposed automatic Guild funding mechanism?
+I like it!
+It’s interesting, but I have some issues with it which I will share in a comment
+I don’t like it, and I’ll tell you why in a comment
+30
+voters
+Show results
+POLL: How many general role hours should a guild have?
+195 ( 3 roles @ 5 hrs/wk )
+260 ( 4 roles @ 5 hrs/wk )
+300 ( 3 roles @ 10 hrs/wk )
+Something else (please comment below)
+25
+voters
+Show results
+POLL: How much should guilds get per active member?
+5,000 BANK/season/member
+10,000 BANK/season/member
+15,000 BANK/season/member
+Something else (please comment below)
+26
+voters
+Show results
+Departments
+Departments are funded teams that are responsible for keeping the DAO running (aka infrastructure teams). Because they are essential services, they are funded every season, forever. Because the purpose and scope of these groups is varied, they must present budget requests for approval (similar to the current seasonal funding process).
+Examples of groups like this are: Operations Guild, Treasury Guild, InfoSec Team, and Grants Committee. They have the following rights and responsibilities:
+All rights and responsibilities for Funded Teams, plus…
+Rights (can dos) Responsibilities (must dos)
+Can expect seasonal funding from the DAO forever Must have a documented governance process for electing roles and coordinators
+Must present a seasonal budget request for funding
+Must endeavour to improve processes every season
+Projects
+Projects are responsible for pursuing BanklessDAO’s mission 1, either directly (like Bankless Academy 1) or by somehow improving our organization (like Notion Decentralization 1). Individually, they are not essential or core functions of BanklessDAO, and are therefore also expected to strive for self-sovereignty (i.e. eventually being able to survive without BanklessDAO funding).
+Projects are NOT part of a seasonal funding process - they must submit a proposal every time they want funding (similar to a startup who raise funds in rounds like Seed, Series A, Series B, etc). This will (hopefully) encourage projects to show forward progress every time they request funding, and to figure out ways to survive on their own.
+All rights and responsibilities for Funded Teams, plus…
+Rights (can dos) Responsibilities (must dos)
+Can request funding from BanklessDAO at any time Must gain consensus around funding requests (i.e. forum quorum)
+Must submit a proposal which includes expected use of funds
+Must publicly post KPIs once a month
+POLL: What do you think of the proposed ad-hoc Project funding mechanism?
+I like it!
+It’s interesting, but I have some issues with it which I’ll share in a comment
+I don’t like it, and I’ll tell you why in a comment
+23
+voters
+Show results
+Benefits of the Draft Taxonomy
+Seasonal funding effort is reduced by 85% (from 28 guilds/projects down to ~4 departments)
+This would reduce contributor stress around seasons and allow us to take the time to set our Departments up for success each season
+More clarity around types of teams and expectations
+Now when you submit a funding proposal, you’ll know whether to label it as a guild/department/project, and our community will better be able to judge based on expectations of each
+This will also allow us to compare groups (particularly guilds) to learn from those who are most successful
+Standardized funding for guilds should help us ease some compensation issues around the DAO
+What do YOU Think?
+These are just ideas - by discussing them we can improve them, so be sure to leave your thoughts in the comments!
+…for the sake of measuring consensus, here’s a poll:
+POLL: What do you think of the Draft Taxonomy?
+Love it! Grants Committee should implement it as soon as possible
+I agree in general, but have some questions/comments/concerns, which I will leave in a comment below.
+I don’t agree with this and I’ll tell you why in a comment below.
+23
+voters
+Show results
+1 Reply
+2

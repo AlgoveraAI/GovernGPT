@@ -1,0 +1,57 @@
+<div class="regular contents"><div class="cooked"><p>Title: Tokenomics - L2 Liquidity Deepening</p>
+<p>Author: Icedcool🏴#4947</p>
+<p>Discord Vote: <a href="https://discord.com/channels/834499078434979890/846544905958457377/1007284065621246032">Link <span class="badge badge-notification clicks" title="5 clicks">5</span></a></p>
+<p>Forum Post: <a href="https://forum.bankless.community/t/tokenomics-l2-liquidity-deepening/4125">Link</a></p>
+<hr>
+<h1>
+<a name="tldr-1" class="anchor" href="#tldr-1"></a>TLDR</h1>
+<ul>
+<li>In Balancer L2 we have a liquidity depth of $46,419 (2184423 BANK and 5.4556 ETH)
+<ul>
+<li>This translates into high slippage for AMM operations on Polygon.</li>
+</ul>
+</li>
+<li>We need sufficient liquidity on every chain $BANK is implemented on to enable BanklessDAO operations.</li>
+<li>To resolve this we would like to migrate 50k of liquidity from L1 to Polygon Balancer
+<ul>
+<li>Sushiswap <a href="https://analytics.sushi.com/pairs/0x2c51eaa1bcc7b013c3f1d5985cdcb3c56dc3fbc1">Liquidity <span class="badge badge-notification clicks" title="2 clicks">2</span></a> (705,194.04 BANK and 7.49 ETH ≈ $24,122.29) - (50/50)</li>
+<li>Balancer <a href="https://app.balancer.fi/#/pool/0x87165b659ba7746907a48763063efa3b323c2b0700020000000000000000002d">Liquidity <span class="badge badge-notification clicks" title="1 click">1</span></a> (1217788 BANK and 3 ETH ≈ $25,878) - (80/20)</li>
+</ul>
+</li>
+</ul>
+<h2>
+<a name="summary-2" class="anchor" href="#summary-2"></a>SUMMARY</h2>
+<p>BanklessDAO has the Balancer pool on Polygon which has a volume(usage) of around $1,000 daily. Currently we have a liquidity depth of 46k on L2, which is resulting in high slippage for people using and trading on L2. BanklessDAO needs to support the liquidity depth for operational usage on all chains, and so plans to migrate 24k of liquidity from Sushi (low usage) and 26k from the Balancer L1 pool for a total of 50K liquidity to support depth on Polygon L2.</p>
+<p>This proposal is to gain approval from the DAO to migrate this liquidity to enable Polygon operations.</p>
+<h2>
+<a name="specifications-3" class="anchor" href="#specifications-3"></a>SPECIFICATIONS</h2>
+<ul>
+<li>Sushiswap <a href="https://analytics.sushi.com/pairs/0x2c51eaa1bcc7b013c3f1d5985cdcb3c56dc3fbc1">Liquidity <span class="badge badge-notification clicks" title="2 clicks">2</span></a> (705,194.04 BANK and 7.49 ETH ≈ $24,122.29) - (50/50)</li>
+<li>A portion of Balancer <a href="https://app.balancer.fi/#/pool/0x87165b659ba7746907a48763063efa3b323c2b0700020000000000000000002d">Liquidity <span class="badge badge-notification clicks" title="1 click">1</span></a> (1217788 BANK and 3 ETH ≈ $25,878) - (80/20)</li>
+</ul>
+<h2>
+<a name="implementation-4" class="anchor" href="#implementation-4"></a>IMPLEMENTATION</h2>
+<p>Implementation steps would be as follows:</p>
+<ol>
+<li>
+<p>BDAO multisig would unpair the Sushiswap liquidity.</p>
+</li>
+<li>
+<p>The multisig would unpair a portion of the Balancer Liquidity (1217788 BANK and 3 ETH ≈ $25,878)</p>
+</li>
+<li>
+<p>The multisig would then migrate the total amount of assets to Polygon via the Treasury Guild Bridging Service (TBS) to the Polygon multisig (X ADDRESS)</p>
+</li>
+<li>
+<p>FInally the multisig would deposit the assets into Balancer pool at an 80/20% ratio.</p>
+</li>
+<li>
+<p>The Sushi assets (50/50) would be auto balanced to the 80/20 ratio.</p>
+</li>
+</ol>
+<p>Post implementation the liquidity depth will be at roughly 100k worth of depth, which should enable Polygon Operations and usage.</p>
+<hr>
+<p>This vote will be active for 7 days, and pending the approval of this vote will go to snapshot for DAO wide approval.</p>
+<h1>
+<a name="vote-5" class="anchor" href="#vote-5"></a>Vote:</h1>
+<div class="poll" data-poll-name="poll" data-poll-type="regular"><div><div class="poll-container"><div class="poll-title">Tokenomics - L2 Liquidity Deepening</div><ul class="results"><li class=""><div class="option"><p><span class="percentage">97%</span><span>Approve</span></p></div><div class="bar-back"><div style="width:97%" class="bar"></div></div></li><li class=""><div class="option"><p><span class="percentage">3%</span><span>Deny</span></p></div><div class="bar-back"><div style="width:3%" class="bar"></div></div></li></ul></div><div class="poll-info"><p><span class="info-number">35</span><span class="info-label">voters</span></p></div><div class="poll-buttons"><button class="widget-button btn btn-default toggle-results btn-icon-text" title="Back to your votes" disabled="true"><svg class="fa d-icon d-icon-far-eye-slash svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-eye-slash"></use></svg><span class="d-button-label">Show vote</span></button><span class="info-text" title="August 21, 2022 6:00 PM">Closed <strong>Aug '22</strong></span></div></div></div></div><section class="post-menu-area clearfix"><nav class="post-controls expanded"><div class="actions"><div class="double-button"><button class="widget-button btn-flat button-count like-count highlight-action regular-likes btn-icon-text" title="4 people liked this post" aria-label="4 people liked this post. Click to view" aria-pressed="false">4<svg class="fa d-icon d-icon-d-unliked svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-heart"></use></svg></button></div><button class="widget-button btn-flat share no-text btn-icon" title="share a link to this post"><svg class="fa d-icon d-icon-d-post-share svg-icon svg-node" aria-hidden="true"><use xlink:href="#link"></use></svg></button></div></nav></section></div>

@@ -1,0 +1,25 @@
+Bankless DAO – Onboarding 1 Billion People to Crypto Forth DAO – Creating a Safer, more Resilient, Financial Ecosystem
+Hey Bankless DAO,
+September is Suicide Prevention Awareness Month. Earlier this year, several people died by suicide following the LUNA debacle. Many others lost their life savings. The implosion rippled far throughout the ecosystem and spared no one, as the market witnessed cascading liquidations sending the price of ETH all the way down to $888. The greed of the few induced the misfortune of many.
+Is this still positive-sum?
+Decentralized Finance has transformed many lives, but it is far from perfect. If we are going to successfully build a better world with web3 technology, then we will require a more stable financial system. On our mission to onboard the next billion people, we must create more safety nets for all participants. This natural collaboration of Bankless DAO and Forth DAO is likely to yield positive-sum outcomes.
+The Bankless DAO (nation) is awesome, but it is not a revenue generating entity that distributes dividends or rewards to its constituents - yet. I’d like that to change, and we can do so by leveraging the novel ButtonZero financial primitive: Tranche.
+Both parties can take advantage of Liquidation Free Loans:
+Zero Liquidation Loans in Decentralized Elastic Finance
+The video above explains how Liquidation Free Loans can facilitate positive outcomes for both lender and borrower. Lenders can earn a 25% yield, while borrowers bear no risk of liquidation and retain the chance to capture upside.
+Bankless DAO Treasury owns approximately $2.3M in $BANK. Because the value of ETH is expected to increase programmatically after The Merge…PoW vs. PoS…
+
+…Bankless DAO can benefit in the following ways or some combination thereof:
+Convert $800k worth of BANK into USDT  Lend out $800k USDT to earn a yield of 25%  $1M USDT in 6 months
+Convert $BANK into $ETH and take out a Zero Liquidation Loan to immediately create liquidity for various purposes:
+The liquidity can be distributed to each DAO member evenly, or based on $BANK holdings, or some other contribution-oriented metric
+The liquidity from the Loan itself can be used to hedge against the Z-Tranches
+Other DAO led initiatives
+OTC trades with Forth DAO to circumvent slippage issues
+Beyond these immediate opportunities, it might behoove us to explore the Button-Wrapper.
+GitHub
+GitHub - buttonwood-protocol/button-wrappers: Solidity code for the... 1
+Solidity code for the ButtonToken rebasing wrapper protocol - GitHub - buttonwood-protocol/button-wrappers: Solidity code for the ButtonToken rebasing wrapper protocol
+This smart contract will convert $BANK into an elastic asset and empower us to issue Zero Liquidation Loans collateralized by $BANK.
+The codes have been audited. The community is aligned and has been since before 2020. From a system design perspective, there do not appear to be any glaring flaws as Risk is transferred and tranched elegantly. The limiting reagent at this time is Liquidity.
+I would love for a fruitful discussion to follow. I will answer questions to the best of my ability.

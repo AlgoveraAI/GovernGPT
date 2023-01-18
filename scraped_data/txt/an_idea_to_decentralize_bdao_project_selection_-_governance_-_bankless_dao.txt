@@ -1,0 +1,18 @@
+This idea came to me while working on a strategy to decentralize a POS chain.
+This conversation is to take a temperature check on what other bDAO members think.
+It’s rather simple.
+Have project proposers score themselves.
+The process would like the DAO will set a fixed periodic project intake date ie Feb1,May 1st, etc.
+On the project selection date, the project proposers form the selection committee that will prioritize the projects. Each proposer will score competing projects, but not their own.
+The scoring process is moderated by a neutral coordinator.
+The scores are tabulated, and project priority is established.
+Bounty: scoring coordinator X times per year
+Bounty: To make the initial project scorecard, collect the feedback after scoring, and review or update the scorecard as needed x times per year.
+Done.
+In the longer term, once proven, this could be automated with no coordinator.
+To be clear, this idea addresses how to prioritize bDAO projects.
+How to determine funding levels and funding allocation would be a different mechanism.
+Let’s ideate on the funding step.
+Wah say U?
+1 Reply
+1

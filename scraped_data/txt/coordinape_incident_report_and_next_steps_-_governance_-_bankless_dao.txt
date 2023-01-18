@@ -1,0 +1,54 @@
+Title: Coordinape Incident Report and next steps
+Date: Jan 16, 2023
+Author: links#7868
+Editors: Rowan#3669, Trewkat#1933, Tertius#8423, MinaHasNoIdea#6706, jengajojo.eth🏴#5896
+Summary
+Former DAO-wide Coordinape Admin, Whales #7970, has admitted to impersonating 2 DAO members in coordinape: Tomahawk#3011 and Shaun/dancingpenguin.eth#2590
+During this investigation, it was also discovered that many DAO members had transferred BANK to each others’ wallets to meet the minimum 35K requirement for L1/L2 during signup (i.e. they were not holding 35K BANK)
+It was also discovered that many DAO members are allocating GIVE based upon relationships and initiatives OUTSIDE of the DAO (i.e. they were not allocating based upon contribution to BanklessDAO)
+Operations Department needs some DAO consensus to continue
+Background
+It was recently discovered that our DAO-wide coordinape admin, Whales #7970, had used his position to steal BANK from BanklessDAO. Whales admitted 1 to impersonating two members of the DAO and allocating himself GIVE. During this investigation, it was also discovered that members were sending each other BANK to hit the L1 requirement to sign up for Coordinape, thus increasing their potential rewards while not holding L1 status. Members were also found to be giving each other GIVE not for contribution to BanklessDAO, but for personal and external business reasons.
+The investigation team (infinitehomie.eth #4930, Sprinklesforwinners#1125, links#7868, and LiviuC#7835) brought their findings to the Ops Department. Ops decided not to give a December contributor reward list to the Grants Committee, which means that December Coordinape rewards will NOT be paid out. Ops further decided (with DAO input) to pause the Coordinape workstream until it could be reworked to avoid the issues mentioned above.
+There were some issues that Ops Department was not able to decide on its own, as there was consensus that these issue were beyond the Ops Department mandate:
+Who should decide the consequences for Whales #7970?
+What are the consequences for Whales #7970?
+How much should the investigation team be compensated for their work?
+How much should we fund to fix/replace Coordinape?
+Proposal
+Consequences
+Whales #7970 admitted to using his role to steal BANK. He was removed from his position 1 in the Ops Department. However, Ops Department doesn’t feel it has the authority to unilaterally decide on DAO-wide consequences for this contributor.
+POLL: Who should decide the consequences for contributors who are found stealing, or in breach of a position of trust?
+Click here to vote in the Discord poll gated to L1 and above 10
+POLL: What do you think the consequences to Whales should be? (Multi-select)
+Click here to vote in the Discord poll gated to L1 and above 5
+Investigation Retro Funding
+The investigation team (infinitehomie.eth #4930, Sprinklesforwinners#1125, links#7868, and LiviuC#7835) spent significant time (over 70 hours between them, with more to come) to acquire needed data from the blockchain and the coordinape team, pour over all of the transactions to analyze the data, interview contributors to get multiple perspectives, report findings, and gain consensus through forum proposals and sync meetings. How much should they be compensated for their efforts?
+POLL: How much retro funding should the investigation team be granted to distribute amongst themselves?
+Less than 100K BANK
+100K BANK
+150K BANK
+200K BANK
+More than 200K BANK
+14
+voters
+Show results
+Contributor Reward Workstream
+DAO-wide Coordinape is paused until we can fix the issues with the process, or replace it with something else. How much funding should be dedicated to this effort?
+POLL: How much funding should the Contributor Reward Workstream be granted to fix/replace Coordinape?
+Less than 100K BANK
+100K BANK
+150K BANK
+200K BANK
+More than 200K BANK
+13
+voters
+Show results
+Final Thoughts
+Although it’s saddening to hear about a contributor taking advantage of the DAO, it’s also heartening to see contributors step up to help solve this issue. Thieves won’t stop BanklessDAO, only contributor apathy can do that.
+Let’s use this situation to become stronger, so BanklessDAO can help bring the Bankless message to the world.
+Next Steps
+Gain consensus on these pressing issues
+Delegate consequences to the group(s) identified above
+Get our Contributor Rewards back to help us pursue our mission
+1

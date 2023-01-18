@@ -1,0 +1,37 @@
+DAO Wide Coordinape Season 7 Proposal Draft 3
+Author - Infinitehomie.eth
+Date - Jan 3, 2023
+Scope - Minor Patch
+Involved - Ops Department
+Summary:
+This Draft involves the final decision on what is needed for the Season 7 DAO Wide Coordinape process.
+We are looking to decide whether to Pause the Season 7 DAO Wide Coordinape, or whether we need to lower the total BANK Allocation Amount for the DAO Wide Coordinape to 500,000 BANK.
+Background
+Please refer to Draft 1, and Draft 2 for more background on this situation. I have attached the two previous drafts to this proposal. From the previous proposal, it has been shown that we do need to enact a change to Season 7’s DAO Wide Coordinape. It has been voted in Draft 2.
+BDIP - Coordinape Season 7 Proposal - Pause/Reduction (draft 2) - Governance / Proposals - Bankless DAO 11
+DAO Wide Coordinape Pause Proposal Draft 1 - Governance - Bankless DAO 6
+This is due to alleged misbehavior with respect to the Season 6 Period 2 DAO-Wide Coordinape (also known as Season 6 Period 1 due to issues with the Season 6 Period DAO-Wide Coordinape) See those Conversations here (NOTE: This proposal will hereafter be known as the December DAO-Wide Coordinape) -
+Financial Implications:
+If the vote is for a Season 7 Pause of the DAO-Wide Coordinape, 4.5 Million Bank will be saved.
+If the vote is for a Season 7 Reduction to a total of 500,000 BANK total per period for the DAO-Wide Coordinape, 3.5 million BANK will be saved.
+bDAO Impact:
+This is DAO Wide, specifically members who apply for the DAO Wide Coordinape. Season 6 December Period reported approximately 187 Members.
+Season 6 Month 1 BanklessDAO December Coordinape Results 5
+Analysis:
+We will provide analysis of the savings for the DAO as a result of Ops and Coordinape Investigation. Current Information can be found in the Coordinape Workstream, and in the Coordinape Investigation Project Thread housed in the Research Guild Workstream.
+Next Steps:
+Obtain Quorum
+Implement decision in Season 7 Spec.
+The Choice is Yours:
+** What should we do for Season 7 DAO-Wide Coordinape?**
+Should we Enact a 1 Season Pause for the Season 7 DAO-Wide Coordinape?
+OR
+Should we reduce the Season 7 DAO-Wide Coordinape to 500,000 BANK per Period
+53%
+We Should Reduce the Season 7 Coordinape to 500,000 per period.
+47%
+We Should enact a Season 7 Pause for the DAO-Wide Coordinape
+62
+voters
+Show vote
+1

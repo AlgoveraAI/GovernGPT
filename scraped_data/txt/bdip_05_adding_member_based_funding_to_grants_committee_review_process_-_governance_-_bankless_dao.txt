@@ -1,0 +1,38 @@
+Title : bDIP 05 (Minor = Change; expands but remain compatible with the previous versions)
+Authors : Sprinklesforwinners, p8ul.eth
+Editors : links
+bDIP Summary:
+The BanklessDAO Constitution states:
+“Before new seasons begin, all previously funded guilds and projects must submit a funding proposal to the forum for the Grants Committee to review. Funding proposals that pass the Grants Committee review process are packaged together in a single seasonal budget Snapshot vote.”
+However, the Constitution does not give any guidance on how to do this. We currently use member-based funding. This method of funding has previously been voted on and enacted in season 6. The constitution should reflect this way of funding going forward.
+Background
+Member based funding was first introduced during season 3 in the forum proposal, Guilds As Professional Associations: a new funding model.
+Season 4, the Team Taxonomy forum post, provides us with the definition of Guilds and Departments.
+During season 5, this forum post showed us the rationale and the need to calculate active members.
+Season 6 was the first season that used member-based funding. Guilds had to determine their own criteria for active membership. Guilds chose their own way to define “active members”, and shared their criteria, calculation, and list of active members with the DAO on their seasonal forum posts (you can find a list of forum posts here: S6 Funding Requests). The intent behind letting guilds set their own formula and “show their work” was to do an analysis after the fact to see what criteria, if any, should be used when determining “active members”.
+The output from this was then shared and voted on as seen below in the member based funding retrospective.
+Data
+The member based funding retrospective produced the following poll results:
+When polled :
+What do you believe that time window for activity should be?:
+67% of the community voted :
+3 months (1 season).
+When polled :
+Do you believe that meeting attendance should be counted as active membership?
+58% of the community voted :
+No, meeting attendance alone should not be counted as active membership.
+When polled :
+How do you think guilds should be tracking activity?
+68% of the community voted :
+That Guilds should track tasks/bounties/attendance to determine active members.
+Next Steps
+Gain consensus to add the previously voted on polls. This will serve as guidance for how the Grants Committee reviews seasonal funding proposals.
+Ops Department to update the Constitution.[poll type=regular results=always chartType=bar]
+Do you agree that the Constitution should include member based funding in their seasonal budget review process?
+75%
+Yes
+25%
+No
+8
+voters
+Show vote

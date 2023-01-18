@@ -1,0 +1,38 @@
+Scope:
+This document serves to kick off a discussion to explicitly define and gain consensus on some of the different organizational components and units at the DAO.
+Definitions:
+DAO:
+A Decentralized Autonomous Organization that is a collection of organizational units oriented around its mission(in this case onboarding 1 billion into crypto).
+Grants Committee:
+Oversight committee that has defined powers and potentially checks, that asses funding requests and distributes funding based on the mission of the DAO, and orientation of the season. Powers need to be further defined.
+Guilds:
+Curated talent pools that are considered public goods. They are not profit seeking, and have governmental structures and generally democratic processes. They will always be a cost, and curate talent and organization at the DAO to support projects.
+Departments:
+Intentional (and potentially interguild) groups that focus on guiding the DAO through proposals and oversight. Departments are a part of guilds, that will be overseen by the guild, and funded as part of the guild.
+Example departments:
+Tokenomics
+2Devops
+1Adfunistration
+Committees:
+Short term groups spun up to investigate issues and topics, and create actionable proposals for the department, Guild and ultimately the DAO.
+Example Committees:
+Tokenomics Treasury Diversification Committee 1 - Intent is to diversify treasury.
+PLM - Working group to provide guidance to the DAO on project lifecycle management.
+Projects:
+Profit seeking, or non-profit entities that have their own defined structures, governance, and revenue models. They resource talent from guilds, based on the guidance of departments. They are funded and vetted via proposals to the DAO and the grants committee and are accountable to the grants committee and the DAO.
+Example Projects:
+DaoDash
+1Degen
+Bankless Academy 1
+Vote:
+Approve Above Definitions
+Needs Modifications
+14
+voters
+Show results
+Powers, Checks and Balances:
+Beyond these definitions, I think the powers of each of these bodies should be defined, checked and balanced. The idea of checks and balances is to support equitable decisions being made DAO wide, and ultimately maintaining alignment amongst these entities.
+An example being, GC has powers, Guilds have powers, and Projects have powers, and these different entities could veto each other with enough consensus to some defined degree.
+Additional forum post required, post consensus on this proposal!
+1 Reply
+2

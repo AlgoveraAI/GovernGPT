@@ -1,0 +1,226 @@
+<div class="regular contents"><div class="cooked"><p>Title: bDIP-03: Dynamic forum quorum for bDIPs<br>
+Draft Author: jengajojo</p>
+<h1>
+<a name="bdip-summary-1" class="anchor" href="#bdip-summary-1"></a>BDIP SUMMARY</h1>
+<p>The static forum quorum requirements set in the constitution do not reflect the activity of active contributors in the DAO which consequently leads to governance frustration. Instead, the suggestion is to adopt a formula based approach which can evolve as the activity in the DAO evolves.</p>
+<h1>
+<a name="bdip-background-2" class="anchor" href="#bdip-background-2"></a>BDIP BACKGROUND</h1>
+<p>Recently we saw in <a href="https://forum.bankless.community/t/bdip-02-coordinated-timing-across-banklessdao/4752">bDIP-02: Coordinated timings across bDAO <span class="badge badge-notification clicks" title="1 click">1</span></a> that in times when there are less active contributors, it was really difficult to reach quorum for something relatively simple. The quorum thresholds were defined in the constitution in a time when there were many more <strong>active</strong> contributors. The challenge with a static threshold is that it cannot reflect the number of active contributors in the DAO at any given time, this is especially relevant for an industry such as crypto where the attention can vary significantly between the bull and the bear phases.</p>
+<h1>
+<a name="bdip-specification-3" class="anchor" href="#bdip-specification-3"></a>BDIP SPECIFICATION</h1>
+<h3>
+<a name="how-can-we-address-this-challenge-4" class="anchor" href="#how-can-we-address-this-challenge-4"></a>How can we address this challenge?</h3>
+<h3>
+<a name="option-a-update-thresholds-at-regular-intervals-5" class="anchor" href="#option-a-update-thresholds-at-regular-intervals-5"></a>Option A: Update thresholds at regular intervals</h3>
+<p>This option allows contributors to suggest new thresholds based on manually sensing activity in the DAO. The con is the bDIP needs to reach a threshold each time for an update and there may be several updates required each year which costs a lot of admin overhead. Hence I do not recommend this option</p>
+<h3>
+<a name="option-b-update-thresholds-based-on-formula-6" class="anchor" href="#option-b-update-thresholds-based-on-formula-6"></a>Option B: Update thresholds based on formula</h3>
+<p>This option requires less changes as compared to option A if the formula allows for thresholds to be set dynamically based on activity within the DAO. Overall this reduces the admin overhead.</p>
+<h4>
+<a name="current-form-7" class="anchor" href="#current-form-7"></a>Current Form</h4>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Governance update</th>
+<th>Forum quorum</th>
+<th>Approval %</th>
+<th>Timeline</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Major</td>
+<td>63</td>
+<td>70%</td>
+<td>1 week</td>
+</tr>
+<tr>
+<td>Minor</td>
+<td>51</td>
+<td>70%</td>
+<td>1 week</td>
+</tr>
+<tr>
+<td>Patch</td>
+<td>40</td>
+<td>70%</td>
+<td>1 week</td>
+</tr>
+</tbody>
+</table>
+</div><h4>
+<a name="proposal-8" class="anchor" href="#proposal-8"></a>Proposal</h4>
+<blockquote>
+<ol>
+<li>Modify the quorum table</li>
+</ol>
+</blockquote>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Governance update</th>
+<th>Forum quorum</th>
+<th>Approval %</th>
+<th>Timeline</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Major</td>
+<td>30 Day Average + (0.2 x 30 Day Average)</td>
+<td>70%</td>
+<td>1 week</td>
+</tr>
+<tr>
+<td>Minor</td>
+<td>30 Day Average</td>
+<td>70%</td>
+<td>1 week</td>
+</tr>
+<tr>
+<td>Patch</td>
+<td>30 Day Average - (0.2 x 30 Day Average)</td>
+<td>70%</td>
+<td>1 week</td>
+</tr>
+</tbody>
+</table>
+</div><blockquote>
+<ol start="2">
+<li>Add the following items are criteria for the above in the constitution</li>
+</ol>
+</blockquote>
+<p><em>- The dataset for 30D avg starts 1 day prior to the date of posting a proposal.</em></p>
+<p><em>- All forum quorum calculations are rounded to the nearest whole number</em></p>
+<p><em>- Only polls which have been live for atleast 7 days should be taken into account</em></p>
+<p><em>- If a forum post includes more than one poll, each poll should be considered a separate datapoint</em></p>
+<p><em>- 30D Average formula = Sum of votes / number of independent polls</em></p>
+<blockquote>
+<ol start="3">
+<li>Modify the bDIP proposal template and add the following:</li>
+</ol>
+</blockquote>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Date posted</th>
+<th>Post title</th>
+<th><span class="hashtag">#votes</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ddmmyyyy</td>
+<td>Title</td>
+<td>n</td>
+</tr>
+</tbody>
+</table>
+</div><div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Major</td>
+<td>m + (0.2 x m)</td>
+</tr>
+<tr>
+<td>Minor</td>
+<td>m = 30D avg</td>
+</tr>
+<tr>
+<td>Patch</td>
+<td>m - (0.2 x m)</td>
+</tr>
+</tbody>
+</table>
+</div><h1>
+<a name="expected-impact-9" class="anchor" href="#expected-impact-9"></a>EXPECTED IMPACT</h1>
+<p>Makes forum quorum more dynamic and reflective of the latest activity in the DAO</p>
+<h1>
+<a name="analytics-10" class="anchor" href="#analytics-10"></a>ANALYTICS</h1>
+<p>Here is an example of this formula applied for the current proposal.</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Date posted</th>
+<th>Post title</th>
+<th><span class="hashtag">#votes</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>02-12-2022</td>
+<td>Snapshot voting - Implement Shielded Voting</td>
+<td>53</td>
+</tr>
+<tr>
+<td>14-12-2022</td>
+<td>Weekly rollup recap video series</td>
+<td>38</td>
+</tr>
+<tr>
+<td>12-12-2022</td>
+<td>Purpose Driven Guild Funding</td>
+<td>29</td>
+</tr>
+<tr>
+<td>06-12-2022</td>
+<td>Proposal to re-create the Education Guild Organizational Unit within the DAO</td>
+<td>29</td>
+</tr>
+<tr>
+<td>25-11-2022</td>
+<td>Marketing Department Season 6 - Content Coordinator Re-election</td>
+<td>58</td>
+</tr>
+</tbody>
+</table>
+</div><div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Major</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Minor</td>
+<td>41</td>
+</tr>
+<tr>
+<td>Patch</td>
+<td>33</td>
+</tr>
+</tbody>
+</table>
+</div><h1>
+<a name="next-steps-11" class="anchor" href="#next-steps-11"></a>NEXT STEPS</h1>
+<p><em>Update Constitution</em></p>
+<p><em>Update bDIP Format</em></p>
+<h1>
+<a name="working-group-background-12" class="anchor" href="#working-group-background-12"></a>WORKING GROUP BACKGROUND</h1>
+<p>jengajojo: bDAO contributor involved in governance and project management</p>
+<blockquote>
+<h1>Polls</h1>
+</blockquote>
+<h2>
+<a name="h-1-what-type-of-update-is-this-13" class="anchor" href="#h-1-what-type-of-update-is-this-13"></a>1. What type of update is this?</h2>
+<div class="poll" data-poll-name="poll" data-poll-type="regular"><div><div class="poll-container"><ul><li tabindex="0" data-poll-option-id="7958006edac531cb7c13bafd34e3a253"><svg class="fa d-icon d-icon-far-circle svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-circle"></use></svg> <span>Major</span></li><li tabindex="0" data-poll-option-id="efc1e32a3a8c9e71d983f86dd3b93be5"><svg class="fa d-icon d-icon-far-circle svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-circle"></use></svg> <span>Minor</span></li><li tabindex="0" data-poll-option-id="5f5292167c3e0929ac92f878361a46f6"><svg class="fa d-icon d-icon-far-circle svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-circle"></use></svg> <span>Patch</span></li></ul></div><div class="poll-info"><p><span class="info-number">24</span><span class="info-label">voters</span></p></div><div class="poll-buttons"><button class="widget-button btn btn-default toggle-results btn-icon-text" title="Display the poll results"><svg class="fa d-icon d-icon-far-eye svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-eye"></use></svg><span class="d-button-label">Show results</span></button></div></div></div>
+<h2>
+<a name="h-2-modify-forum-quorum-to-a-formula-based-approach-as-detailed-in-this-proposal-14" class="anchor" href="#h-2-modify-forum-quorum-to-a-formula-based-approach-as-detailed-in-this-proposal-14"></a>2. Modify forum quorum to a formula based approach as detailed in this proposal</h2>
+<div class="poll" data-poll-name="poll2" data-poll-type="regular"><div><div class="poll-container"><ul><li tabindex="0" data-poll-option-id="277962ea3b8227e06ed3eb378fbdba0d"><svg class="fa d-icon d-icon-far-circle svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-circle"></use></svg> <span>Yes</span></li><li tabindex="0" data-poll-option-id="720aa6324194f0ccd395b3cd0ed76f0e"><svg class="fa d-icon d-icon-far-circle svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-circle"></use></svg> <span>No</span></li></ul></div><div class="poll-info"><p><span class="info-number">24</span><span class="info-label">voters</span></p></div><div class="poll-buttons"><button class="widget-button btn btn-default toggle-results btn-icon-text" title="Display the poll results"><svg class="fa d-icon d-icon-far-eye svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-eye"></use></svg><span class="d-button-label">Show results</span></button></div></div></div></div><section class="post-menu-area clearfix"><nav class="post-controls expanded"><div class="actions"><div class="double-button"><button class="widget-button btn-flat button-count like-count highlight-action regular-likes btn-icon-text" title="1 person liked this post" aria-label="1 person liked this post. Click to view" aria-pressed="false">1<svg class="fa d-icon d-icon-d-unliked svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-heart"></use></svg></button></div><button class="widget-button btn-flat share no-text btn-icon" title="share a link to this post"><svg class="fa d-icon d-icon-d-post-share svg-icon svg-node" aria-hidden="true"><use xlink:href="#link"></use></svg></button></div></nav></section></div>

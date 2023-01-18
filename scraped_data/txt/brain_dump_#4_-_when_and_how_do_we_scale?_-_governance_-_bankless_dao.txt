@@ -1,0 +1,76 @@
+Brain Dump #4 - When and How Do We Scale
+Brain Dump #1 - Governance, Revenue, & BANK 14
+Brain Dump #2 - Framework for Balance of Power 5
+Brain Dump #3 - Is $BANK Money? 18
+Been a while since I’ve done one of these! Let’s get started.
+Introduction
+You may have noticed that BanklessDAO is still keeping a low profile:
+Our liquidity is quite tight. Our Uniswap 4 and Sushiswap 2 pools have incredibly low liquidity, with Sushi having a 2% depth of only 8,000 USD.
+We’ve decided to keep the membership threshold at 35K $BANK (currently over 3,000 USD)
+We’ve stayed away from treasury diversification and capital raises, unlike our social token counterparts at ForeFront 4 and FWB 2.
+I see these types of decisions as “scaling” decisions. Ways that will “open the floodgates” for people to get more exposure to the DAO and $BANK. I want to believe this is deliberate - that we’re still in the “stealth” phase where these public-facing decisions are not yet on our radar.
+The rest of this post is an argument for keeping a lid on scaling decisions until roughly the end of Season 2 (Yes, I’m already planning for Season 3 ).
+Getting Out of Stealth Mode
+So, BanklessDAO is still in stealth mode. In order for us to hit that flywheel that will let us scale without any major hiccups, there are 5 spokes that I think we can nail by the end of Season 2:
+Governance
+Coordination
+Project Management
+Onboarding
+Compensation
+Governance
+Governance is the foundation that we build on. It defines how we make macro level decisions and allocate funding. 0xMiel put it well when he said:
+twitter.com
+sacha yves saint-leger🎗 3
+@ssaintleger
+7:22 AM - 15 Sep 2021
+34
+2
+Frankly, I think we nailed the majority of our governance flows on the first try. Our original S1 spec 1 is astoundingly detailed and has decentralized decision making baked in:
+In S1, we adopted a more centralized approach. In S2, we progressively decentralized, and we will continue to do so with time.
+Coordination
+Our fundamental coordination layer are our guilds 1. In S0, guilds were prototypical. In S1, we saw them flourish. When people join the DAO, they go to the guilds first. Guilds are largely responsible for staffing projects and capturing talent that comes into the DAO.
+They hold weekly meetings. Segment Discord channels by activities. Have elected positions, both generalized and guild specific 2. There’s even discussion about cross-guild roles, like the Creative Council.
+Dev guild took a major step by creating their own newsletter 4 and the Writers Guild has earned revenue through external client work.
+Project Management
+Projects are how we move towards our Mission 3. But I believe we’re still learning how to manage projects. Recently, I wrote a post on how projects should be scoped, staffed, and executed:
+Project Proposal Framework
+General
+Introduction Guilds and projects are two core components of how BanklessDAO operates. Over the past three months, we’ve made steady steps towards formalizing guilds. The most recent step-level improvement has been the creation of roles within each guild. While tremendous progress has been made in guilds, guidance on projects has fallen behind. People are confused about when to write a proposal, how to get feedback, what to include, and a number of other important details that go unnoticed. Thi…
+In S2, this workflow will be formalized as part of the S2 Spec. But for now, project management is a bit weak. There are some exceptions that have excellent project managers, but projects are often understaffed, specifications are weak, and updates are captured disparately on community calls and meeting notes. It’s difficult to get a concise view of what’s happening at the DAO.
+We do have a projects dashboard 1 that I created some months back that has been sporadically updated, but hasn’t been curated and managed. This season, the Ops Guild will make this a focus – or at least I will.
+Onboarding
+@Behold and @angyts have done a fantastic job with First Quest. First Quest is our onboarding procedure.
+So far, we’ve seen an explosion in Guest Passes and members responding in #get-involved (shoutout to Viking and Grendel for constantly responding to members) and a sustained spike in our newsletter subscription, as per the instructions in #first-quest:
+Their S2 proposal 2 goes beyond the MVP stage and is even more ambitious. By the end of S2, we’ll have a scalable way to get people directly involved with where they are interested, such as guild specific first quests, talent scouts, and regular onboarding webinars.
+Compensation
+The biggest question mark is compensation. This is a big focus on S2, as I suggested in the Onwards to Season 2 post.
+In order for us to retain talent, we need to make sure people are properly compensated for the work they’re putting in. We have a number of levers:
+Hourly pay
+Lump sum
+Coordinape
+Revenue share
+KPIs
+Full time employees
+I’m working on another large forum post on compensation. For now, let’s assume that by the end of S2, we’ll have a stable idea of how work will be compensated and which levers are appropriate to use when.
+Together, these 5 spokes create a steady foundation for us to really scale. To really hit the gas pedal, attract talent, staff projects, grow guilds, create new membership perks, and really take this experiment we’re on the next level. If any of these 5 spokes are weak or unstable, we will hit major points of friction that can grind us to a halt.
+Hitting Scale
+I believe that by the end of S2, we’ll have solidified the three remaining flywheel spokes. So what then? If we’re using conventional growth terminology, Season 3 is when we go “public” and allocate resources that will attract public attention.
+At the very least, that means:
+A capital raise to diversify our treasury out of BANK. – This is deeply tied to my future post on compensation.
+Deepen liquidity
+Start allocating resources towards creating membership perks, thereby driving reasons to own BANK and be a member
+Seasonal NFT memberships
+Possibly lowering membership threshold
+(Details are deliberately sparse because they don’t matter right now. This is an end of S2/beginning of S3 topic.)
+Together, these actions will bring a lot of attention to our DAO. It will bring new blood, investors, media, innovators, idealists, and more. We’ll move out of stealth mode and really take the world by storm.
+Thoughts?
+Strongly agree
+Somewhat agree
+Unsure
+Somewhat disagree
+Strongly disagree
+93
+voters
+Vote now!
+Show results
+9

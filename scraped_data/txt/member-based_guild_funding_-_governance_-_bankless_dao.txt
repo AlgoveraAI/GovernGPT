@@ -1,0 +1,60 @@
+Summary
+The Grants Committee has a mandate from the Season 5 Specification to implement automatic guild funding (now called member-based guild funding)
+Current Guilds will choose to be Guilds or Departments (see definitions below) for the Season 6 Funding Round
+During the Season 6 Funding Round, both Guilds and Departments must submit a forum post which describes progress made the previous season as well as plans for the next season
+Guilds must also submit a list of active members they have, and a calculation of their definition of active members (i.e no detailed budget required)
+Department must also submit a detailed accounting from the previous season and a detailed budget for the next season
+Background
+In the Season 5 Specification 4, BanklessDAO members voted to implement “Seasonal Automatic Guild Funding”. This initiative was first introduced in a forum post, and reached consensus as part of the Season 5 Community Vote 1. Based upon feedback, the name of this initiative is now “Member-Based Guild Funding” to better reflect the ideas presented to the community.
+The impetus for the change to member-based funding originally came from the Season 4 Community Vote 1 and Season 4 Specification 1, where BanklessDAO members expressed a desire for more accountability for guilds and projects.
+In Season 4, Grants Committee rolled out a KPI reporting framework 4 for projects (you can see some results here 1). In Season 5, Grants Committee will continue acting on the DAO’s desire for accountability by using member-based guild funding as an accountability mechanism.
+How Does Member-Based Guild Funding Create Accountability?
+Guilds have been around since the early days of BanklessDAO 2, and are colloquially defined as talent pools. In practice, guilds are not REQUIRED to be talent pools, and that can be seen in their seasonal budgets. Some guilds use their budgets to attract, retain, and upskill their talent by hiring talent coordinators and holding educational events. Other guilds use their budgets to pursue project work. Still other guilds use their budget to run the basic machinery of the DAO.
+The result of this loose definition is that it’s very difficult to hold any single guild accountable to their budget. Since there was no hard definition of a guild, anything a guild did was acceptable. This led to guild budgets being rubber-stamped by the Grants Committee for at least 3 seasons in a row (i.e. there was no accountability).
+Member-based guild funding solidifies the idea that guilds are talent pools by funding guilds for the active members they have (see Specification for more on “active members”). By attracting and retaining talent, guilds are deepening the “pool” of active talent available at BanklessDAO, and are rewarded by being funded more BANK. Guilds are thus incentivized to be talent pools, and the accountability to do so is encoded into the funding mechanism itself.
+Specification
+Guild vs Departments
+As per the Team Taxonomy forum post 9, we have the following definition of Guilds and Departments:
+Guilds are responsible for attracting, retaining, and upskilling talent, and nothing else.
+Departments are responsible for keeping the DAO running (aka infrastructure teams).
+Some examples of Departments could include the Operations and Treasury Guilds - they perform basic functions to keep the DAO running and aren’t really operating as talent pools.
+Season 6 Funding Procedure
+To ensure that the transition to automatic funding is smooth, Grants Committee proposes the following procedure:
+All Guilds will have the choice to become Guilds (funded via # members) or Departments (funded via seasonal budget submission).
+We assume that Guilds will require consensus from their members, so the time frame for this decision will have to be 2-3 weeks.
+Those that choose to become Guilds must start recording who their active members are at any given time.
+During the seasonal planning process for Season 6, both Guilds and Departments will still have to submit a seasonal forum post, which details what they accomplished in the previous season, and their plan for the next season.
+Departments will also submit a budget request for the next season in their forum post, as well as detailed accounting for the previous season (i.e. how each BANK was spent)
+Guilds will also submit the # of active members they have in their forum post, as well as a written calculation for this number and a list of Discord usernames who are active members of the guild.
+Guild “internal projects” will be admitted into the seasonal funding round as standalone projects (i.e. they must submit a forum post which requests seasonal funding, similar to a department or existing project)
+Grants Committee will review all forum posts (including guild active member calculations), and recommend disbursement based on the quality of the information provided.
+Guilds Departments
+Funding mechanism Seasonally, via # members (see formula below) Seasonally, via budget ask
+Seasonal forum post describing previous season and plans for next season Required Required
+Next season’s budget Not required Required
+Previous season’s accounting Not required Required
+List of active members + calculation Required Not Required
+The Guild Funding Formula
+Based on the Team Taxonomy forum post 9, BanklessDAO will use the following formula to calculate Guild funding for Season 6:
+Seasonal Guild funding = 260,000 BANK (seasonal role hours, 4 role x 5 hours x 13 weeks)
+                         + 13,000 BANK (Notion administrator role)
+                         + (# active members) x 10,000 BANK
+…up to a maximum of 1,000,000 BANK
+It’s important to note that guilds can do whatever they want with this funding. They can decide to have 4 roles at 5 hours a week or have 2 roles at 10 hours a week. They can create more roles, they can kick off smaller internal projects/education efforts, or they can allocate it to a coordinape. How the guild uses their funding is up to the guild.
+What is an Active Member?
+Active members are those that contribute to the guild in some meaningful way. Meeting attendance is one possible way to measure contribution, but it precludes asynchronous contributors, so it might not be the best way.
+Some BanklessDAO guilds are already tracking something similar to active members:
+The Project Management Guild defines an active member as someone who has attended meetings in 3 of the last 6 weeks, or has completed 2 kanban tasks in the last 12 weeks. Here is a spreadsheet which shows the calculation for active members: PM Guild Active Member Calculation per 09/12/2022 4.
+The Writers Guild has 3 roles based on participation: pupils, scribblers, and scribes 2.
+Why can’t we just use the number of people who have guild tags from #role-select? The short answer is that people who self-select into guilds aren’t necessarily contributing to the guild. The purpose of automatic guild funding is to encourage guilds to engage talent, and selecting a tag from role select does not accomplish that.
+It’s important to note that the benefit of tracking active members goes beyond the attached funding. You can tie your active member status to guild perks like Coordinape, roles, and governance participation. Guilds may feel incentivized to make their definition for active members low-effort, but in doing so you might be opening your member perks up to non-contributors. Be careful.
+All active member calculations will be reviewed by the Grants Committee prior to funding being disbursed. Guilds who try to game the system by artificially inflating their active members will have their funding adjusted at the discretion of the Grants Committee.
+Next Steps
+Create draft procedure
+Gather guild coordinator feedback
+Gather community feedback
+Adjust funding procedure as necessary
+Work with seasonal planning squad to implement
+What do YOU Think?
+If you’re reading this, I’m talking to you! What are your thoughts? How does this fit with the experience in your guild? Any potential pitfalls we haven’t taken into account? Leave a comment to help make this transition smooth.
+13

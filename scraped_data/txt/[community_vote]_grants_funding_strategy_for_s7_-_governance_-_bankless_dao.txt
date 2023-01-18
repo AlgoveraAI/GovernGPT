@@ -1,0 +1,66 @@
+author: @jengajojo
+Squad : Grants Committee
+Summary:
+In S6 The Grants Committee has held weekly strategy meetings to ideate on the overall grants and funding strategy for the DAO. In this community vote, we would like to know how to proceed with GC funding strategy going forward.
+Background:
+Quotes from the constitution about the Grants Committee mandate:
+This committee is responsible to vet groups seeking midseason funding and consequently ensure funded entities provide ongoing transparency into the state of their development.
+The Grants Committee is required to be transparent and communicative with the DAO, such as access to Committee meetings and an opportunity to voice opinions and feedback.
+Seasonal funding is largely dispersed through the Grants Committee.
+Before new seasons begin, all previously funded guilds and projects must submit a funding proposal to the forum for the Grants Committee to review. Funding proposals that pass the Grants Committee review process are packaged together in a single seasonal budget Snapshot vote.
+Groups seeking funding over the course of a season will be directed to the Grants Committee upon successfully passing their Forum proposal. The Grants Committee is responsible to evaluate these requests and has the liberty to accept or reject these requests for funds.
+In line with these mandates, the Grants Committee held ‘Strategy’ calls each week to identify challenges in the current funding process and suggested 4 possible solutions. We would like to hear from the DAO on what should the next step be:
+Project proposal template 6
+Adopt the new proposal template for projects?
+Yes
+No
+21
+voters
+Show results
+Department proposal template 2
+Adopt the new proposal template for departments?
+Yes
+No
+20
+voters
+Show results
+Project Assessment Framework 5
+Evaluate projects with the help of this assessment framework?
+Yes
+No
+20
+voters
+Show results
+In Season 6, the DAO distributed >22M BANK, up 12.8% from S5, between departments, guilds and projects. In S7 we should:
+Increase funding
+Keep funding unchanged
+Decrease funding
+25
+voters
+Show results
+Grants strategy bonus
+S5 onwards, a 250K bonus for the grants committee was initiated to compensate for “process improvements to the Grants Committee, initiate an evolution of the Grants Committee mandate or initiate an evolution of the DAO as a whole within the mandate of the Grants Committee.” However there is no criteria defined to measure the success of this bonus structure.
+We suggest measuring the success of the GC by the “number of forum posts GC makes within a season” to unlock this bonus.
+What should be the KPIs for GC?
+Number of proposals passed
+Number of meetings attended by GC members
+Number of forum posts
+Other suggestions [comment below]
+18
+voters
+Show results
+In S6, including this post, the GC made 5 posts in total under this criteria. Should GC receive additional compensation for S6, to be distributed amongst the GC members via Coordinape?
+Yes
+No
+23
+voters
+Show results
+If the above is yes, how much?
+500,000 BANK
+300,000 BANK
+100,000 BANK
+19
+voters
+Show results
+1 Reply
+1

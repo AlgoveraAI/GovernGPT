@@ -1,0 +1,79 @@
+@frogmonkee’s post about the Governance Solutions Engineer 6 program had me thinking about contributor alignment. This post lays out a strategy we could use to adjust contributor incentive to allow us to create long-term alignment.
+The Problem
+Our current member system has the following issues:
+Trusted contributors can lose their status and access if they drop below 35K BANK. Some examples:
+people who need to use BANK for living expenses
+people who move their BANK to Polygon
+people who get rugged
+There are many “inactive” L2’s who retain status and access but are no longer engaged by BanklessDAO
+The guest pass system has a lot of issues
+it’s onerous for L2’s to continually renew trusted guest passers
+There are valued contributors who are stuck at the guest pass level simply because they don’t have enough BANK to be L1
+Unequal split of active contributors of each means that the Coordinape rounds aren’t remunerating people the way they were designed
+It’s hard to tell what different contributor levels mean. L1 means you have 35K BANK, what does L2 mean? What about L3 or L4 (also connected to accumulated BANK as far as I know)
+The Idea
+In short: create a flexible framework which allows us to experiment on contributor alignment over the long-term by tying different types of contribution to various perks.
+A lot of the issues come from conflating contribution with BANK holdings, and others come from activity. I suggest instead of one track which tries to validate all aspects of being a member of BanklessDAO, we use many which each describe a different type of contribution. I further suggest we start with community acceptance, stake, and activity.
+Community acceptance - based upon community support, i.e. how many people support you being a member of BanklessDAO?
+Stake - how much BANK you hold
+Activity - how active you are in Discord
+Assuming we have a reasonable split for levels in these categories, we could then assign perks to each level to help align membership over the long-term. See An Example below for details.
+Why These 3 Categories of Contribution?
+Although there are many ways we can measure contribution to BanklessDAO, these three are convenient to start. Our current levelling system conflates community acceptance and stake, so disentangling those two gives us a starting point. Adding activity allows us to handle the flow of contribution over time, ensuring the people who are currently working on BanklessDAO are being incentivized to do their best work.
+Community acceptance is trust. Higher levels of community acceptance should give you more access to tools to help a contributor pursue the BanklessDAO mission. It’s measured in the number of people who vouch for you.
+Stake is risk. Higher levels of stake show you are risking more on BanklessDAO and opening yourself up to the upside and downside by holding BANK. In some ways, stake shows how much you believe in BanklessDAO.
+Activity is contribution. It’s not, really, but it’s just an easy correlation to contribution (assuming that contribution is based upon working together). Discord is our central hub. If you’re not joining meetings and/or sending messages in Discord, you’re not participating and likely not an active contributor. See below for other ways to measure contribution.
+We could add a lot of other dimensions to this (although I think we should restrict ourselves to the 3 above to start). Here are some examples:
+Output - how many artifacts (code/designs/documents) you produce (contributed)
+Impact - how much you’ve contributed to the mission
+Recognition - how much the community values your contributions (i.e. Coordinape allocations)
+Earnings - how much BANK have you EVER earned (i.e. using BANK for living expenses wouldn’t affect this number)
+Etc.
+A Note on Perks
+Perks are anything that is seen as a net benefit to the individual they’re given. This is an intentionally broad definition - we should be creative when experimenting with perks!
+For some concrete examples, perks can be physical things like merch, digital things like NFTs, intangible things like recognition, access to higher-level tooling, etc.
+Perks would be paid for from the treasury. They’re benefits given continually to contributors to help incentivize them to continue working with us in the long run. As such, we’d need to take care that our perk distribution is sustainable. It would be heartbreaking to have our treasury emptied through excessive perks.
+The example below will lay out a perk framework for clarity, but remember: we need to keep experimenting to ensure our perks are actually helping us keep active contributors over the long term. We need to look at the state of our contributors regularly to ensure that the results match the goal and make changes as necessary
+An Example
+To make the above ideas clear, here’s an example. First we have each of our 3 contribution types to define:
+Activity - Measured daily, weekly, and seasonally
+Activity is a bare minimum for contributors, so you’ll notice many of the perks below require you to be active.
+Daily Active Weekly Active Seasonally Active
+Has posted at least 5 messages on BanklessDAO Discord in a day Has been active 3 of 7 days using Daily Active criteria Has been active > 50% of the weeks in the season using Weekly Active criteria
+Community Acceptance
+Anyone contributor can initiate a poll for any other contributor. You can’t initiate a poll for yourself.
+C0 - Guest Pass C1 - contributor C2 - trusted contributor C3 - key contributor C4 - core contributor
+Same as current guest pass Discord poll with 5 existing contributors voting in favour Forum poll with 20 existing contributors voting in favour Forum poll with 50 existing contributors voting in favour Snapshot poll with 100 existing contributors voting in favour
+Note: C2, C3, and C4 contributors who are seasonally inactive revert to C1
+Stake
+S1 - Minnow S2 - Koi S3 - Dolphin S4 - Orca S5 - Whale
+<10k BANK 10-35K BANK 35-100K BANK 100-300K BANK >300K BANK
+Perks
+There are more perks here than would likely be sustainable, but I wanted to flesh out the example.
+Coordinape
+In pirate ships, they elected their captains and when it was time to distribute their loot, they did it based on a share system: crew gets 1 share, quartermaster gets 1.25 shares, first mate gets 1.5 shares, and the captain gets 2 shares.
+Instead of having multiple Coordinape pools, have a single pool (for active contributors only) which is distributed based on pirate math: 1 share for each C1, 2 shares for each C2, 3 shares for each C3, etc. Then put that amount into each Coordinape circle for allocation.
+Assuming 1M BANK for coordinape/month, and the following contributor breakdown: 1000 C1’s, 100 C2’s, 10 C3’s, 1 C4 (1111 total contributors)
+1M BANK / 1234 shares = ~810.4 BANK/share
+The monthly round allocations would look like this:
+Active C1 and above (1111 contributors) Active C2 and above (111 contributors) Active C3 and above (11 contributors) Active C4 (1 contributor)
+900,354.4 BANK 89954.4 BANK 8914.4 810.4 BANK
+Note: Stake contributors wouldn’t be included in coordinape rounds, they’re only for active contributors.
+Tools
+In most cases, more trust should give you more tools to allow you to get more done quicker. These kinds of perks should be reserved for active contributors. That being said, there are some tools which are also status symbols and might be attractive even if you aren’t an active contributor - the example below is a BanklessDAO email.
+Notion membership Discord Administration (i.e. create roles, etc) Discord Nitro BanklessDAO email address
+Active C2 and above Active C2 and above Active C3 and above Active C4 and above
+S4 and above
+Merch
+Anyone who says they don’t like merch drops goes back to C0!
+Christmas Merch Drop Summer Merch Drop All-Season Merch Drops
+Active C2 and above Active C3 and above Active C4
+S4 and above S5
+NFTs
+Exclusive NFTs minted specifically for BanklessDAO members. You can’t buy ‘em (except in the aftermarket, bwuah ha ha!)
+Yearly NFT Drop Twice Annual NFT Drop Special One-Shot NFT
+Active C2 and above Active C3 and above Active C4
+S4 and above S5
+What do you think?
+Intrigued? Offended? Hungry? Drop a comment to let me know
+9

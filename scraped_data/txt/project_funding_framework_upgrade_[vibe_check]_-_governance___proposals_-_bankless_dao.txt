@@ -1,0 +1,132 @@
+Author: @Jengajojo
+Date
+SUMMARY:
+This draft proposes three concrete upgrades to the bDAO project funding framework
+Establish a new class of entities called, ‘Incubators’ and upgrade some projects such as (but not limited to) newsletter project, IMN, podcast hatchery, bankless academy to this new structure. Allow incubators to setup their own guidelines on project acceptance, develop a standard price list for incubation and establish a ‘graduation’ criteria for incubating projects
+Take the GSE cohort 1 recommendations and move existing and future long term projects to be funded with a BanklessDAO quadratic matching round.
+Mandate the GC to
+Upgrade the proposal format for projects
+Help bDAO spin up more incubators by categorising past projects
+Setup and monitor policies for projects to be eligible for seasonal matching rounds
+DISCLAIMER
+The scope of this proposal is limited to current and future bDAO funded projects and does not include guilds, departments or any other non-funded groups working within bDAO.
+BACKGROUND
+Project Funding
+Since season 1, the procedure for projects to receive funding has seen little change. GC teams over the past seasons have added valuable modifications such as
+Voting thresholds
+KPI reporting
+Mid-Season KPI checks
+While this has improved the process, this is akin to shipping upgrades to V1 Project Funding as opposed to a fully fledged V2. We see that many projects (greater than 95%) receive funds from the GC but only a handful have some sort of product market fit. This, in my opinion, boils down to two flaws in V1
+V1 assumes that GC members have the necessary qualifications to objectively decide which teams and projects are worth funding, however, the reality is that popularity contests seldom result in a panel of experts.
+Project teams have high passion, but often lack the right support structure or skills in order to succeed.
+GSE Recommendations
+The GSE took steps in the previous seasons to look at some of these challenges and recommend a few solutions. Some of the solutions relevant to this post are:
+Revamped Levelling System
+Project Funding Roadmap
+Rigorous DAO Reporting
+Customer centric funding
+SPECIFICATION
+With the above points as background, we see that groups independently emerged within bDAO to tackle some of these challenges, I call these groups, Incubators.
+Incubators
+“Incubators are entities which help bDAO project teams become successful by providing them with the necessary expertise, infrastructure and talent during the incubation period.”
+In this post, I use the examples of IMN, Newsletter Project, Podcast Hatchery and Bankless Academy as projects which independently spun up and are helping other groups become successful. Below is an example of this specific workflow
+The suggestion is to make this role (Incubator) official and use this as a template to spin up incubators for other similarly grouped projects in the future. Incubator management seats can be intentionally filled with domain experts who can help multiple teams become successful.
+Eg: An NFT projects incubator can help projects such as 1 6 2 4 3 4
+How do incubators get funded and evaluated?
+Incubators have admin costs and they should scale along with the number of projects an incubator is incubating. At the same time the success of an incubator(aka MoS, Measure of Success) can be measured by the number of successful* projects, while the KPIs can be:
+#the number of projects graduated
+#the ratio of incubator admin expenses to total expenses
+*successful = self-sustainable
+In concrete terms, each incubator submits a forum post which has
+Fixed cost to run the incubator with at least 1 project incubating during the season
+A price list for a project to reach graduation (eg: 100K BANK to graduate a new podcast project)
+Acceptance criteria for new projects
+KPIs and MoS update of the incubator in the past season
+When a new project wants to become part of an incubator, they use the standard price list and follow the blanket process to qualify for any support or funding from bDAO. Today this process is:
+Make a forum post
+Achieve forum quorum
+Once this is achieved, the project has to meet additional criteria (if any) set by the incubator they wish to work with. Once all the standard formalities have concluded, the GC sends funds to the incubator in question, this covers
+the cost of paying new contributors
+Additional admin expenses for the incubator
+Any other tools or other costs involved
+Below is an example of how this workflow could look like
+Graduation
+After projects have finished their incubation period, they are considered to be graduated. Each incubator has the liberty to decide their own graduation criteria, for projects which do not qualify for incubators, the GC decides the graduation criteria along with the project team in question.
+This element is inspired by the GSE’s recommendation on ‘Project Funding Roadmap’, specifically: “The first round of funding is given as a grant”
+All projects which have graduated are eligible for seasonal bDAO matching rounds, however, the GC makes the final policy on which projects can participate and acts as an emergency fail-safe incase things go south.
+Sentiment check on: Adding Incubators and Graduation to bDAO processes and constitution
+LFG, bDIP wen?
+I generally agree, but I have some comments
+I completely disagree and will tell you why in comments below
+20
+voters
+Show results
+Seasonal Matching Rounds
+The final suggestion is to fund long term projects as well as graduated projects which fulfil the policy set by the GC, with gitcoin style quadratic matching rounds.
+Today, the GC faces a challenge towards the end of each season when 30+ proposals have to be reviewed and approved by 7 people in a week or two. As previously stated, a centralised panel of 7 non-experts is not the optimal solution. Secondly, projects have different asks and there is a discrepancy between projects with similar goals but variable asks.
+The GSE recommendation of a ‘Customer Centric 2’ funding approach makes more sense here, wherein the early adopters of each of the projects can vote with their wallets and bDAO matches these donations with a fixed pool of BANK tokens(matched via quadratic funding) Learn more about quadratic funding here 1
+As a consequence, projects which have a better product market fit, PMF, will attract enough funds to bootstrap themselves into the future and projects with no product market fit will fizzle out as those contributors won’t be sufficiently funded. All projects which have graduated, will have the sufficient resources to become successful (as guaranteed by the incubation criteria set by the incubators) so the final deciding factor is the merit of the contributors more than anything else.
+This enables bDAO to rapidly fund and ship projects with high probability of PMF and fizzle out teams which keep asking for funds with no PMF.
+POLL
+Sentiment check on: Modifying long term projects funding framework to quadratic matching rounds.
+LFG, bDIP wen?
+I generally agree, but I have some comments
+I completely disagree and will tell you why in comments below
+22
+voters
+Show results
+Grants Committee
+Upgrade the proposal format for projects
+In order for this workflow to function smoothly, the GC role needs to be modified from having to make decision on all projects which ask for funding to only those projects which cannot be categorised into an existing incubator
+A few things I have learnt by being on the GC and being a project champion is
+Teams who can think through their idea early on have an easier time to deploy their projects later, hence it is recommended that the Project proposal format is updated to
+a. Help teams think through their ideas early on
+b. Has precis guidelines on what is acceptable version of KPIs and MoSs
+Teams who have seen some success in bDAO (eg: L2) or have members with skin in the game (L1) often show higher commitment. The GSE has similar observations and recommends
+“Revamped Leveling System
+We recommend adding a skills-based reputation component to membership in addition to BANK balance. Currently, only L2s are earned through recommendation.
+Skill-based: Skill-based leveling (L1-L3) Right now, the only earned level is L2.
+Graduated BANK holding requirements for levels. Ex. 50k for L2 and 100k for L3. This would greater incentive alignment and reduce supply.
+Introduce Funded Working Group Role Level Requirements. Ex: Must be L3 to be a champion or coordinator.
+Resiliency: Must have two L2s on the team (apprenticeship model) These L2s should have the same access to the L1’s systems for safety (reduce single point of failure)
+As well as
+“Project Funding Roadmap
+Leveling requirements for funding (Must be Ln to ask for x BANK)”
+The proposal is to MANDATE the GC to revamp the project’s proposal format based on these inputs and come up with a new format which can be used as a blanket ‘temp check’ by all prospective projects.
+Help bDAO spin up more incubators by categorising past projects
+In case the incubator model gets adopted, the GC is mandated to survey all the projects which have been funded in the past, and identify incubator categories. Further the GC should make a post on
+the categories of incubators which it has identified
+a suggestion on the cost of incubating 1 project in each category
+The GC should establish
+a dedicated GC sub-team to encourage contributors to spin up these incubators
+a dedicated GC sub-team to watch out for common project themes in the future and encourage contributors to spin up these incubators
+Setup and monitor policies for projects to be eligible for seasonal matching rounds
+In case the matching round model gets adopted, the GC is mandated to:
+Setup guidelines and policies for projects to be eligible to participate in matching rounds
+Identify projects which violate policies and remove them from matching rounds
+Make sure matching rounds flow through smoothly
+FINANCIAL IMPLICATIONS
+Seasonal Projects funding:
+The biggest change will be how funding for seasonal projects is allocated. Today, projects ask random amounts without much consideration for the BANK token supply or their own ability to be efficient with their funds or PMF. However, in this case, long term projects no longer need to make a forum post, but a gitcoin style grant application, wherein they can pour their own creativity into convincing their community about their merits.
+All long term projects which are not incubators, guild or departments will be part of seasonal quadratic matching rounds.
+How do we decide how much BANK to allocate for the seasonal matching round? Some suggestion below:
+Allocate a fixed amount (eg: a few million BANK each season)
+Allocate all remaining funds from a given season
+other (add comment)
+19
+voters
+Show results
+Incubator funding:
+As stated before, each incubator will ask the community for a minimum budget to incubate 1 new project. When new projects want to be added to the incubator, they make a forum post with the standard price list and receive additional funding as projects pass the steps required to be funded.
+Grants Committee Funding
+The GC will no longer need to spend time in evaluating projects with similar goals as well as deep diving into long term projects. This will either incentivize the GC to reduce their seasonal ask or pay closer attention towards funding new types of projects or spinning up incubators for common categories of projects.
+A graphical overview of the end-to-end process is available here 3
+POLL
+Sentiment check on: General vibe?
+Yes, I generally agree
+No, I completely disagree
+23
+voters
+Show results
+2 Replies
+1

@@ -1,0 +1,98 @@
+Draft Authors: BPetes, Otterspace
+Working Group: Ops-Guild ( chunz , raybankless.eth , brianl, LiviuC)
+Summary
+This post is an update on the finalized and detailed plans for the Otterspace Pilot. This Pilot was proposed back in August 2 and recently discussed in the Season 6 community 4 vote.
+The intent of this post is to:
+Provide a detailed specification for Season 6 pilot;
+Address questions raised in prior forum post discussions (see FAQ); and
+Provide space for a final round of feedback and sentiment before imminent pilot start
+For this pilot we are focused on improving security and access challenges that occur when a contributor goes inactive.
+The experiment proposed for Season 6 is to have bDAO members mint an expiring Otterspace ‘Season Participant Badge’ and a ‘Level 2 Badge’ (for members that have achieved L2). The Participant Badge NFT will be a signal of members who are preparing to participate and remain active in S6. The Participant Badges will expire automatically at the end of Season 6, and process will start over again in Season 7 (if sentiment of this experiment is positive).
+These Badges will be used in Collab.Land gating logic for server access control to improve security holes that exist as contributors go inactive or go below 35k BANK. Expired Badges can no longer be used for access via Collab.Land in subsequent seasons, but they can be retained by contributors as proof of their presence and participation at the start of Season 6 (or simply burned if they no longer wish to hold them).
+Quick Example:
+@level2 discord role access will require that the member hold:
+A Level 2 Otterspace Badge AND
+An unexpired Season Participant Badge AND
+Maintain the 35K BANK threshold of an @level1.
+This will ensure that as L2s go inactive or dump BANK their @level2 access will lapse until they renew their Participation Badge and/or regain the 35K BANK. This also brings the added benefit of no longer relying on Discord role-tags as the ‘source of truth’ for this important L2 status.
+Background
+This pilot and bDAO partnership with Otterspace was originally proposed in August 2 by @0xJustice with a 93% favourable poll result from 43 voters. This proposal has no cost associated with the use of Otterspace and only requires coordination efforts from within existing departments and roles.
+Since the initial proposal, members of the Ops-Guild and the bDAO Cartography Workstream have stepped up to support the implementation and related coordination. The plan to use these Otterspace verifiable credentials were signalled and discussed in the Season 6 community vote 4 with a 94% approval and 65 voters.
+The finalized scope of this pilot is greatly reduced relative to the originally proposed plan to ensure we minimize the effort required to experiment and the time required to get more experientially informed feedback – AKA. “Go small, learn faster.”
+This initiative acts as a proof–of-concept for using non-transferable NFT protocols but sits inside a larger “fabric of change" emerging here at bDAO. We’d like to acknowledge that this experiment meshes nicely with related work being done on tokenomics/subscriptions, guest pass revamp, and general reputation/governance-based initiatives. The learnings from this small experiment can be used to support each of these in the following way:
+Guest Pass (@blockboy) [Forum Post 2] - GuestPasses expire, can harden them using Otterspace expiring ntNFTs
+Tokenomics (@Icedcool) [Forum Post Soon] - subscriptions/time-lock BANK options – ntNFT tech like can have an ‘allow-list’ to mint driven by external contracts
+Reputation Based Unlocks (@0xBaer) - if you use reputation data from tools like Showkarma and/or Orange Protocol they can be complimentary methods of allowlisting ntNFT solutions like Otterspace
+About Otterspace
+Otterspace 4 Badges provide DAOs with a new, non-financial coordination primitive to enable richer interactions and a more nuanced participation model.
+Otterspace is building a flexible and easy-to-use interface for DAOs to harness the power of non-transferable Badges. Badges can enable DAOs to automate access rights & permissions (with Guild & Collab.Land), perform non-financialized governance (with Snapshot), manage community-specific credentials, and create better incentive systems. Badges can be easily designed and issued to members via the Otterspace app interface. Through the API endpoint, members can also be automatically added to an allowlist programmatically. The protocol also supports badge revocation, expiry, and reinstatement, so the community is able to respond to bad actors. The team is also co-authoring a token standard specifically for non-transferable tokens (EIP 4973 1) on top of which they are building an open protocol.
+Pilot Plan Details
+Scope
+Problems Explored
+Throughout Season 5, several problem areas were identified or accentuated. Some of these considered for this pilot include:
+Level 2 role holders that have gone dormant or dipped below 35k BANK were server admins and this presented a significant security issue to bDAO – recently closed by InfoSec, but perhaps we could have just determined who was dormant vs. cutting off access.
+Sesh.fyi guild election polls being called into question because anyone can permissionlessly get a guild tag via Carl-Bot and collude to win.
+It is hard to keep track of who is active or has been active and therefore who should be able to participate in Coordinape rounds (e.g. Dormant L2s collecting BANK because of past contributions/rep/popularity not recent ones)
+We ultimately decided to focus on #1 with hints of #3. The goal is to create a bit of a crude ‘dead man’s switch’ 4 on roles like @level1 and @level2.
+Solution Landscape
+bDAO can use Badges as a means of:
+Hardening Level 2 roles into an on-chain non-transferable Badge, so L2 status isn’t just a Discord role-tag and can be more trusted
+Having all bDAO members interested in participating in Season6 explicitly declaring this interest by minting an on-chain ‘Season Participant’ badge
+Automating gating permissions for Badge holders in Collab.Land so that proof of L2 and proof of ‘intent to participate’ are considered in @level1, @level2 gates
+Creating historic mementos for Badge holders (proof of L2, and seasonal participation – or just burn it when done using; users choice)
+Unlock future potential discovered through small experiments (i.e. guest pass system, guild/project role assignment, governance improvements, rep and contribution badge unlock games, etc)
+Implementation Details
+The bDAO Ops Guild has set up an initial pilot use case to test how Badges could work during Season 6. This is scoped to be a very simple experiment of hardening Level2 passes and having Season Participants minting a seasonally expiring badge to indicate their intent to participate for the season.
+For the desired Collab.land gating logic to work, the Ops Guild will create two Badges through Otterspace:
+1) Season 6 Participant Badge
+The Season 6 participant pass denotes intent to remain active and expires at the end of the season.
+There are one of two ways to obtain the S6 pass:
+Through being an active contributor in Season 5 and expressing interest in continued activity in Season 6, which was gathered through the Coordinape form at end of S5:
+Members who indicated their wallets in that form are getting allowlisted to claim the Season 6 Participant Badge in Otterspace
+Members will be informed that they can mint the Badge, and then use it to retain their @level1 and @level2 tags in Discord and continued access in S6
+Contributors who missed the sign-up at the end of season 5, or want to use a different wallet for minting the pass, can use the Badge Request Form 9 which will be located in one of ‘front-door’ channels in Discord to help folks returning easily find it.
+2) Level 2 Badge
+The Level 2 Badge, which will replace Discord @level2 as the source of truth of Level 2 membership (does not expire):
+Existing Level 2 role holders are eligible to obtain a Level 2 Badge (as well as any new ones nominated going forward). The @level2 role on Discord will be contingent upon a users wallet(s):
+Holding the Level 2 Badge
+Holding 35k BANK
+Holding an unexpired Season X Participant Badge; and
+The @level2 Discord role will be revoked automatically if any of these conditions are not met and will automatically return once they are.
+Important implementation considerations:
+For the duration of this pilot, Otterspace will cover the minting costs on Optimism by airdropping ETH on Optimism to the wallets that signed up to participate
+The DAO WILL NOT decide which wallet must mint these badges. Members will get to choose which address they wish to use so members can use a different wallet for collecting these vs. say an ENS wallet which is more identifying if they wish
+In this Season 6 experiment, Badges initially won’t be used in governance – smaller use cases in guilds are encouraged and reach out to Ops Guild if you’re interested in experimenting with Otterspace Badges and guild governance/reputation experiments
+Implementation sequence:
+This is a not a trivial transition in our server gating; but it can be achieved very safely and with DAO consensus “baked in” to process with the following steps:
+Get people their badges first (as this can take time) and ensure success with the minting process
+‘Wire up’ the new collab.land gate logic and test it with some trivial placeholder Discord role-tags first to see that everything’s working.
+Observe a ‘critical mass’ of folks have minted and are ready to participate – the badge minting is like an implicit bDAO vote of preparedness and willingness to participate in this experiment
+IF steps 1 → 3 success, do a final announcement of firm date of transition to this new method of server gating
+‘Go-live’ in Collab.land on the designated date and switch the @level1 and @level2 role-tag rewards to the new logic.
+Ongoing: Ops-guild supports new folks in navigating and monitors the Season Participant intake form to ensure that any dormant L1s and L2s who arrive back can quickly mint their badges and get active again with ease.
+End of season do a retrospective and sentiment poll to evaluate success of this experiment and determine what is preserved (or merged into Szn7 relevant bDIPs around structure, tokenomics, governance, and access control)
+Measures of Success
+All members that were awarded Level 2 Badges and Seasonal Participant Badges successfully minted the Badges, with the transaction fee covered by the Otterspace ETH airdrop
+Significantly improving the security holes, measured by infoSec sentiment surrounding this initiative and the potential re-enstatement of deeper server privileges for the @level2 tag once it’s more trusted
+End-of-season sentiment poll and DAO consented plans to use these technologies in upcoming bDIPs related to structure, governance, Coordinape, and/or access control.
+Final Temp Check
+Yes - I’m ready to mint my Otterspace Badge(s) and try this
+No - I read FAQ below AND have concerns shared in comments
+29
+voters
+Show results
+APPENDIX
+A1 - Frequently Asked Questions (FAQ)
+What happens to the Badges when a member's wallet keys are compromised? Does the issuer simply issue a new Badge?
+Isn’t anyone who has their finger on the issuance a vector for centralization?
+Aren’t there risks since it’s a non-transferable Badge?
+Are Badges in conflict with pseudonymity?
+More FAQs are answered in the Otterspace Docs 1.
+A2 - Otterspace Minting Guide
+Badge Claim Process (expand for details & screenshots)
+A3 - Additional Links
+Developer docs (all contracts are open sourced): https://docs.otterspace.xyz/developer-docs
+Website: https://otterspace.xyz/ 3
+Twitter: https://twitter.com/otterspace_xyz 1
+1 Reply
+11

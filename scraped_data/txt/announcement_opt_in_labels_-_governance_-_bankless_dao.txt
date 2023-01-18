@@ -1,0 +1,40 @@
+I would like to propose that bDAO announcements can be targeted rather more accurately.
+Example Table of Tags for Folk to Choose
+Here is a table showing what folk may want to opt in to, rather than the rather arbitrary GP, L1 & L2 tags bDAO uses for the interim:
+DAO Orientation - Welcome Crew -
+Guild Orientation - Guild Selection - as now
+Project Orientation - Project Selection - as now
+Making Contributions - Contributors -
+Earning Bounties - Bounty Hunter -
+Making Proposals - Community Growth -
+Governance - Community Mgmt -
+Building New DAOs - Employment -
+Talent Acquisition - Recruitment -
+Yes, we still need to explain collective but rather crude BANK balance indicators, namely L1, you have earned 35k BANK, and L2, your peers have elected you to be a community manager and director in bDAO.
+GPs, Guest Passes, may still be great contributors, but simply haven’t earned their way to L1 / L2 yet.
+Is Guest Pass Use & Contribution Monitoring Effective Today?
+What about GP usage? I suggest this should be renewed monthly, not every two weeks, which would halve the toil that the community expects of L2 designates, and yet often doesn’t really appreciate in the fullest way.
+Longer term, bDAO should look at Discord bots checking activity levels in Discord, which will be substantially more accurate. At that point bDAO can note who is making regular posts longer than say 280 characters, and providing automatic renewal for folk who pass that and whatever other criteria bDAO agree to set.
+Three Examples of New Usage
+New joiners can opt in to a 'bDAO Learning Programme".
+As a GP myself, but rather more experienced in community navigation, because I grew a FB community from 850 to 6,500 (it’s now 13k plus), and as a former project manager, I’m used to group dynamics, and some of the skills it takes to herd cats.
+Personally I would opt out of such announcements, but can’t do as a GP. I think others share my frustration with the current approach, which is much more like random buckshot in reaching a genuinely interested audience.
+Others may be more interested in Governance, and want to opt in to “bDAO Community Proposals”
+Not everyone will be interested, some frens care mostly about putting food on the table, less so about community management. Maslow’s hierarchy of needs and all that. There’s probably a flip side label where folk want to hear primarily about “Bounty Announcements”. Being me, I opt in to both.
+Still others might understand how important it is to design bDAO bots with appropriate functions embedded to avoid unnecessary Draconian behaviour, and opt in to “bDAO Bot Design”.
+I have literally fallen foul of Draconian bot design myself, and written in forum about designing far more educational bots, than bots wielding big sticks. Again, for me, this is opt in.
+As a media organisation, bDAO does know targeting of messages, and about the power of opt in messaging.
+We have 27k members. Don’t we need to apply proper messaging standards internally as well?
+NB I’m going to try Ops Guild with this particular proposal, because I think it is and should be DAO wide.
+Who He?
+For those who don’t know me, luckily I stumbled upon @links , @trewkat and @hirokennelly when seeking to write an article on what makes a sticky DAO, based on observation mostly here in bDAO but also elsewhere.
+They took the crude outline I supplied, polished it substantially, and hence it’s far more elegant and punchy final gloss.
+Here is that article, which may reassure frens I’m talking from at least something of a base of knowledge when it comes to bDAO.
+Medium – 18 Aug 22
+Four Factors That Make a DAO Sticky 2
+What to Focus on and How it Will Retain Contributors
+Reading time: 10 min read
+In Future
+Please note, this article is only the beginning of my endeavours in respect of Idea Pathways, Contributor Pathways, and more broadly what I’m currently calling Guild in a Box.
+Meantime, I hope this proposal is a small contribution to that overall effort, and to bDAO announcement performance.
+1

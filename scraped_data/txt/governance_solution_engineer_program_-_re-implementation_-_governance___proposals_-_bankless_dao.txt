@@ -1,0 +1,95 @@
+Title: Governance Solution Engineer Program - Re-Implementation
+Author(s): Icedcool🏴#4947
+Date Created: February 23rd, 2022
+Date Posted: February 25th, 2022
+Reference documents:
+Quorum Removal Snapshot: Link 7
+Invalid GSE Spec Snapshot: Link 2
+Invalid GSE Election Snapshot: Link 3
+GSE Specifications: Link 17
+Alright everyone, the quorum requirement has been removed!
+While the GSE has been forum approved, but not snapshot approved, I thought this would be a chance to refresh it in the DAOs memory.
+By the time we get this implemented we will have 4 weeks left in the season, which could be a chance to start to get organized and initiate work.
+Since the initial snapshot is defunct, and time has passed, we will re-collect applicants through this LINK 15 (Submissions 33) from .
+There was some opinion that we should anonymize submissions. My thoughts are that it is a GOOD thing that people will vote on the policy vs the person.
+Currently submissions are anonymous, but if we vote against it I will de-anonymize them.
+Additionally, I will share the submission form with @links, and @jameswmontgomery.eth to hold myself accountable. (and really anyone else that is interested…)
+Anonymous Electees?
+55%
+Publicize Electees
+45%
+Maintain Anonymous Electees
+62
+voters
+Show vote
+Closed Mar '22
+The GSE has been ratified, although because of quorum challenges I wanted to re-reference this and bring it to everyone’s attention.
+The steps forward for the GSE are:
+Intake applicants for the next 14 Days. ( Till the 11th)
+Once collected, we will kick off a snapshot to approve the GSE program, and elect applicants through token weighted voting.
+Acknowledging this is one of our grand experiments!
+Governance Solutions Engineer TLDR:
+GSE Definitions:
+Governance-minded DAO members elected to spec out a comprehensive solution to mission-critical DAO infrastructure challenges.
+Specification:
+5 GSE Electees
+75K per electee
+Additional 750K bank for potential bonus to be paid at the end of the season.
+Potential Total: 225K BANK
+Two Operational pools of 500k BANK for additional contributors in each problem space to be involved, and distributed per the groups decision (potentially coordinape).
+1M Bank in total.
+There was some dispute in terms of financing.
+Should we revise this?
+Financial Specifications
+87%
+Maintain Financial Specifications
+13%
+Revise Financial Specifications
+55
+voters
+Show vote
+Closed Mar '22
+Focus:
+Contributor Alignment
+Refine membership (Guest pass, L1, and L2)
+Including potential ways to offboard contributors that no longer meet activity thresholds)
+Create compensation frameworks that can be updated
+Define global compensation standards that support contributors for the entire DAO.
+Provide guidance on guild/project local compensation.
+Refine and develop new incentive models that reward long-term contributors that stick with the DAO for long periods of time.
+Work with guilds to standardize guild roles and Coordinape rounds
+Work with guild Talent Scouts and First Quest to identify challenges and better retain talent entering the DAO.
+Strategic Prioritization
+Model and present various strategic directions for the DAO.
+Develop a potential business plan based on identified strategic model
+Create an evaluation framework based on identified strategy to help the DAO make strategic decisions with treasury and grant funding.
+Create evaluation PROCESS that optimizes community consensus and responsible decision making to act on above framework.
+Design a system that actually measures the output of funding projects and incorporates those findings into the eval process.
+Balance funding cost centers with projects that generate revenue or token value appreciation.
+Requirements:
+GSEs need to make this their #1 Priority.
+May have other positions but must disclose them.
+Lower order activities and involvement are fine (newsletter work, etc).
+Process:
+The 5 electees can organize any way they see fit, as long as it is transparent, open and public.
+GSEs are to work with the DAO to find the optimal solution by progressively designing solutions, presenting them to the DAO, capturing feedback, and iterating.
+Deliverables:
+Detailed specification to implement mid season 4 or at the start of season 5
+Ex Season 1 spec 4
+Community consent and feedback must already be included.
+Financial Process:
+Each Gov SE is guaranteed a 75,000 BANK salary.
+At the end of the Season, the DAO will vote on two deliverables produced by the GSEs via forum vote. One for strategic prioritization and one for contributor Alignment. Each deliverable will be rated on a scale of 1 to 5, which will unlock additional compensation.
+Each deliverable will unlock a maximum of 375K BANK, for a total of 750K.
+Each rating will unlock 75K in funding. 1 = 75K, 2 = 150K, 3 = 225K, 4 = 300K, 5 = 375K
+Additional compensation is only for GSEs. Distribution will be up to the 5 GSEs. They can choose to use Team Set Salaries or Coordinape.
+The two working groups (Contributor alignment and Strategic Prioritization) will have an allocated budget of 500,000 BANK EACH to collectively decide how to allocate and compensate members of the working group. Gov SEs may not draw from this allocation.
+Funds will be held in a multi-sig held by the 5 GSEs
+Once all compensation has been distributed, GSEs must produce a financial report outlining how funds were distributed.
+Any funds not distributed will be returned to the treasury
+Application:
+GSE Application Submission Form 15
+Submissions 33 - ANONYMOUS (right now)
+LFG GSE!
+1 Reply
+3

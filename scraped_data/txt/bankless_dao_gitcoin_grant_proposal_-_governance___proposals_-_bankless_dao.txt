@@ -1,0 +1,50 @@
+Steward: @Jengajojo
+TLDR
+The conversation with gitcoin to have a bDAO ecosystem grants round has not reached any consensus. The next Gitcoin Grants round starts Sept. 7, 2022. Based on the discussion so far, the best course of action is to go ahead with a common BanklessDAO projects proposal.
+This was posted in the #cross-collab[Discord 5] channel last week for all projects to add themselves to a common grant application.
+Below you’ll find the text that we suggest should be on the grants page
+" THE BANKLESS DAO MISSION…
+BanklessDAO is a decentralized community coordinating and propagating bankless media, culture, and education. BanklessDAO 1 launched on May 4th 2021 and it’s goal is to drive adoption and awareness of truely bankless money systems like Ethereum, DeFi, and Bitcoin.
+Together The BanklessDAO community collaborates to create user-friendly onramps for people to discover decentralised financial technologies through education, media and culture.
+The BanklessDAO community has a variety of projects, for the scope of this grant we are focusing on the ones which truly provide goods and services for the entire world such as BANKLESS ACADEMY, BANKLESS AFRICA and INTERNATIONAL MEDIA NODES 3
+The projects listed below have contributors working on them since many months and although some of the project contributors earn governance tokens, the work being done far outstrips the existing remuneration. Second, and perhaps more important is that all these projects aim to help the wider crypto ecosystem and not just the Bankless community and hence are public goods.
+BANKLESS ACADEMY
+Bankless Academy was established by core contributors with the vision of onboarding one-billion people to the Ethereum and Web3 ecosystem. At the Academy, Users get knowledge on Blockchain, Defi, NFTs and how to navigate the Web3 multiverse.
+Building Bankless Academy …
+The team set to work on defining the protocol’s approach to written content and visual style, to bring personality to the brand that would act as the warm welcome hand to new users.
+Since public launch, Bankless Academy has been refining its operations through Art/Branding, Product Designs, Content curation for incoming projects, Project Management and working with a great number of contributors.
+Below is a quick tour of the recently launched ‘Bankless Academy MVP-II’ interface.
+Each course contains key informations needed to thrive in the space. In the current iteration a POAP is awarded as proof-of-knowledge.
+In the future we will be looking to integrate more media types into our dApp.
+BANKLESS AFRICA
+Our community is focused on promoting the bDAO mission. We leverage crypto-based creations like Bitcoin, Defi, NFTs etc. to tackle problems faced by Africans.
+Achievement/Growth:
+*Our podcast highlights 1 projects and people making impact in the african crypto/Web3 Ecosystem.
+*Our Newsletter provides well curated information on Bitcoin, Defi, crypto regulations, projects and web3 fundings in the crypto/web3 space in Africa.
+*Our website help Africans access educational courses, It includes a link to Bankless Academy where lots of Web3 courses Live. Eventually this website will become a native-educational platform for Africans.
+Website v1 here: https://banklessafrica.com/ 1
+*We onboard and train contributors with various web3 ethos, teaching them how to contribute in various DAOs and potentially bootstrap project ideas they have.
+Some links to get into our community: @banklessafrica | Linktree
+INTERNATIONAL MEDIA NODES (IMN)
+Only 5% of the world’s population are native English speakers and roughly 15 % speak English on some level. The initial goal of the IMN project is to reach the remaining 80%. First by translating and distributing content about blockchain technology, DeFi, The Metaverse and Web 3. All links: https://www.banklessimn.xyz/ 3
+The International Media Nodes project believes in the liberating effect of going Bankless and what it can do for improving financial wellbeing and stability throughout the world. Creating and maintaining communities of people who do not speak English and educating them/opening the door for them to onboard on the Web3, is one of the most crucial pieces of infrastructure if we want the Web3 to be any different from Web2
+The story so far…
+In Q1 2022, the total audience grew by 52% as compared to the previous quarter and our total reach is over 40000 audience members in over 20 languages. We have over 100 active contributors speaking 20 different languages from all parts of the world. We have worked with prominent DAOs in web3 such as polygon, tribe and yearn.
+Over the next months and years, as we continue to produce content we will also start developing local language communities which will develop web3 talent in local languages as well as organising events in different geographical locations to onboard more people.
+Our Ask to the crypto community …
+At the highest level, Web3 Education provided by BanklessDao stands to empower humanity with the informed decision-making required in our digital future. We firmly believe that we align with the vision of the Gitcoin Community, and that together we can work to slay Moloch.
+We seriously can’t wait to show you what we have to offer this space.
+Let’s Impact Together!
+BanklessDao believes in the liberating effects of going Bankless and the impact our ideal can have on improving the financial stability and wellbeing of our world both in learning and translation. With the help of the Gitcoin Community, we will accelerate the spread of an ungated Web3 education for everyone.
+Let’s help the world go Bankless"
+Text ends here
+We’ll figure out a way to disburse funds between the projects that are interested in the coming weeks
+Do you generally agree with this text and proceeding to gitcoin grants with a common application?
+Yay! Let’s do this
+Cool, I have some minor comments but agree overall
+Nah! This can’t proceed ahead
+35
+voters
+Show results
+2 Replies
+4

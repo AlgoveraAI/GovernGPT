@@ -1,0 +1,152 @@
+Community Call Revamp for Season 3
+Governance
+Here’s a conversation that happened in the discussion section of Brain Dump #6: [1] [2] Here, I’m proposing a way to do this CC reengineering. The primary mission of this proposed CC change is to build BanklessDAO culture. We have the entire DAO—the equivalent of a small town—listening to one meeting at ONCE. We absolutely must use this time as effectively as possible. I’m worried that, as we continue to grow, we’ll lose sight of who we are as a community and where we’re going. The firehos…
+Updates from Draft 1 are marked with
+Champions: Samanthaj#8487, frogmonkee#6855
+Based on the poll in [[Draft 1] CC Revamp] (Community Call Revamp for Season 3 1), our community is in favor of changing the CC format to be less dousing-with-a-firehose and more sprinkling-with-a-faucet. How we go about this is uncharted territory. After synthesizing the comments of contributors too numerous to tag here, I’ve drafted a new CC Revamp. I believe this combination of governance prioritization, “wide and shallow” project Hype News, “narrow and deep” bDAO-relevant conversation, and asynchronous newsletter updates is a unique formula that could be instrumental in:
+Building a culture where governance is top of mind.
+Retaining fresh talent—our newest members could’ve been anywhere in Web3, but they’re here, listening to bDAO.
+Celebrating wins and the contributors who made those wins happen.
+Being accommodating to numerous time zones and work schedules through an emphasis on asynchronous updates.
+Time Stamps
+These are nearly the same timestamps Frog proposed in the comments section of the CC Revamp, which were voted on with mostly yes’s (although the number of voters was indeed small—another reason for this second draft).
+1-10min: Moderator opens with key governance updates.
+10-35 min: Moderator invites 5-10 project leaders on stage to announce their Hype News.
+35-55 min: Keynote speaker/roundtable facilitated by the moderator.
+55-60min: Closing thoughts from the moderator.
+I will dive into the details of each timestamp below.
+1-10 min: Moderator Opens
+This is the same as my original proposal, except we added 5 minutes to allow sufficient time to cover governance updates.
+Governance is everybody’s job. Moving on.
+10-35 min: Hype News
+This section will be when 5-10 project leaders with exciting updates, which I’m calling Hype News, are invited to come onstage to share. The more project leaders with exciting news that week, the less time each speaker will have to share their news. This will be calculated and handled by the Ops Guild. In other words, each project will get equal time to talk within the 20 minute time frame. Speakers will be cut off to allow time for everyone.
+So what qualifies as “Hype News?” Namely things to celebrate. Things that generate tangible excitement. Some examples include:
+Releases/Launches - DEGEN 2.0, Bankless Academy MVP, GMI, MetaFactory drop
+Milestones - Bankless Consulting first client, Newsletter passes 10,000 subs, Crypto Sapiens passes 5,000 downloads
+People (Contributors that have gone above and beyond) - So-and-so quit their job to work full time on [Project]
+Revenue - Metafactory brought in $$$ in sales. Newsletter team secured $$$ in sponsors for Season X
+I looked through previous Community Call slides to find examples of what I’d consider to be Hype News. Here are some examples from the December 10 CC:
+Bounty Board deployed to CityDAO and LivethelifeDAO this week!
+MetaFactory has a Cozy Drop that you should check out!
+Bankless Academy had a successful MVP launch, with over 50 POAPs claimed and 30 form responses with feedback. Thank you to everyone who provided feedback!
+The GMI index is launching soon. We’re responsible for seeding liquidity, so check out this guide to learn how to help us provide it!
+DAO Dash launched their first DAO punk dashboard. Check out the data here!
+The Hype News section is purely to celebrate bDAO wins together. Not everyone needs to hear all the details and Calls to Action of every single project: it’s too much of a firehose. All other project updates will be in the Project Newsletter, described below the timestamps. This newsletter will allow bDAO members to digest information asynchronously at their own pace.
+This poll is to get consensus on the idea of having a Hype News section in the CC. Process detailed below.
+Yes, keep the idea of Hype News as is.
+No, needs work.
+40
+voters
+Vote now!
+Show results
+35-55 min: Keynote speaker/roundtable facilitated by the moderator
+The moderator for the day will be charged with finding and facilitating that week’s speaker or roundtable.
+Moderators would be able to choose who/what they want to highlight, but it cannot be something they are working on. For example, if frogmonkee were moderating, he might showcase Bankless Consulting. Not because he’s involved in BC, but because he’s excited about what they’re doing. The idea here is to let active contributors in the DAO highlight initiatives that they know are hot, but haven’t had time to go deep. It should not be to promote something he is involved with.
+For maximum transparency, these discussions will occur in a thread of CC Info called CC Keynote. Any bDAO member can therefore chime in and signal who to feature that week. The only other criteria is that the topic needs to be specific to BanklessDAO.
+Some examples of potential keynote speakers or roundtables:
+Roundtable of people from multiple “sides” of a proposal.
+Discussion on the tokenomics of BANK, the state of the treasury, and the timeline to pull tokens out.
+Chat with genesis members on the direction of bDAO.
+Hear from the DEGEN and Bounty Board teams on their methods to ship products to other DAOs. What can other projects learn from their successes?
+Talk with the First Quest team on how they’re building a “choose your own adventure” onboarding process and what that will make First Quest look like for new members in the future.
+This is the “narrow and deep” section of the call, where we can really get into the weeds on what DAO members are doing. We can also get to know DAO members at a more personal level—this DAO is massive, and getting to know people and projects personally outside your respective niche is really tough.
+Yes, keep the keynote/roundtable section as is.
+No, needs work.
+34
+voters
+Vote now!
+Show results
+55-60 min: Closing thoughts from the moderator
+Up to the moderator on how to close. Good vibes only. Nothing new here.
+“We’re headed west. This is the frontier. It’s not for everyone, but for us, it is”
+Async Things We Need:
+A new Project Updates Newsletter to replace the Google slides. This has been approved by the Newsletter Team.
+A rotating list of L2s who are comfortable moderating.
+Hype News submission process through Ops Guild.
+A public thread nested under #CC-info for the weekly moderator to discuss keynote and roundtable ideas with other moderators, interested bDAO members, and the potential speakers themselves.
+Education and emphasis on internal guild newsletters, like Dev Guild Weekly and The Scribe’s Quill.
+The Project Updates Newsletter
+As approved by the Newsletter squad, project leads will submit updates to the Project Updates Newsletter Team Lead via a form rather than submitting and presenting them as Google slides. - There will be no guild updates anymore.
+The form will include:
+Project Name
+Project Contact(s)
+3-5 bullet point updates (including any call to actions - eg. Follow cryptosapiens on twitter!)
+How can readers learn more (landing page, point of contact, email?)
+The newsletter team will then gather updates, format them in Substack, follow up with project leads as needed, attend Newsletter Team and/or Writers Guild Weekly meetings as needed, and assign a weekly editor to the newsletter. This constitutes roughly two hours of work per week. I will post a budget for this subset of the Newsletter project if this CC format is approved.
+Yes, keep Project Updates as is.
+No, needs work.
+32
+voters
+Vote now!
+Show results
+The Rotating List of L2 Moderators
+L2s can volunteer to moderate via submission form. The Ops guild will choose moderators at random and confirm their availability at least 5 days prior to the CC.
+Moderators’ responsibilities are:
+Source speakers for the upcoming CC in accordance to the rules set out above.
+Moderate the Keynote section of the CC.
+Once selected, moderators will need to confirm their speaker by Thursday at 12pm EST/5pm UTC the day before the CC.
+Not every L2 needs to moderate—not everyone will want to, and we don’t want to force it.
+As stated in the first draft, I believe only L2s should be allowed to moderate. This is not designed to leave people out. Rather, the thought behind this was that a relatively deep knowledge of bDAO is necessary to do this job well. (Note that it’s in the scope of work for Governance Solutions Engineers to rethink the contributor system to be more inclusive.)
+Keeping it limited to L2s ensures the moderators are:
+Ready to take on the task of finding a keynote speaker for the week.
+Aligned with the bDAO mission, vision, and values in a way that they know how to speak to our bDAO audience (which is full of fresh talent who are still trying to figure out if bDAO is right for them).
+Guest passes and L1s will still be important parts of the Hype News, keynotes, and roundtables. But I believe moderating is a different beast.
+Yes, I agree that only L2s should be allowed to volunteer as moderators.
+No, let L1s moderate.
+No, allow anyone, including L1s and Guest Passes, moderate.
+34
+voters
+Choose up to 3 options.
+Vote now!
+Show results
+Hype News Submissions
+Any project can submit their hype segment. The Ops Guild will go through and check which updates follow the “Hype” criteria outlined above and add them to the CC agenda.
+Submissions can be sent via form (submissions will be publicly viewable on Notion). The form will include:
+Project name
+Speaker (must be available at time of CC)
+Project updates (will be subject to a time cap, depending on how many projects are eligible to present)
+This form will accept submissions until Thursday at 12pm EST (noon, not midnight)- After that time, any submissions count for the next week. For example, a submission on Thursday, Jan 13th at 11:59am EST is eligible for the CC on Jan 14th. A submission on Thursday, Jan 13th at 12:01pm EST is eligible for the CC on Jan 21st.
+On Thursday, the Ops Guild will curate the submissions for those that follow the Hype criteria and confirm each speaker’s availability.
+Yes, keep the submission and evaluation process as is.
+No, needs work.
+28
+voters
+Choose up to 2 options.
+Vote now!
+Show results
+Keynote Speaker Public Thread
+This thread, nested underneath #CC-info, will be used by moderators to pick that week’s keynote. I imagine the moderator will propose an idea and others will chime in with thoughts. Or, someone will post an idea and the moderator will take it and run with it. We could have a backlog of ideas running, too. I think this could be relatively informal—an environment for bDAO members to share speaker/roundtable ideas and for moderators to gather information. Ultimately, the moderator would be responsible for selecting the topic and speaker. The only time a moderator can be vetoed is according to the Firming Up Governance spec that allows for time during the CC to discuss major governance and tokenomic changes.
+Yes, keep the keynote public thread as is.
+No, needs work.
+29
+voters
+Vote now!
+Show results
+Internal Guild Newsletters
+We’re moving toward a project-based DAO. Every day, guilds spin out projects that preach the good bDAO mission and generate revenue. These projects may be nested under a guild, but the guild itself is merely a coordination structure, not a creator of value. If the guild is the liquidity pool of talent, then the projects are what you do with your tokens when you pull them out of the pool and put them to work.
+That’s why I propose:
+Removing guild updates in DAO-wide CC formats.
+Facilitating internal guild newsletters modeled after Dev Guild Weekly 1 and The Scribe’s Quill 1 (Writers Guild Weekly) which summarize the projects nested under them and provide critical information to both new members and people in time zones/with day jobs that conflict with the meeting times.
+Guild coordinators, I get it. You’re already swamped with work. Another newsletter? But I promise it doesn’t have to add more than a half hour of work on your end. Here are some tactics you can try:
+Ask project leads and governance role-holders to submit a three-sentence update to you on their project or office. All you do is paste their update into a newsletter. Done!
+Bounty-out a guild secretary to take notes in meetings and synthesize them in a brief, action-item-heavy newsletter. Guild doesn’t have anyone interested? Create a bounty for a notetaker from the Writers Guild to sit in on your weekly meeting and synthesize what they hear into a succinct, 500-word newsletter.
+Don’t make a newsletter at all—simply write out the biggest action items and announcements for the week and drop them in a Discord message in your guild’s general channel on Monday morning. Pin the message so all contributors can find it that week. Unpin it next Monday, start again.
+To make this easier, we’ll include a template newsletter that guild coordinators can easily copy and paste. This will encourage teams to go asynchronous with their updates and free up weekly sync meetings for more useful conversations and not just updates! Consider these newsletters as “pre-reads” for every meeting.
+Yes, guilds should manage their own updates via an internal newsletter or pinned action-item-heavy Discord message.
+No, needs work.
+27
+voters
+Vote now!
+Show results
+Remember, we’re making this up as we go. So we can try this for a couple weeks and see what works.
+I don’t want anyone to think that because we’re proposing a new change, this is the change forever. I purely want a CC format that serves everyone in the DAO, no matter if they’ve been around since Season 0 or joined yesterday, are active 1 hour a week or 40, or are based in Singapore or San Francisco. This is our Community Call, so let’s iterate it until it works for us exactly the way we want it to. We’re builders, we’re good at that!
+Thanks for reading all these words and voting way more times in this post than you probably planned on,
+Sam
+Next Steps
+Create form for submitting Hype News
+Create form for L2 moderators
+Create CC-Keynote thread
+Instantiate Project Updates Newsletter
+Create How-To guide on Guild newsletters
+2 Replies
+5

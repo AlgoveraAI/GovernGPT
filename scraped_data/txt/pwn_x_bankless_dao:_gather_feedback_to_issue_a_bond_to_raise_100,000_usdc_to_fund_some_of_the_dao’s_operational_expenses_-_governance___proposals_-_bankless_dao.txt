@@ -1,0 +1,43 @@
+#Squad: senad.eth #8782, gruad#1079, NF Thinker:black_flag:#2814, Josef Je | PWN#4242, ! Steve Fau | PWN#7999, dimple#8202
+#Date: Oct 13, 2022
+# SUMMARY
+Given the current market’s circumstances and $BANK’s current value, it is particularly important to ensure the longevity of Bankless DAO’s treasury is maintained and most importantly that the DAO’s native token is not sold in these unprecedented times. To reduce the sell pressure from Bankless DAO’s members, this proposal’s objective is to gather feedback from the community and reach the right decision as to what the terms and use of funds should be if the DAO was to issue a bond to raise funds to cover operational expenses for the following months.
+# BACKGROUND
+The DeFi & NFT ecosystem has captured outstanding value, first enabling permissionless on-chain swaps, over collateralized loans, stable coin generation or now even wide acceptance of digital assets like art or virtual properties to accrue value. PWN is the next component which will enable leveraging the value of arbitrary assets (including derivatives or NFTs) and thus further boost liquidity of on-chain capital.
+PWN is a hub for peer-to-peer (P2P) loans backed by digital assets. PWN users can use their fungible tokens or NFTs as collateral, with no risks of liquidation until the loan expires. This is because the contracts don’t have any external dependencies like on-chain oracles and, unlike other protocols in this space, there are no whitelists which means any ERC20 token or NFT, including $BANK token can be used on the protocol via the Ethereum or Polygon blockchain.
+The current market circumstances alongside the potential of the PWN protocol is what helped Nation3DAO to successfully issue a bond backed by $NATION tokens on PWN. You can read more about the experience of Nation3DAO via this link.
+The driving factors behind this proposal are similar to that of Nation3 DAO’s proposal whereby:
+It does not make sense to sell $BANK at the current value to cover certain short term operational expenses
+Current contributors of the DAO currently are compensated in $BANK tokens but all that’s causing is increasing sell pressure for them to then sell their $BANK tokens to cover day to day expenses including rent etc.
+After learning about these driving factors, the team at PWN realized the potential of the use case for DAO’s to issue bonds using a peer to peer protocol with no risks of liquidation until the loans expire.
+# MISSION & VALUES ALIGNMENT
+PWN’s and Bankless’s mission is to drive adoption and awareness of truly bankless money systems like Ethereum, DeFi, and Bitcoin. Currently, Bankless achieves this goal through the collective participation of its community and PWN on the other hand is a DeFi protocol which puts the decision making of lending and borrowing in the hands of the lender and the borrower. PWN has been asked various times whether the protocol would turn to a peer to pool model however the truth is that PWNs mission aligns in that PWN does not want to create another debt system in DeFi.
+# SPECIFICATION
+The objective of this proposal is to encourage a conversation and healthy debate amongst the community at Bankless DAO to decide the best way forward when it comes to leveraging the Treasury’s existing assets instead of selling them during these tough markets.
+PWN held a demo on Bankless DAO’s Discord server on June 29th 2022. The wide success of the demo and ongoing relationships between Bankless and PWN meant constant communication about the opportunities that other DAO’s are pursuing like the one mentioned above with Nation3DAO.
+These are the following topics we would like to collect the community’s feedback on:
+Amount to raise and most importantly, the use of funds. There have been several opportunities discussed between members around legal fees or potentially new compensation structures. We ask you to discuss what is the use case where the DAO would need to either spend in USDC or change certain ways of working to ensure the long term success of the DAO. Based on the amount to raise, there would be a conversation as well about the total number of $BANK tokens that would need to be used as collateral.
+The term length of the loan. Would this be a shorter term loan of under 6 months or a longer term loan?
+Treasury guild multisig – What would be the logistics of approving the collateral on PWN. Would it be the Treasury guild multisig to approve this?
+To be more specific, PWN does not need to whitelist the $BANK token as collateral on the protocol because of the uniqueness of its protocol whereby any ERC 20 and NFT can be used on PWN as collateral.
+Additionally, there are no liquidations on PWN before the end of the loan period. If the value of the Treasury’s collateral drops below the value of the loan, nothing will happen.
+# FINANCIAL IMPLICATIONS
+All time high value of $BANK token: $0.255
+Current value of $BANK token: $0.008974 as of Tuesday October 4 2022
+Calculation One: The DAO would need to sell approximately 11,143,302 $BANK tokens in order to cover the cost of 100,000 USDC as of today (for example). Taking into account the highest value of the $BANK token @ $0.255 this would be a ‘loss’ of 10,751,146 $BANK tokens which at a price of $0.255 would represent $2,741,542
+Calculation Two: For a 100,000 USDC loan, the collateral required would need to be 33.4 million BANK tokens which is approximately worth $300k today assuming a 30% Loan To Value. If we use an example where the cost of the loan could be approximately 15% interest rate, this would be 15,000 USDC which is currently 1,671,495 BANK Tokens at present value.
+These calculations show that by Bankless DAO’s Treasury issuing a bond to raise 100,000 USDC on PWN, the DAO would be saving approximately (33.4 million - 1.67 million) 31.73 million $BANK tokens. This would equal:
+= 284,745 USDC at current value
+= 8,091,150 USDC at the all time high value when the $BANK token was worth $0.255
+# NEXT STEPS
+Immediate next steps:
+This proposal receives feedback from the Bankless DAO community on all the mentioned specifications above. PWN would also attend community calls to continue the conversation and get the highest quality of feedback for the official proposal.
+PWN would prepare an official proposal to launch the issuance of the bond and open it up for voting
+Once the proposal is approved, the offer is posted, lenders would publish their offers and counter-offers stating their desired interest rate for the loan
+The DAO would set a time limit of X days to choose a lender from the list of offers for the bond
+The Bankless Treasury multisig would be responsible for accepting the best counter-offer, and receiving the USDC loan
+# SQUAD BACKGROUND
+PWN’s initial concept was designed during a hackathon in 2020. However, PWN Co-Founders Josef Je and Steve Fau soon found themselves amid the NFT boom which led to a growing demand for the very thing that they had prototyped. With this in mind, they formed a talented team with the goal of turning the prototype into a product for the mainstream market. Now, PWN has set out to provide financial tools to the digital-first, cryptonative generation.
+# CONCLUSION
+Whilst the utilization of DAO treasuries is something we’re only starting to really talk about and explore in Web3, the issuance of corporate bonds has been around for centuries. The reason we’re initially proposing to get feedback from the community is so we can position PWN and Bankless DAO’s relationship to not just a one time use but a regular relationship.
+1

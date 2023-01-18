@@ -1,0 +1,35 @@
+Note: this is essentially draft 2. I really like the input that all have given, including @links @Behold @sandeepdas9179 @Sprinklesforwinners @Icedcool @AboveAverageJoe @TheMarvel @senad.eth @Jengajojo and so many more have given.
+I direct you to refer to draft 1 for more detail - DAO Wide Coordinape Pause Proposal Draft 1 21
+Title: Coordinape Season 7 Proposal
+Author: infinitehomie.eth
+Scope: Minor
+Date: December 28, 2022
+Involved: Ops, Research, Treasury, Governance
+Summary:
+This is a proposal to decide on how to proceed with Coordinape for Season 7. Coordinape has been an important part of bDAO. However, due to recent events with calculations, alleged misbehavior, and shifting sentiments, I would like to present a possible change for 1 season, being season 7.
+Background:
+For background, please refer to the previous Draft 1 proposal - DAO Wide Coordinape Pause Proposal Draft 1 21
+Plan
+There are three avenues we can take for this plan.
+Pause Coordinape completely for 1 season - this will last for 1 season only. In that pause, we make a decision on how to proceed forward with coordinape via a research project with analysis of the previous seasons of Coordinape, and the effectiveness of Coordinape on the Treasury, the membership, and overall productivity of the DAO. We can save 4.5million in BANK via this option. (1.5million per period)
+Reduce Coordinape amount to 500,000 from 1.5million per Coordinape Round- this will last for 1 season. We can then investigate the effectiveness of Coordinape via same methods as option 1, while still promoting the general Good Nature of Coordinape. We will save 3
+Million (at the most) from via this option.
+We can reduce down to 250,000. Per period. For 1 season. Just as option 2, but reducing the amount further. We will save 3.75 million at most.
+Analysis
+The analysis will come from the Coordinape investigation project. That will take place in during season 7.
+Impact
+The potential impact would be the preservation of treasury for the DAO, with the use of funds directed towards projects, bounties, and productivity for the DAO.
+Next Steps:
+Obtain Feedback
+Gain Quorum
+Gather Contributors for the investigation process.
+Time to Decide - Which Route Should We take?
+For Season 7, we should Pause Coordinape for 1 Season
+For Season 7, we should reduce Coordinape Rounds to 500,000 BANK
+For Season 7, we should reduce Coordinape Rounds to 250,000 BANK
+For Season 7, we should not change the amount
+I have a suggestion in the comments
+78
+voters
+Show results
+5

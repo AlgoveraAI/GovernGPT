@@ -1,0 +1,190 @@
+Brain Dump #1 - Governance, Revenue, & BANK 16
+Brain Dump #2 - Framework for Balance of Power 7
+Brain Dump #3 - Is $BANK Money? 11
+Brain Dump #4 - When and How Do We Scale? 6
+Brain Dump #5 - Bankless DAO: An Ecosystem of Nodes 6
+A Brief History
+Season 0: May 4th to July 1st
+Season 1: July 1st to October 8th
+Season 2: October 8th to January 7th
+Season 0
+When BanklessDAO launched on May 4th, no one knew what it would turn into. Ryan, David, and other HQ members didn’t have a set roadmap nor did they intend on being engaged with the community. As true decentralization maxis, they launched the DAO and stepped back to let us grow.
+Those first two months were a whirlwind of activity. Many of us have fond memories of the early early days.
+In those days, we focused on existential questions of values, decentralization, coordination, and organization. We are what we are today because of Season 0. Notable examples include:
+Solving for Decentralized Coordination 9
+Mission, Vision, and Values 5
+Creation of the Writer’s Guild 2
+On Bankless Seasons 4
+[Draft2] Rewarding Season 0 Active Community Members 2
+Brain Dumps One 16, Two 7, and Three 11.
+In June, we felt ready to transition into the next phase of our evolution. Season 1.
+Season 1
+Where Season 0 was a mad rush to built our laboratory, Season 1 was our first experiment. Our main priority was to support projects that would generate revenue.
+The rationale here was simple. There are two ways to grow our treasury:
+Revenue streams
+Increase the value of $BANK
+We decided to focus on the first route. $BANK appreciation would come with time, but until such a time we had a long-term tokenomics strategy, multiple revenue streams would bootstrap our growth.
+Personal Note: In my mind, BanklessDAO was always going to be a steward of the “Future of Work.” The focus on revenue over $BANK appreciation wasn’t purely to drive diverse inflows of capital into the DAO treasury, but to create a culture of starting projects that people would inevitably quit (or reduce commitments to). It’s my hope that many of these projects become self-sustaining and that the majority of revenue goes to those putting in the work with a small % going back to the DAO.
+Bankless Consultancy 4 is a model proposal:
+Each Consulting Project - (remuneration to delivery team members) (70%)
+The Consulting Practice - (Supporting back office operations and expenses) (20%)
+The DAO Treasury (10%)
+The problem was, we had no clue what these revenue streams would look like. There were rumblings of a few possible revenue streams, like the NFT Showcase & Metafactory Merch Drops, but we still had a lot of unknown unknowns.
+As such, we allocated 5M BANK to fund projects that would, in theory, bring in revenue. Given that many of these projects were in the ideation phase, Season 1 was a bit of a grab bag. Had an idea? Gather a squad and if it was remotely well thought out, the Grants Committee would fund it.
+As such, Season 1 funded:
+Bounty Board
+DEGEN
+First Quest
+BED Index Marketing Contest
+Bankless Academy
+Bankless Loans
+DAOpunks
+Crypto Sapiens
+Full list here 13
+Season 2
+Season 2 started off with a bang. We held a Twitter Spaces event with over 500 participants and saw an influx of new talent. We allocated a whopping 7M BANK was allocated for projects, not including the 5M allocated for continued funding for a number of projects 2.
+Off to the races! Or are we?
+I spend a lot of time talking to DAO contributors. One advantage of constantly being on calls is getting a pulse check on the DAO. And while we’re far from bad, I’m starting to notice some trends:
+DAO work is beginning to feel like work, not play
+Contributors are feeling disconnected from the broader DAO
+Resources are spread thing, including funding, labor, and mental attention
+The vibe is different. Ask the L2s, especially those that have been here from Season 0 and you’ll start to see the bags under their eyes.
+These observations aren’t particularly bad. They’re growing pains. We have more projects, people, and priorities than ever before. What’s dangerous is not addressing these problems now and before we start to shed talent and momentum.
+Do you feel these trends yourself?
+Level 2s Only (please)
+Strongly Agree
+Agree
+Neutral
+Disagree
+Strongly Disagree
+46
+voters
+Vote now!
+Show results
+Level 1s Only (please)
+Strongly Agree
+Agree
+Neutral
+Disagree
+Strongly Disagree
+34
+voters
+Vote now!
+Show results
+Guest Pass Only (please)
+Strongly Agree
+Agree
+Neutral
+Disagree
+Strongly Disagree
+28
+voters
+Vote now!
+Show results
+Establishing Workstreams
+What I’m proposing here is a strong realignment of priorities with a focus on slowing down. I wish to focus our sights on a core group of responsibilities, which will inevitably shape the direction of BanklessDAO for the coming months.
+To start, I want to define some workstreams. (This goes back to @0x_Lucas’s post on Seasons 4.)
+Front of House (FoH) Priorities - External facing initiatives that spread the Bankless mission and drive revenue.
+Back of House (BoH) Priorities - Internal facing initiatives that allow us to organize, grow, and coordinate
+Membership Perks - Promoting culture and vibes with fun and casual activities for Level 1 members
+All these categories are important.
+FoH lets us grow outwards, attracts talent, and supports the treasury.
+BoH lets us solve key coordination problems that benefit everyone
+Membership Perks lets us retain talent and create a culture of play and social cohesion
+As a DAO, we’re overextended on FoH priorities. Again, this is by design. In Season 1 we focused funding and efforts on FoH. But now, we’ve established a culture of easily spinning up FoH projects and find our resources split across a growing number.
+Let’s define these workstreams a bit more and what this would look like.
+Front of House
+External facing initiatives that spread the Bankless mission and drive revenue.
+When thinking about FoH priorities, I see two distinct categories:
+Revenue Generating Opportunities
+Mission Aligned Projects (edu, media, and culture)
+Mission: We will help the world go Bankless by creating user-friendly onramps for people to discover decentralized financial technologies through education, media, and culture.
+Though there is some overlap between the two categories (eg. Newsletter), they do exist in two separate domains. For example, Bankless Consultancy 4 is a revenue-generating opportunity but only loosely aligns with our mission while Smart Contract Literacy Videos 3 aligns with our mission but without clear revenue potential.
+In terms of prioritization, we should fund projects that exist at the intersection of revenue-generation and mission-aligned, as suggested by @paulapivat in this matrix 1:
+But I think we need to be even more deliberate than this. I propose that we prioritize projects that:
+Have clear revenue generation capabilities & align with the mission
+Have clear revenue generation capabilities
+Align with the mission
+Keep in mind this is for future funding. I’m not claiming that we claw back any funds, just tighten the purse on future funding.
+At a certain point, when we have strong revenue inflows, we can allocate more to category #3, almost as a “public good.”
+Do you agree with the 1 > 2 > 3 prioritization?
+Strongly Agree
+Agree
+Neutral
+Disagree
+Strongly Disagree
+88
+voters
+Vote now!
+Show results
+Back of House
+Internal facing initiatives that allow us to organize, grow, and coordinate
+Back of house priorities are activities that have no outward-facing value to the community, but benefit everyone.
+Top of mind BoH priorities are:
+Governance and Strategy
+Surfacing top-level trends in the DAO with actionable steps to continually align and move forward
+Seasonal specifications + voting procedures
+Moving further on chain
+Identifying gaps in governance and finding appropriate solutions
+Tokenomics
+Developing tokenomic strategies to support the value and utility of $BANK
+Observe, analyze and review Tokenomics around the BANK token
+To manage the BANK token and integration on platforms.
+Onboarding (First Quest)
+Create user-friendly onramps for BanklesDAO
+Impart values and culture for new members
+Acclimate them to DAO operations and tools
+Direct talent to the appropriate guilds and projects
+Inter-Guild Coordination
+Gather best practices from across guilds with respect to onboarding, governance, and coordination
+Coordinate with stakeholders from across guilds to share knowledge and best practices
+Better integrate guilds together to be cross-functional
+Right now, these priorities exist in varying degrees. Governance and Strategy is mostly me with input from others. Tokenomics is a handful of enthusiasts. Onboarding has been around for a while, but is understaffed. Inter-guild coordination has happened organically between certain guilds but is not well surfaced.
+Membership Perks
+Promoting culture and vibes with fun and casual activities for Level 1 members
+This last category has seen the least amount of growth. This makes sense, as it wasn’t a priority, but I’m seeing a greater need for good vibes.
+Membership perks has two priorities:
+Priority #1: Host fun and/or valuable events that foster a playful social environment in the DAO
+Priority #2: Inadvertently create incentives for people to buy and earn their way to a Level 1 membership.
+So far, we’ve seen a couple of membership perks, but with minimal coordinated effort beyond a few members:
+Cryptosapiens live shows
+NFT-club channel
+Mental health support channel
+Knowledge sessions 1
+Administration of Fun (Poker tournament and D&D&DAO)
+IRL meetups 4
+Personal note: The focus here shouldn’t be driving people to buy BANK to gain access. There’s a lack of social cohesion, going back to my point earlier about work feeling like work again, not play. The focus here should be kicking off events that are fun and informative, in line with our culture. Personally, I need more events like this.
+Funding
+Crypto is based on incentives. Put the right incentives in the right place and people move towards them. As such, I think we should allocate pools of capital specifically to bootstrap these workstreams.
+I’m proposing that the next season, we earmark Grants Committee funds as:
+50% towards FoH
+33% towards BoH
+17% towards Membership Perks
+Allocating funds this way will incentivize groups to rally around BoH and Membership Perks and sufficiently build out those workstreams.
+Do you agree with earmarking funds this way?
+Strongly Agree
+Agree
+Neutral
+Disagree
+Strongly Disagree
+80
+voters
+Vote now!
+Show results
+A Note on Grants Committee
+One of our growing pain points is the centralization around Grants Committee. Let me be clear. No one is at fault for this trend. When you create groups with the power to distribute funds, you inevitably get centralization.
+At first, the GC handed out funds like candy (going back to Season 1). But this Season, we’ve seen the GC make decisions around what ideas get funded and which ones do not. Ask anyone on the GC. It’s not fun to be in that role anymore. It’s stressful.
+Everything defined above, in terms of buckets of funding and the FoH matrix provides clear guidelines on evaluating the contents of a proposal, which was previously done at the GC best judgement.
+But there is one another angle to consider: The ability to execute. @Icedcool raised a good point on the topic:
+In short: GC should assess the capabilities of the squad and their prior history of activity and execution in the DAO and trust in that team to iterate on building the best product/service they can.
+Strongly Agree
+Agree
+Neutral
+Disagree
+Strongly Disagree
+79
+voters
+Vote now!
+Show results
+4 Replies
+6

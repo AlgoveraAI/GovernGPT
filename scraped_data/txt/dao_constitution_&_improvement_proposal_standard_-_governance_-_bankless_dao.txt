@@ -1,0 +1,43 @@
+DAO Constitution & Improvement Proposal Standard [bDIP-0]
+Draft Authors: 0xJustice
+Working Group: GSE Team
+SUMMARY
+Introduce a canonical consolidation and crystalization of our org structure and governance processes via the BanklessDAO Constitution & Community Handbook 98.
+Introduce a change management process via the BanklessDAO Improvement Proposal (bDIP) template 27 designed specifically for making changes to the above constitution.
+BACKGROUND
+Our current org structure and governance processes are spread across Notion, Forum posts, Snapshot, and community member institutional knowledge. This documentation is not easily accessible, internally consistent, and is increasingly lost when experienced members leave the DAO. Without a readily agreed-upon and accessible standard, macro changes to our community architecture are impossible.
+“Whew, trying to keep up with DAO governance is becoming a part-time job. This is a problem in itself: we need a streamlined & digestible system to prevent voter apathy.” - Tetranome, Feb 5
+A governance system that no one understands or that is not succinctly documented is the same as no governance system at all.
+SPECIFICATION
+The BanklessDAO Constitution & Community Handbook 98 changes this. It represents a single source of truth compiling previous disparate governance sources. This document aims to be the bible and a crystalization of how we are structured and how decisions are made.
+We propose a new bDIP template 27 for making changes to this constitution. It’s a fork of the existing project proposal template 8 but specifically oriented towards governance and DAO-wide changes.
+EXPECTED IMPACT
+Both of these ideas are simple concepts with far-reaching implications. By introducing them we anticipate dramatic improvements in precise communication and open discussion. This is the foundation for recursive self-improvement and a small step in the direction of a more rigorous on-chain governance. If we can succinctly describe our function then we can code it.
+We also believe this change will materially impact the quality of onboarding as prospective members will be able to ingest the full scope of the DAOs org and ops in one sitting. Similar to the developer experience on dev tooling, this contributor experience is critical to the DAO’s long and short-term success.
+Lastly, we feel this could be a boon in the form of advertising for the DAO. Very few other communities have produced such a document and the ones that have been met with resounding endorsement even when the produced document wasn’t that great. We can do better and make a huge splash in the process.
+NEXT STEPS
+Assuming the community endorses this vision and the beta version of the handbook the next steps would be:
+Community Call to discuss the features of this proposal.
+Snapshot Vote (this would effectively be bDIP-0)
+Create a GitHub repo under the DAO org and post the constitution and governance handbook as the first commit.
+Create a subdomain under the main website domain to host the live version of the handbook.
+All of the above is a foundation that must be in place in order for more impactful and cross-cutting changes to be proposed to the community. The next step for the GSE team is to flesh out existing bDIPs drafts in order to present them to working groups and then to the greater community for consideration over the course of the next 6 weeks so we can start what would be the next season on an improved governance foundation.
+WORKING GROUP BACKGROUND
+This initiative has been one of the first undertaken by the Governance Solution Engineer team. We have consolidated and condensed existing documentation to the fundamental operative features and facts to the best of our ability. We advertised an open invitation to the community for feedback and, lastly, asked key individuals to review and expand on the present work.
+POLL 1 - Vision
+Does this direction and vision seem like the right direction for the DAO?
+Yes - We should do this.
+No - This is the wrong direction.
+69
+voters
+Show results
+POLL 2 - Readiness
+Can we adopt the current Constitution (v0.1.0) and bDIP template as it stands now? (June 14)
+1 - Ready enough
+2 - Almost ready
+3 - Not ready
+60
+voters
+Show results
+1 Reply
+4

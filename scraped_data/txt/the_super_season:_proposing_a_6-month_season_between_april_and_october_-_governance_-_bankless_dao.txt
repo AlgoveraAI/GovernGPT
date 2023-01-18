@@ -1,0 +1,70 @@
+The Super Season: Proposing a 6-month season between April and October
+Special thanks to The Incredibles for forming the basis of humor in my childhood.
+“Ford Motor Company once estimated that its planning and budgeting process cost around $1.2 billion a year. You read that right: the process by which the company controlled how money was spent cost it more than the GDP of Grenada.”
+—Aaron Dignan, Brave New Work, p. 95.
+The problem:
+Coordinators and leaders are tasked with budgeting four times per year, which expends tons of bandwidth that could be going toward working on and in the organization.
+BanklessDAO spends a lot of time preparing and talking about budgets but not enough time executing on the bigger goals of designing the org.
+Coordinators often use the same budgets (or nearly the same budgets) from last season rather than thinking critically about how to become self-sustaining. I believe this is a symptom of our crazy-fast seasons.
+Budgeting can be expensive (contributor time and opportunity cost).
+We were supposed to work “on” the organization in Season 3, but that hasn’t happened to quite the scale we would’ve hoped. That’s okay! We can fix it.
+The solution:
+A six-month season rather than a three-month one, for the middle of this year. This would be a one-time occurrence that we could implement again if we want.
+I believe we need a solid six-month runway for GSEs, project/guild leaders, and core contributors to work deeply “on” this DAO and all the subDAOs within it.
+Six months of focus.
+Six months of not racing toward the next season.
+Six months of long-term roadmapping alongside short-term building.
+Six months of deep work in which we can emerge from the other side with concrete plans on how to make this crazy experiment self-sustaining and viable for the long-term.
+We’re already doing great work, according to Web3 thought-leaders like Joe Lubin 2. We’re setting the precedent for other DAOs following in our footsteps. Let’s take a solid six months to make sure we’re building structures for everyone in the DAO to do the best work of their lives.
+What: A Six-Month SUPERSIZED Season 4.
+Break week: April 4-8
+Season 4 Start: April 15
+Founding Day/One Year Anniversary: May 4
+Permissionless: May 17-19
+Break week: July 11-15
+Season 4 End: October 7
+Why we shouldn’t do two three-month seasons between April and October:
+Budgeting is exhausting. Doing it four times a year is burning out contributors and forcing them to just repeat what they did last season, rather than thinking critically about what their pod/subDAO/group needs to become self-sustaining and profitable.
+Our seasons are jammed. Three months is really short when contributors are spread thin across other jobs, other DAOs, and IRL work/responsibilities. We need a longer runway for contributors to work “on” their projects/guilds rather than “in” them.
+We’re making this up as we go—we don’t have to follow the corporate quarters! Actually, I’d rather not emulate the thing which I seek to destroy
+Why we should do a 6-month season instead:
+Let coordinators and leaders have a chance to pull their heads out of building and focus on the future. Rather than racing to the next season, projects and guilds can do the “deep work” of building out governance documents, addressing long-term sustainability, revamping internal onboarding, and designing better models for contributor retention.
+Projects/guilds can focus on the capital-W “Why” of their initiatives and zoom out, rather than racing through 12-action-packed weeks of a standard season.
+Coordinators can host retrospectives and take more time to improve for the future.
+Give our possible GSEs a six-month runway to do the work, election and snapshot vote pending.
+How we can pull this off:
+The Grants Committee selects a percentage split for projects vs. guilds. I recommend 70% for projects and 30% for guilds.
+This can be a guideline, not a hard and fast rule. If they allocate 65% to projects and 35% to guilds, that’s totally fine. But I believe we need some predetermined split.
+Projects/guilds will request six months of funding rather than three.
+Halfway through the Super Season (July) Grants Committee members (and possibly GSEs and the PLM workgroup) will check in with project/guild coordinators to:
+See what roadblocks they’re having.
+Identify which roadblocks could be solved via a boost in funding.
+See what’s working and what’s not and try to identify solutions together.
+Since the project/guild will already be funded for the remaining three months of the season, these check-ins will be more about big-picture ideas rather than small-scale, sprint-until-we-run-out-of-energy stuff.
+Expectations by the beginning of Season 5, starting October 17th
+Projects/guilds will have a better idea of their long-term plan because they’ve had the time to slow down and think deeply on these issues.
+We’ll have a better idea of the funding runway for the DAO as a whole.
+We’ll have a better idea of which projects/guilds will become self-sustaining and which won’t. Then, we can plan for that.
+FAQs
+What if a leader wants to step down from a paid role mid-season?
+Build an internal governance process for your project/guild that allows that. Seasons should not be the end-all-be-all constraint for our operations. The process can be as simple as “give a two week notice, new people can express interest, then hold a one week vote for a new person.” Done.
+How will the Grants Committee adhere to the project/guild split for the superseason?
+They can call in subject matter experts to advise them. They can also use a +/- 5% margin to play with.
+How will project/guild coordinators be held accountable for working “on” their pods/subDAOs/groups?
+Social dynamics are a powerful thing. If we make Season 4 all about working “on” our orgs rather than “in” them, we could see a cascade of coordinators leading similar initiatives. We can build in public, too—an example of this is when the Writers Guild publicly posted the governance framework for the guild. The GSEs could also help lead this initiative. We have lots of options—we can attack it from multiple angles and get multiple groups involved in leading the initiative.
+Next Steps
+Aggregate comments on this post and publish a second draft if needed.
+DM Joe Lubin and thank him for saying such nice things about bDAO.
+Possibly have a discussion in a CC.
+Publish a write-up of the Super Season in the Weekly Rollup.
+Hold a formal vote via snapshot as part of the seasonal spec.
+Yes, let’s do a superseason!
+Maybe, with edits.
+No, let’s stick to 3-month seasons.
+No, let’s [fill in the blank]
+38
+voters
+Vote now!
+Show results
+2 Replies
+1

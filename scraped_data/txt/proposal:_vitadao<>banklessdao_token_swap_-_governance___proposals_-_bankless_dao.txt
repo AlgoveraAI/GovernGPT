@@ -1,0 +1,53 @@
+Title: VitaDAO<>BanklessDAO Token Swap
+Author(s): cryptodad🏴#5814, jengajojo.eth🏴#5896
+Date created: 3/31/2022
+Date posted: 4/26/2022
+TL;DR
+This proposal is to initiate a token swap with VitaDAO for its governance token $VITA.
+$25,000 worth of BANK will be swapped for $25,000 of VITA taken at the 30-day moving average at the end of the votes on both sides.
+BanklessDAO would benefit from treasury diversification and possible sales of its products and services to VitaDAO.
+The partnership aligns with BanklessDAO’s mission and values by promoting decentralized, permissionless, and censorship-resistant technology and community.
+BACKGROUND
+BanklessDAO (referred to as “bDAO”) is seeking to build relationships with other DAOs and Web3 organizations to 1) diversify its treasury holdings to help the DAO in the long term operational viability; 2) introduce the tools and services developed by bDAO to Web3 communities; 3) raise awareness of bDAO in different communities.
+VitaDAO is a community-owned collective funding early-stage longevity research, governed through the VitaDAO Snapshot. 7 VitaDAO is looking to partner with bDAO via token swap to intensify the collaboration and create mutual awareness between the two organizations.
+A token swap with VitaDAO will not only diversify bDAO’s treasury but also help initiate the partnership with VitaDAO, which can provide further opportunities for promoting bDAO’s products, e.g., DAO dash and DEGEN bot.
+About VitaDAO
+VitaDAO is an open cooperative that anyone can join, with the goal to acquire, support, and finance new therapeutics and research data in the longevity space. The VitaDAO collective will directly hold legal IP rights to these projects and may develop a growing portfolio of assets represented as IP-NFTs and Tokens.
+Members of the public can join VitaDAO and govern its IP through VITA tokens by contributing funds, work, or valuable research data or IP assets. VITA tokens enable their holders to engage in decision-making and governance of VitaDAO’s research, signal support for specific initiatives, and govern its data repositories and IP portfolio.
+KEY VITADAO METRICS:
+$9m+ Treasury to fund research
+3000+ Active Discord members
+30+ Research projects evaluated
+$1.5m+ Longevity research funded
+The VitaDAO Ecosystem (Source: VitaDAO Whitepaper)
+MISSION AND VALUES ALIGNMENT
+This proposal will initiate the partnership between bDAO and VitaDAO, which aligns with what “Go Bankless” means: promoting decentralized, permissionless, and censorship-resistant technology and community.
+The Bankless meme envisions a world where people use web3/crypto tools to navigate the coordination challenges of the 21st Century. Funding longevity research is currently masked with red tape. If we are able to use web3/crypto tools to unlock new drugs and techniques to reduce the healthcare costs of society as a whole, it gives added validation for using web3/crypto tools to coordinate actions of apes around the world with this Bankless technology and encourages more people to adopt the Bankless lifestyle.
+SPECIFICATIONS
+USD 25,000 in notional value, swapped in BANK for VITA.
+Token prices will be taken at the 30-day moving average at the end of the votes on both sides.
+Example: As of 3/31/2022, the 30-day moving average price is $0.03092 for BANK and $1.9730 for VITA. The swap would be 808,538 BANK for 12,671 VITA.
+FINANCIAL IMPLICATIONS
+bDAO will swap USD 25,000 in notional value of BANK for VITA.
+RISKS
+As of the date this proposal is created, the only identified risk is investment risk.
+The VITA token could become worthless if VitaDAO fails to create and retain value.
+The maximum loss would be $25,000.
+STIPULATIONS
+Holding period: Both parties will hold the tokens for one(1) year after the swap.
+Sale of tokens: Following the one-year period, each party has the right of Preemption if the other party decides to sell.
+Communications around the partnership
+To ensure operational effectiveness, a monthly call will be set up by at least one representative of each organization.
+SUCCESSFUL METRICS OR KPIS
+Increased treasury value from the token swap
+If the VITA token outperforms BANK, bDAO would gain exposure to the VITA token value.
+VitaDAO adopts bDAO’s products or services.
+DISCORD POLL
+Treasury Guild member temp check poll 8:
+FORUM POLL
+Approve
+Dispute
+46
+voters
+Show results
+2

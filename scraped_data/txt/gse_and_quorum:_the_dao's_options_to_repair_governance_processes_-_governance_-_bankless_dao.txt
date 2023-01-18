@@ -1,0 +1,36 @@
+GSE and Quorum: The DAO’s Options to Repair Governance Processes
+Background:
+Quorum is a procedural requirement that sets the minimum number of people (in our case BANK tokens) that must be present (in our case, cast or accounted for) for a vote to become enacted. It exists so proposals can’t be shuttled through without a sufficient number of contributors casting votes. A quorum requirement can be thought of as a legitimacy requirement. It shows that a sufficient portion of the community cast their vote.
+A quorum of 36.8 M BANK was set in this post 11, which was voted in favor of 3. This snapshot vote did not itself reach the quorum standard, but as it was introducing the standard, it did not need to. The quorum requirement simply needed a majority to become enacted, which it received.
+The Governance Solution Engineers snapshot vote 10, in spite of the amount of exposure it has received, has failed to meet quorum 10 by roughly 9 million BANK. It recieved 85.77%, 23M BANK, in favor.
+This leaves us with two important questions:
+What should we do about the GSE Program, which was intended to provide solutions to medium and long-term issues facing the DAO?
+What should we do about the quorum standard we set, knowing that it is unlikely that votes will reach this standard in the future, including any vote to revoke the quorum requirement?
+Also take a moment to consider a few nuances of this issue:
+How do we maintain trust in our contributors and legitimacy of our governance processes?
+How do we solve the medium and long-term problems facing the DAO?
+What do we do with the GSE program in the absence of its drafter and the individual who received the most votes? In other words, how do we determine who the fifth person is now?
+How do we move forward without setting a precedent that will hurt us later?
+And please look at the votes that would have or wouldn’t have passed the 36.8M BANK threshold. Our Seasonal funding proposals have all failed to meet what we currently have a “quorum.”
+We have two polls. These polls are temperature checks, not final decisions. The options are complex because the situation is complex. Ask questions in the comments or the governance channel. Please think carefully about the precedents these choices may set before weighing in:
+Poll 1: What to do about the GSE Program:
+Honor the quorum, meaning the project doesn’t move forward. This means the GSE program is not enacted. A new proposal or new program may be created and put to vote.
+Void the quorum, meaning the project can move forward. Submit a new snapshot to eliminate or reduce the quorum, and state that this second snapshot only needs a majority to pass, not the 36.8M BANK. After the elimination or reduction of the quorum, open another brief application period and re-run a vote for GSE applicants.
+Void the quorum, meaning the project can move forward. Elect the individuals with the five highest vote totals to the GSE program, except for frogmonkee, who has withdrawn from consideration.
+Void the quorum, meaning the project can move forward. Re-vote among previous applicants to account for frogmonkee stepping down.
+Void the quorum, meaning the project can move forward. Also void the vote for individuals, but keep the program, allowing all individuals who ran for GSE to step into the GSE roles, if they choose to. This would mean we’d possibly have more than five GSEs.
+77
+voters
+Vote now!
+Show results
+Poll 2: What to do about the quorum requirement for future votes:
+Keep the quorum requirement. This may set a precedent of grid-lock and/or needing to get Genesis members to vote, which they typically abstain from due to the size of their BANK holdings.
+Vote out the quorum requirement via a snapshot vote that must reach current quorum to do so. This means we will have to seek out the whales who have not been voting and get them to vote. This may set a precedent of Genesis members voting, which would skew the results of all votes going forward significantly.
+Vote out the quorum requirement via a snapshot vote that doesn’t need to reach quorum to do so (corresponds with second option above). This may set a precedent of contributors being able to quickly change quorum and voting standards.
+70
+voters
+Vote now!
+Show results
+Thank you and feel free to comment with your questions—I will do my best to answer them.
+1 Reply
+3

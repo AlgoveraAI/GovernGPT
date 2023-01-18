@@ -1,0 +1,39 @@
+Proposal Name: Tokenomics - Migrate DAO-Owned Liquidity to Uniswap V3
+Program Champion(s): 0xLucas, Icedcool, HashedMae, general tokenomics crew
+OP Date: January 27, 2022
+Status: Forum Voting [Draft->Voting->Forum Voting->Closed]
+Voting Link: Discord Vote 3
+TL;DR
+Migrate Sushiswap protocol owned liquidity to Uniswap V3 full range position.
+This move will create a price oracle, allowing us to launch a Rari lending market and generate more revenue as the Uniswap position has fees defined at 1% (Sushiswap is 0.25%).
+Background
+The Tokenomics Department is working on creating lending markets for $BANK. This will initially begin with deploying a Rari Capital Fuse Pool on Ethereum mainnet while opening up the ability to also launch on a Layer 2 lending protocol (Market.xyz on Polygon or Rari on Arbitrum) in the future.
+Adding a lending market has multiple benefits. For one, it allows BANK holders to deposit and borrow against their holdings rather than having to sell. More importantly, this allows the treasury to open up its own lending market as described by Dan Elitzer.
+twitter.com
+Dan Elitzer 🌱 7
+@delitzer
+Are you hyped about @RariCapital's Fuse permissionless lending pools yet?
+
+What if I told you they are going to be an absolute godsend for DAOs with treasuries, and especially for communities like @FWBtweets and @BanklessHQ?
+
+Let's unpack a DAO Treasury Fuse Pool Template 👇
+9:40 PM - 15 Oct 2021
+311
+40
+In order to kick this off, we need strong price oracles for $BANK that’s supported by lending markets. Rari Capital leverages Uniswap V3 oracles; however, all of the DAO owned liquidity is on Sushi. As such, we can easily bootstrap a lending market by migrating our liquidity to Uniswap v3 as a full range position (the position providing the strongest oracle).
+Implementation
+This proposal looks to pull the liquidity that we have acquired from OlympusPro Bonding, owned by the treasury, and migrate that over to Uniswap v3 as a full range position. As of writing, this amounts to $500,000 in liquidity. As a result, this will allow us to have a price oracle that is integrated with Rari, and any future integrations with other defi platforms.
+Additionally, Uniswap offers a 1% fee pool. This fee tier is for smaller cap, exotic tokens with more volatility (perfect for BANK) and is where the majority of the existing liquidity lives. The benefit here is that this will make Uniswap the primary source of liquidity for BANK, driving the majority of the volume Uniswap and the fee revenue to the DAO treasury.
+For reference, Sushiswap fees are 0.25%, meaning the treasury can generate 3x the revenue by migrating.
+More info on uniswap oracles:
+Uniswap oracles 3
+Voting Poll
+98%
+Approve
+2%
+Dispute
+48
+voters
+Show vote
+Closed Feb '22
+2

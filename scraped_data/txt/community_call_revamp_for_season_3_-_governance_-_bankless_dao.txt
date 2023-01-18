@@ -1,0 +1,65 @@
+Here’s a conversation that happened in the discussion section of Brain Dump #6:
+
+Here, I’m proposing a way to do this CC reengineering.
+The primary mission of this proposed CC change is to build BanklessDAO culture. We have the entire DAO—the equivalent of a small town—listening to one meeting at ONCE. We absolutely must use this time as effectively as possible.
+I’m worried that, as we continue to grow, we’ll lose sight of who we are as a community and where we’re going. The firehose-style updates in our current CC format are overwhelming and don’t use our precious one hour together in the best way possible. Giving everyone updates in a newsletter and a #CC-updates channel will allow DAO members to digest the information on their own time and skip over parts that they’re not interested in or don’t pertain to them. We’re all strapped for time here, so we should try to use the time we have in the most effective way we can.
+I also want a way to make voting fun again. Right now, governance feels like a chore, which means we need to change the way we present it. Reading through forum posts feels like work, but by making the “hottest” posts a topic of discussion in the CC, we’re placing voting and governance at the forefront: where it belongs.
+Lastly, I think developing strong public speakers is a critical component to onboarding 1 billion people to crypto. How do politicians get things done? They speak well. How do lobbyists actually lobby? They present their ideas in a speech. The reality is that our world is run by people who can distill complex ideas into a sound-bite that plays on national news and rings throughout social media. We must develop our skills in this area if we’re going to onboard 1 billion people.
+Proposed CC Revamp Time stamps:
+1-5min: Moderator opens.
+5-15 min: Moderator invites up to 4 key project leaders with clear action items and needs of immediate help.
+15-30 min: Keynote speaker OR roundtable.
+30-55min: Q&A with keynote speaker.
+55-60min: Closing thoughts from the moderator.
+1-5: The Intro
+The moderator for the week opens with a quick intro of who they are and a few overarching thoughts. This is when they give a reminder about the forum proposals that are up or a snapshot vote on the way. Governance = check.
+We will cycle through moderators to give the CCs different flavors and distribute the voice of the DAO as much as possible. Each L2 will have a chance of being moderator—a new one every week. That would be a great way to get to know who the L2s are and learn their personalities. Because it is only a 5 minute intro, I believe people will be able to pull this off even with little public speaking experience in the past. Also, many L2s have been onstage at Community Calls or season kick offs before.
+5-15 min: The limited project updates
+This space is for project or guild updates that contain immediate action items. Projects that feel they have immediate updates should submit their updates to the moderator for the week. If the number of updates exceeds four projects, the moderator will either 1. Announce the remaining updates themselves, 2. Push less immediate updates off for top-of-the-list next week, or 3. Send them to the guild update newsletter and a new #cc-updates channel (everyone will put their updates here). I will elaborate on these new items below.
+Examples of immediate updates:
+Fight Club is hosting DAO-wide webinars on VC funding, which start next week. RSVP to reserve your spot.
+DAOlationships needs marketing and legal experts to assist with a few key clients next week. Introduce yourself in our general channel to get started.
+CryptoBushi has some hot new NFT project that will help fund the DAO….and we need you to mobilize on Twitter ASAP.
+15-30 min: The Keynote Speaker OR Roundtable (reduced to 15 min from 20 in original draft)
+The keynote speaker/roundtable is the flagship of the CC. This is when you bring out the popcorn. Keynote speakers and roundtables can be……anyone! But here are a couple ideas.
+I expect that the roundtable listed at the top will be the most common—and possibly the most fun—CC format.
+A roundtable of individuals representing a forum proposal—we have a “for” person and an “against” person, and they try to convince a small group of undecideds.
+One person explaining a very critical yet complicated vote that’s up, like the Olympus proposal.
+A genesis leader sharing some bDAO history and reflecting on the growth and change of the DAO. Are we on the right course? Drop bDAO wisdom.
+A project or guild leader who learned an awesome way to decentralize a workflow, which other project squads and guilds can learn from.
+Someone from outside the DAO who our L2s invite in to speak. Why don’t we get a DAO celebrity in here speaking? Do you think Coopahtroopa would say NO? How freaking cool would that be?
+A roundtable of guest pass holders who just got their first payout. One L2 can lead the roundtable, facilitating the conversation. How did they discover bDAO, who helped them get started, what projects have they hoped on, and how are they liking it so far? A connection to the current wave of guest passers is essential to keep a pulse on the “young” side of the DAO and continue to improve our onboarding system.
+Literally anyone with something cool to say. I don’t see us ever running out of speakers. In fact, the opposite issue happening—we’ll have to get choosy. I see external speakers—DAO innovators, Ethereum thought leaders, anyone cool in the crypto space—knocking on our door asking to speak.
+Someone more on the outside of crypto, but still related. Andrew Yang, for example.
+30-55 min: The Q&A
+I recommend we select two L2s to moderate the flow—one experienced or “seasoned” L2 who has done the Q&A before, and another “unseasoned” one who is doing it for the first time.
+It would work like this:
+People submit questions in a new Q&A channel.
+If you’re in the audience and you like the question, react with emojis or reply! This will help the L2 Q&A moderators determine which questions to present to the speaker.
+L2 Q&A moderators can determine which questions to ask in a backchannel of their own, or just engage actively with the questions in CC Chatter. (Like replying and saying, “Great question, let’s ask it! @otherL2moderator what do you think?)
+The chosen weekly moderator asks the question on behalf of the member who proposed it—this is purely so we can keep it moving quickly.
+This continues until we reach minute 55.
+55-60min: Moderator closes
+Each moderator will close in a different way. I can imagine Frank America telling a joke that will end up in The Rug next week, Frogmonkee waxing philosophical about governance, and Nonsense hyping everyone up about how important our work is day in and day out. The flavor of the DAO will be different every week, and DAO members will get to know all the L2s! Woohoo win win!
+Details on the new stuff:
+The Q&A Channel
+We need a low-noise Q&A channel labeled #cc-Q&A. This is where people submit questions and the L2 Q&A moderators “read the room” to see what people want to ask.
+The Guild/Project Update Newsletter
+Guild leaders and project leaders submit weekly updates to a weekly updates channel. Some overarching, deeply involved L2s gather these into a newsletter. (This would not require any additional writing from the L2s, just some editing and copy-pasting into a substack newsletter.) This will replace the slideshow we have now.
+Things to consider:
+Who is going to take on the publishing of this, and how will they be remunerated? Will our newsletter team take it on? Maybe some active L2s with the help of the newsletter team?
+The Weekly Updates Channel
+This is where weekly updates are posted for the L2s to gather the Guild/Project Update Newsletter. DAO members can also read this channel rather than reading the newsletter.
+Thank you for reading! Here’s a bit about the writers of this proposal:
+Squad Background
+Samanthaj: I’m the talent scout for the Writers Guild and enjoy writing and thinking about governance. Getting to speak on the Season 2 kickoff was a pivotal moment for me in the DAO—I felt like my voice really mattered. I want others to get this feeling in our weekly CCs, too.
+Hiro: I’m a writer and editor with the Writers Guild. Core Team at DAOpunks. Lover of people & Builder of communities. Come for the tech → stay for the revolution.
+Yes, I like this format and new channel/newsletter as is
+Nope, let’s keep engineering. Commenting below:
+37
+voters
+Choose up to 2 options.
+Vote now!
+Show results
+1 Reply
+4

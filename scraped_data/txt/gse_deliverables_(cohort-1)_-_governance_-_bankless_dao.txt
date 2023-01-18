@@ -1,0 +1,96 @@
+Title: GSE Deliverables (Cohort-1)
+Author: 0xJustice.eth#6213
+Date: Sep 15, 2022
+Summary
+This is an update and summarized status report on the current GSE initiative (from my perspective).
+The GSE team:
+rotorless | Amicus.eth#0429
+0xJustice.eth#6213
+saulthorin#7696
+Above Average Joe#5427
+ManuelMaccou🏴#6974
+BACKGROUND
+The GSE group was elected to solve the DAO’s greatest pain points. We each had our way of going about that mission, given our backgrounds and unique skill sets.
+Governance Solution Engineer Program - Re-Implementation
+Proposals
+Title: Governance Solution Engineer Program - Re-Implementation Author(s): Icedcool🏴#4947 Date Created: February 23rd, 2022 Date Posted: February 25th, 2022 Reference documents: Quorum Removal Snapshot: Link Invalid GSE Spec Snapshot: Link Invalid GSE Election Snapshot: Link GSE Specifications: Link Alright everyone, the quorum requirement has been removed! While the GSE has been forum approved, but not snapshot approved, I thought this would be a chance to refresh it in the DAOs memor…
+Manual and Rotorless focused on creating a risk framework and an extensive financial report. AAJ and Saul focused on creating a new compensation framework. I focused on the constitution, the bDIP process, and what a new (sustainable) BanklessDAO 2.0 model might look like. We all weighed in on the work of each other. What follows is my best attempt in summarizing our findings, deliverables, and recommendations.
+DELIVERABLES
+Financial Analysis Report
+GSE: A Financial Analysis of Guilds and Projects
+Governance
+Summary The GSE recently used a portion of our budget to fund a workgroup whose task was to perform a financial analysis of the DAOs projects and guilds each season for the past 3 seasons. This is a post to share the results and offer ideas on how this can be used to make smarter funding decisions and stronger proposals. We are all responsible for the DAOs success. Information must be transparent and readily available at all times. This is especially important in a DAO where every decision is…
+Constitution & bDIP Process
+While the handbook was collectively constructed and edited in google docs, its final V1 form has been moved to a dedicated repository here 7 under the DAO-controlled GitHub org. You can see the source material and other associated and inspirational material there. The handbook itself is an MD file. This should be treated as the canonical version, and updates to it should be handled very carefully and ideally go through the designated governance process.
+A dedicated Bankless Academy learning module is scheduled to go live in the next week or so. You can see it here 5. This is important as it is how our community working agreement gets socialized to the DAO. It can and should be used in onboarding and could also be used to augment voting if the DAO chooses to do so.
+Everyone who completes the learning module will be issued a soul-bound token representing their familiarity with the material. Updating the document should be paired with an updated SBT so we can track who’s current.
+The BanklessDAO Improvement Proposal Process (bDIP) process is effectively a fork of our project template but customized to the handbook. The idea is to treat our handbook as code and change how we do things by passing changes (diffs) to the handbook through governance. The size and impact of those changes have been categorized as major, minor, and patch.
+This proposal met with overwhelming approval and is ready to go to Snapshot in my opinion. Learn more of the background here:
+Constitution & bDIP Standard (Part 2)
+Governance
+Constitution & bDIP Standard (Part 2) Draft Authors: 0xJustice Working Group: GSE Team Two weeks ago the GSE group posted this proposal: The intention was to validate the vision and gather feedback on readiness. Many of you responded to the call and we are forever thankful! We have responded to and resolved tons of questions and concerns shared both in the original forum post and the constitution doc. Now that all of these changes and all requested refinements have been made, we are kindly…
+The GSE team created a list of problem areas we felt would be strong candidates for our first bDIPs. A much longer version of these recommendations has been penned by Manuel, Saul, and Senad with additional context on motivation. What follows is my summary of those recommendation areas. There is also not total agreement from the GSE team on every facet of them, but I feel this list accurately represents our group’s findings/opinions.
+Revamped Membership
+The GSE recommends putting a time limit on guess-passes that cannot be renewed after a specified period and implementing an alternative membership system to the one we currently have, which only requires you to hold 35k indefinitely.
+Limited Guest Pass. The current guest pass lasts 14 days and is infinitely renewable, and many people do renew it indefinitely. Our economy (like every other social DAO) rests on memberships.
+The Seasonal Pass is one promising idea. The DAO is not capitalizing on its greatest value: the network. It also has very few inflows and suffers from a lack of focus. We create revenue, focus, and contributor focus by selling season passes. We have an amazing design pattern in the continuous auction we could emulate here 3. This would also give us visibility into community growth over time because it would create on and offboarding and cohort-based cycles.
+Revamped Leveling System
+We recommend adding a skills-based reputation component to membership in addition to BANK balance. Currently, only L2s are earned through recommendation.
+Skill-based: Skill-based leveling (L1-L3) Right now, the only earned level is L2.
+Graduated BANK holding requirements for levels. Ex. 50k for L2 and 100k for L3. This would greater incentive alignment and reduce supply.
+Introduce Funded Working Group Role Level Requirements. Ex: Must be L3 to be a champion or coordinator.
+Resiliency: Must have two L2s on the team (apprenticeship model) These L2s should have the same access to the L1’s systems for safety (reduce single point of failure)
+Revamped Org Units
+The GSE recommends an explicit definition of org units with associated success metrics. Among these would be distinguishing operations from other org units and guilds specifically to focus on onboarding, education, and talent sourcing
+Explicit distinction, definition, and success criteria of DAO org units. Ex:
+Guilds (Onboarding, education, and talent sourcing)
+Projects (Startup style projects)
+Ops (Cost center - Infrastructure)
+Grants (Grants, Ventures, and Budgeting)
+GSE (Governance and bDIP process shepherding)
+Guild Focus
+Establish a guild prime directive: Guilds are for onboarding, education, and upskilling
+Eliminate nested projects if their purpose is not to drive the prime directive.
+Seasonal BANK buyback program
+BANK needs a deflationary mechanism. We will inflate the token if we continue to issue BANK without one. This happens by locking BANK through role requirements or by directly removing BANK from circulation through a recurring buyback program (Social EIP-1559). The new compensation framework also reduces emissions over time. Modeling this with Machinations 2 would be the ideal way to proceed with this.
+Project Funding Roadmap
+We need to tighten the ship on expectations from funded units. I am suggesting that we introduce a runway for funded entities. An example of what this could look like is as follows:
+Leveling requirements for funding (Must be LN to ask for X BANK)
+The first round of funding is given as a grant
+Further rounds of funding are based of the success of previous deliverables and is venture based (bDAO gives X BANK for X% of the venture)
+DAO Legal Service
+I am recommending that bDAO offers a legal service for incubated projects. This removes major blockers for projects that need legal entities to function, creates a basis for venture agreements with the DAO, and creates a strong perk to launching projects from the bDAO platform. The grants committee could act as the DAOs legal entity inlet for funded projects.
+Evolve GSE to Permanent Body
+The GSE recommends we make the GSE entity a permanent org unit of the DAO.
+This first run of this GSE program has not been perfect. This doesn’t mean we should abandon it. We should do it again and better. This body is ideally positioned to grow into a DAO delegate body. bDAO will be left in the dust if it does not take the opportunity to capitalize on the opportunity. We can do several things to improve this body’s execution and function, including changes in compensation, the pattern of coordination, transparency of execution, and expected deliverables.
+Rigorous DAO Reporting
+The GSE recommends investing in the creation of a rigorous reporting application. Ideally, this would be a real-time dashboard and a cadence of status reports. This dashboard should show all flows in and out of the treasury and org structure changes via role tags or badges. The reports should also show changes in money flows and community on a weekly, monthly, and seasonal basis. There are several dashboard style options on the market, and there are also promising internal products for the DAO to accomplish this, but until we get this done, we are all flying blind as a DAO. If we can mirror our org structures on-chain through badges/hats/pods, we may also be in a position to do some of this with Dune Analytics.
+Judicial Offboarding Framework
+The GSE recommends creating a disciplinary framework for bad actors or violations of our community rules of conduct. What do we do when someone acts contrary to our community guidelines? Do we remove them from the server or just downgrade their level? Who decides this? There have been instances of this, and we don’t have an agreed-upon consequences plan. Ex. See MolochDAO RageKick
+Conclusion
+I’ve learned so much over the last several months, but the biggest shift in my thinking has been the fundamental mental model of how most DAOs operate. The typical pattern is for projects to ask the community for money, and then the community gives that money in hopes it’s the right thing to build and that the team can deliver. I’m increasingly convinced this is an inferior pattern and that we should be leveraging the DAO as a launch platform that only funds new projects already funded by end users.
+In this way, we elevate projects to the customer and not repeatedly fund projects in hopes that the customer might want them. This approach is called the Rendanheyi business model and stands to upend how DAOs currently work.
+The following mirror post lightly touches upon this revamped “customer-centric” thinking.
+banklessdao.mirror.xyz
+Efficient DAO Design 3
+Decentralization is not only compatible with efficiency; it requires it. But it won't come for free. It must be injected through careful org design.
+You can also listen to a walk through of how I think bDAO is evolving and how the above recommendations fit together.
+BanklessDAO Governance 2.0 with 0x.Justice
+The associated slides can be found here:
+docs.google.com
+BanklessDAO 2.0 4
+BANKLESS DAO 2.0 A Story in Three Parts My views alone Not endorsed by any group within the DAO I love bDAO (please don’t interpret any of my opinions as critical or dismissive) ENTER
+FINANCIAL IMPLICATIONS
+None of the GSEs have taken any money for this work. Final compensation will be decided by an upcoming community vote.
+SUCCESS METRICS
+I think I speak for the whole GSE crew when I say we all wanted and hoped we would radically change everything for the better when this started. We have been unable to do that, so we all have guilt and disappointment. But sometimes, success is not binary, and it takes a few more attempts to get something right. The GSE initiative is worthy of continuing. It can be done better and should be if the DAO is to succeed.
+NEXT STEPS
+The constitution is ready to go to snapshot
+The Academy lesson will likely be done next week and can be used for onboarding
+There’s money available to fund the implementation of some of the above recommendations
+One possibility could be to run a JokeDAO race on these problem areas to get a ranked list of things the community feels strongest about. The proposal to use JokeDAO is live:
+Defining priorities within Bankless DAO ft. jokedao
+Proposals
+Project Team: TommyOlofsson, Grendel, Eagle Submission Date: 14th September 2022 Summary We’ve experienced rapid growth in people and a reboot of governance during the last year. But did we manage to align the DAO on a long term target? This sentiment check would aim to first collect data on what areas members of the DAO see as the most important one. As a second step the DAO could then deep dive within any of these topics. jokedao is a great tool for contests and governance, it allows all v…
+2 Replies
+13

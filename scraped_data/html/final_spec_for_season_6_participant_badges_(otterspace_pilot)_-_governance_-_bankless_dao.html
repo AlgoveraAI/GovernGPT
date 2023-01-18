@@ -1,0 +1,184 @@
+<div class="regular contents"><div class="cooked"><p>Draft Authors: BPetes, Otterspace</p>
+<p>Working Group: Ops-Guild ( chunz , raybankless.eth , brianl, LiviuC)</p>
+<h1>
+<a name="summary-1" class="anchor" href="#summary-1"></a>Summary</h1>
+<p>This post is an update on the finalized and detailed plans for the Otterspace Pilot. This Pilot was <a href="https://forum.bankless.community/t/bdao-season-role-holder-badges-otterspace-pilot/4172">proposed back in August <span class="badge badge-notification clicks" title="2 clicks">2</span></a> and recently discussed in the <a href="https://forum.bankless.community/t/community-vote-season-6/4441">Season 6 community <span class="badge badge-notification clicks" title="4 clicks">4</span></a> vote.</p>
+<p>The intent of this post is to:</p>
+<ul>
+<li>Provide a detailed specification for Season 6 pilot;</li>
+<li>Address questions raised in prior forum post discussions (see FAQ); and</li>
+<li>Provide space for a final round of feedback and sentiment before imminent pilot start</li>
+</ul>
+<p>For this pilot we are focused on improving security and access challenges that occur when a contributor goes inactive.</p>
+<p>The experiment proposed for Season 6 is to have bDAO members mint an expiring Otterspace ‘Season Participant Badge’ and a ‘Level 2 Badge’ (for members that have achieved L2). The Participant Badge NFT will be a signal of members who are preparing to participate and remain active in S6. The Participant Badges will expire automatically at the end of Season 6, and process will start over again in Season 7 (if sentiment of this experiment is positive).</p>
+<p>These Badges will be used in Collab.Land gating logic for server access control to improve security holes that exist as contributors go inactive or go below 35k BANK. Expired Badges can no longer be used for access via Collab.Land in subsequent seasons, but they can be retained by contributors as proof of their presence and participation at the start of Season 6 (or simply burned if they no longer wish to hold them).</p>
+<p><strong>Quick Example:</strong></p>
+<p><code>@level2</code> discord role access will require that the member hold:</p>
+<ul>
+<li>A Level 2 Otterspace Badge <code>AND</code>
+</li>
+<li>An unexpired Season Participant Badge <code>AND</code>
+</li>
+<li>Maintain the 35K BANK threshold of an <span class="mention">@level1</span>.</li>
+</ul>
+<p>This will ensure that as L2s go inactive or dump BANK their <code>@level2</code> access will lapse until they renew their Participation Badge and/or regain the 35K BANK. This also brings the added benefit of no longer relying on Discord role-tags as the ‘source of truth’ for this important L2 status.</p>
+<h1>
+<a name="background-2" class="anchor" href="#background-2"></a>Background</h1>
+<p>This pilot and bDAO partnership with Otterspace was <a href="https://forum.bankless.community/t/bdao-season-role-holder-badges-otterspace-pilot/4172">originally proposed in August <span class="badge badge-notification clicks" title="2 clicks">2</span></a> by <a class="mention" href="/u/0xjustice">@0xJustice</a>  with a 93% favourable poll result from 43 voters. This proposal has no cost associated with the use of Otterspace and only requires coordination efforts from within existing departments and roles.</p>
+<p>Since the initial proposal, members of the Ops-Guild and the bDAO Cartography Workstream have stepped up to support the implementation and related coordination. The plan to use these Otterspace verifiable credentials were signalled and discussed in the <a href="https://forum.bankless.community/t/community-vote-season-6/4441">Season 6 community vote <span class="badge badge-notification clicks" title="4 clicks">4</span></a> with a 94% approval and 65 voters.</p>
+<p>The finalized scope of this pilot is greatly reduced relative to the originally proposed plan to ensure we minimize the effort required to experiment and the time required to get more experientially informed feedback – AKA. “Go small, learn faster.”</p>
+<p>This initiative acts as a proof–of-concept for using non-transferable NFT protocols but sits inside a larger “fabric of change" emerging here at bDAO. We’d like to acknowledge that this experiment meshes nicely with related work being done on tokenomics/subscriptions, guest pass revamp, and general reputation/governance-based initiatives. The learnings from this small experiment can be used to support each of these in the following way:</p>
+<ol>
+<li>Guest Pass (<a class="mention" href="/u/blockboy">@blockboy</a>) [<a href="https://forum.bankless.community/t/guest-pass-temperature-check/4705">Forum Post <span class="badge badge-notification clicks" title="2 clicks">2</span></a>] - GuestPasses expire, can harden them using Otterspace expiring ntNFTs</li>
+<li>Tokenomics (<a class="mention" href="/u/icedcool">@Icedcool</a>) [Forum Post Soon] - subscriptions/time-lock BANK options – ntNFT tech like can have an ‘allow-list’ to mint driven by external contracts</li>
+<li>Reputation Based Unlocks (<a class="mention" href="/u/0xbaer">@0xBaer</a>) - if you use reputation data from tools like Showkarma and/or Orange Protocol they can be complimentary methods of allowlisting ntNFT solutions like Otterspace</li>
+</ol>
+<h1>
+<a name="about-otterspace-3" class="anchor" href="#about-otterspace-3"></a>About Otterspace</h1>
+<p><a href="https://www.otterspace.xyz/" rel="noopener nofollow ugc">Otterspace <span class="badge badge-notification clicks" title="4 clicks">4</span></a> Badges provide DAOs with a new, non-financial coordination primitive to enable richer interactions and a more nuanced participation model.</p>
+<p>Otterspace is building a flexible and easy-to-use interface for DAOs to harness the power of non-transferable Badges. Badges can enable DAOs to automate access rights &amp; permissions (with Guild &amp; Collab.Land), perform non-financialized governance (with Snapshot), manage community-specific credentials, and create better incentive systems. Badges can be easily designed and issued to members via the Otterspace app interface. Through the API endpoint, members can also be automatically added to an allowlist programmatically. The protocol also supports badge revocation, expiry, and reinstatement, so the community is able to respond to bad actors. The team is also co-authoring a token standard specifically for non-transferable tokens (<a href="https://eips.ethereum.org/EIPS/eip-4973" rel="noopener nofollow ugc">EIP 4973 <span class="badge badge-notification clicks" title="1 click">1</span></a>) on top of which they are building an open protocol.</p>
+<h1>
+<a name="pilot-plan-details-4" class="anchor" href="#pilot-plan-details-4"></a>Pilot Plan Details</h1>
+<h2>
+<a name="scope-5" class="anchor" href="#scope-5"></a>Scope</h2>
+<h3>
+<a name="problems-explored-6" class="anchor" href="#problems-explored-6"></a>Problems Explored</h3>
+<p>Throughout Season 5, several problem areas were identified or accentuated. Some of these considered for this pilot include:</p>
+<ol>
+<li>Level 2 role holders that have gone dormant or dipped below 35k BANK were server admins and this presented a significant security issue to bDAO – recently closed by InfoSec, but perhaps we could have just determined who was dormant vs. cutting off access.</li>
+<li>Sesh.fyi guild election polls being called into question because anyone can permissionlessly get a guild tag via Carl-Bot and collude to win.</li>
+<li>It is hard to keep track of who is active or has been active and therefore who should be able to participate in Coordinape rounds (e.g. Dormant L2s collecting BANK because of past contributions/rep/popularity not recent ones)</li>
+</ol>
+<p>We ultimately decided to focus on <span class="hashtag">#1</span> with hints of <span class="hashtag">#3</span>. The goal is to create a bit of a crude <a href="https://en.wikipedia.org/wiki/Dead_man's_switch" rel="noopener nofollow ugc">‘dead man’s switch’ <span class="badge badge-notification clicks" title="4 clicks">4</span></a> on roles like <code>@level1</code> and <code>@level2</code>.</p>
+<h3>
+<a name="solution-landscape-7" class="anchor" href="#solution-landscape-7"></a>Solution Landscape</h3>
+<p>bDAO can use Badges as a means of:</p>
+<ol>
+<li>Hardening Level 2 roles into an on-chain non-transferable Badge, so L2 status isn’t just a Discord role-tag and can be more trusted</li>
+<li>Having all bDAO members interested in participating in Season6 explicitly declaring this interest by minting an on-chain ‘Season Participant’ badge</li>
+<li>Automating gating permissions for Badge holders in Collab.Land so that proof of L2 and proof of ‘intent to participate’ are considered in <code>@level1</code>, <code>@level2</code> gates</li>
+<li>Creating historic mementos for Badge holders (proof of L2, and seasonal participation – or just burn it when done using; users choice)</li>
+<li>Unlock future potential discovered through small experiments (i.e. guest pass system, guild/project role assignment, governance improvements, rep and contribution badge unlock games, etc)</li>
+</ol>
+<h2>
+<a name="implementation-details-8" class="anchor" href="#implementation-details-8"></a>Implementation Details</h2>
+<p>The bDAO Ops Guild has set up an initial pilot use case to test how Badges could work during Season 6. This is scoped to be a very simple experiment of hardening Level2 passes and having Season Participants minting a seasonally expiring badge to indicate their intent to participate for the season.</p>
+<p>For the desired Collab.land gating logic to work, the Ops Guild will create two Badges through Otterspace:</p>
+<p><strong>1) Season 6 Participant Badge</strong></p>
+<p>The Season 6 participant pass denotes intent to remain active and expires at the end of the season.<br>
+There are one of two ways to obtain the S6 pass:</p>
+<ol>
+<li>Through being an active contributor in Season 5 and expressing interest in continued activity in Season 6, which was gathered through the Coordinape form at end of S5:</li>
+</ol>
+<ul>
+<li>Members who indicated their wallets in that form are getting allowlisted to claim the Season 6 Participant Badge in Otterspace</li>
+<li>Members will be informed that they can mint the Badge, and then use it to retain their <span class="mention">@level1</span> and <span class="mention">@level2</span> tags in Discord and continued access in S6</li>
+</ul>
+<ol start="2">
+<li>Contributors who missed the sign-up at the end of season 5, or want to use a different wallet for minting the pass, can use the <a href="https://forms.gle/3UrsAAF8ZPATY9986" rel="noopener nofollow ugc">Badge Request Form <span class="badge badge-notification clicks" title="9 clicks">9</span></a> which will be located in one of ‘front-door’ channels in Discord to help folks returning easily find it.</li>
+</ol>
+<p><strong>2) Level 2 Badge</strong></p>
+<p>The Level 2 Badge, which will replace Discord <code>@level2</code> as the source of truth of Level 2 membership (does not expire):</p>
+<ul>
+<li>Existing Level 2 role holders are eligible to obtain a Level 2 Badge (as well as any new ones nominated going forward).  The <code>@level2</code> role on Discord will be contingent upon a users wallet(s):</li>
+</ul>
+<ol>
+<li>Holding the Level 2 Badge</li>
+<li>Holding 35k BANK</li>
+<li>Holding an unexpired Season X Participant Badge; and</li>
+</ol>
+<p>The <code>@level2</code> Discord role will be revoked automatically if any of these conditions are not met and will automatically return once they are.</p>
+<h3>
+<a name="important-implementation-considerations-9" class="anchor" href="#important-implementation-considerations-9"></a>Important implementation considerations:</h3>
+<ul>
+<li>For the duration of this pilot, Otterspace will cover the minting costs on Optimism by airdropping ETH on Optimism to the wallets that signed up to participate</li>
+<li>The DAO <strong>WILL NOT</strong> decide which wallet must mint these badges.  Members will get to choose which address they wish to use so members can use a different wallet for collecting these vs. say an ENS wallet which is more identifying if they wish</li>
+<li>In this Season 6 experiment, Badges initially won’t be used in governance – smaller use cases in guilds are encouraged and reach out to Ops Guild if you’re interested in experimenting with Otterspace Badges and guild governance/reputation experiments</li>
+</ul>
+<h3>
+<a name="implementation-sequence-10" class="anchor" href="#implementation-sequence-10"></a>Implementation sequence:</h3>
+<p>This is a not a trivial transition in our server gating; but it can be achieved very safely and with DAO consensus “baked in” to process with the following steps:</p>
+<ol>
+<li>Get people their badges first (as this can take time) and ensure success with the minting process</li>
+<li>‘Wire up’ the new collab.land gate logic and test it with some trivial placeholder Discord role-tags first to see that everything’s working.</li>
+<li>Observe a ‘critical mass’ of folks have minted and are ready to participate – the badge minting is like an implicit bDAO vote of preparedness and willingness to participate in this experiment <img src="https://emoji.discourse-cdn.com/twitter/wink.png?v=12" title=":wink:" class="emoji" alt=":wink:" loading="lazy" width="20" height="20" style="aspect-ratio: 20 / 20;"> <img src="https://emoji.discourse-cdn.com/twitter/raised_hands.png?v=12" title=":raised_hands:" class="emoji" alt=":raised_hands:" loading="lazy" width="20" height="20" style="aspect-ratio: 20 / 20;">
+</li>
+<li>IF steps 1 → 3 success, do a final announcement of firm date of transition to this new method of server gating</li>
+<li>‘Go-live’ in Collab.land on the designated date and switch the <code>@level1</code> and <code>@level2</code> role-tag rewards to the new logic.</li>
+<li>Ongoing: Ops-guild supports new folks in navigating and monitors the Season Participant intake form to ensure that any dormant L1s and L2s who arrive back can quickly mint their badges and get active again with ease.</li>
+<li>End of season do a retrospective and sentiment poll to evaluate success of this experiment and determine what is preserved (or merged into Szn7 relevant bDIPs around structure, tokenomics, governance, and access control)</li>
+</ol>
+<h1>
+<a name="measures-of-success-11" class="anchor" href="#measures-of-success-11"></a>Measures of Success</h1>
+<ul>
+<li>All members that were awarded Level 2 Badges and Seasonal Participant Badges successfully minted the Badges, with the transaction fee covered by the Otterspace ETH airdrop</li>
+<li>Significantly improving the security holes, measured by infoSec sentiment surrounding this initiative and the potential re-enstatement of deeper server privileges for the <code>@level2</code> tag once it’s more trusted</li>
+<li>End-of-season sentiment poll and DAO consented plans to use these technologies in upcoming bDIPs related to structure, governance, Coordinape, and/or access control.</li>
+</ul>
+<h1>
+<a name="final-temp-check-12" class="anchor" href="#final-temp-check-12"></a>Final Temp Check</h1>
+<div class="poll" data-poll-name="poll" data-poll-type="regular"><div><div class="poll-container"><ul><li tabindex="0" data-poll-option-id="b0c1366fb544d84a8f424fa1ca4222cb"><svg class="fa d-icon d-icon-far-circle svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-circle"></use></svg> <span>Yes - I’m ready to mint my Otterspace Badge(s) and try this</span></li><li tabindex="0" data-poll-option-id="65f60793c10bcb45c672e0d4670c0426"><svg class="fa d-icon d-icon-far-circle svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-circle"></use></svg> <span>No - I read FAQ below <code>AND</code> have concerns shared in comments</span></li></ul></div><div class="poll-info"><p><span class="info-number">29</span><span class="info-label">voters</span></p></div><div class="poll-buttons"><button class="widget-button btn btn-default toggle-results btn-icon-text" title="Display the poll results"><svg class="fa d-icon d-icon-far-eye svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-eye"></use></svg><span class="d-button-label">Show results</span></button></div></div></div>
+<h1>
+<a name="appendix-13" class="anchor" href="#appendix-13"></a>APPENDIX</h1>
+<h2>
+<a name="a1-frequently-asked-questions-faq-14" class="anchor" href="#a1-frequently-asked-questions-faq-14"></a>A1 - Frequently Asked Questions (FAQ)</h2>
+<hr>
+<details>
+<summary>
+What happens to the Badges when a member's wallet keys are compromised? Does the issuer simply issue a new Badge?</summary>
+<p><em>Currently, the issuer would issue a new Badge to a new account in the case of compromise, but Otterspace is working on a reassignment process based on social validation. The original badge can be burned by the holder or revoked by the DAO. Both burning and revocation make the Badge unusable in Collab.Land.</em></p>
+</details>
+<hr>
+<details>
+<summary>
+Isn’t anyone who has their finger on the issuance a vector for centralization?</summary>
+<p><em>The issuer is the bDAO community, and it’s up to the community to decide who can act on its behalf. Currently, you can use a Safe multi-sig wallet to act as the issuer if you want to prevent centralization.</em></p>
+<p><em>To address the balance between centralization and convenience, we are working on a system whereby the DAO can decentralize by distributing specific permissions to Badge holders. For example, you could decide that any holder of the Team Lead Badge can act as the issuer for a Guest Pass Badge. These settings will be entirely configurable by the DAO, which allows you to choose your level of decentralization.</em></p>
+<p><em>Ultimately it is up to the community to decide what functions of the Badges protocol they want to decentralize and to what degree. For Season 6 Ops-guild will have an Optimism Safe w/ 1/X policy to make it easy to quickly respond to updates during this Pilot.  There’s always going to be a trade-off between convenience and decentralization and it’s up to the community to decide where to land on the spectrum. Otterspace’s goal is to provide the tools to go fully decentralized or to be more centralized for the sake of efficiency.</em></p>
+</details>
+<hr>
+<details>
+<summary>
+Aren’t there risks since it’s a non-transferable Badge?</summary>
+<p><em>Badges are based on the <a href="https://eips.ethereum.org/EIPS/eip-4973" rel="noopener nofollow ugc">EIP-4973 <span class="badge badge-notification clicks" title="1 click">1</span></a> token standard. Otterspace specifically designed the specification so that claimants have as much control as possible. EIP-4973 implements consensual minting, meaning before any token reaches a wallet, a users signature (and therefore consent) is required. And even after receiving it, a user can always perform a full dissociation by burning the token at any time. Further, the Otterspace protocol includes functionalities such as expiry and revocation to enhance usability and address risk concerns.</em></p>
+</details>
+<hr>
+<details>
+<summary>
+Are Badges in conflict with pseudonymity?</summary>
+<p><em>It’s important to mention that Badges are in no way tied to personal identity but to users wallets, for which one doesn’t have to reveal their identity. Badge metadata is generic to all holders of the badge, it isn’t unique to the account holding it. I.e. there is no space for individual metadata that could be used to identify someone. (e.g. It does not associate users to their Discord handle). The account address is the identifier users are connected with and nothing else.</em></p>
+<p><em>Additionally, Badges are consented – i.e. they need to be claimed by the holder via signature. This prevents malicious doxxing via airdrop. Issuers cannot send you the Badge, users are just added to the allow-list and may choose to mint or not.</em></p>
+<p><em>After the season is completed and the Badge has expired (i.e. primary utility is no longer there) the user can choose to burn the Badge if they wish (or keep it as verifiable proof of participation aka. secondary utility). It is 100% up to the wallet owner.</em></p>
+</details>
+<hr>
+<p>More FAQs are answered in the <a href="https://docs.otterspace.xyz/" rel="noopener nofollow ugc">Otterspace Docs <span class="badge badge-notification clicks" title="1 click">1</span></a>.</p>
+<h2>
+<a name="a2-otterspace-minting-guide-15" class="anchor" href="#a2-otterspace-minting-guide-15"></a>A2 - Otterspace Minting Guide</h2>
+<details>
+<summary>
+Badge Claim Process (expand for details &amp; screenshots)</summary>
+<p>On the Badge page, click “Sign In” on the top right and sign in with the wallet that you have specified for Season 6.</p>
+<p></p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard14/uploads/bankless/original/2X/9/93b28f2482972e8d3f25383368b92032f3a61209.png" data-download-href="/uploads/short-url/l4AKsApGQulvE0edvUixcG6Iu5r.png?dl=1" title="" rel="noopener nofollow ugc"><img src="https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/9/93b28f2482972e8d3f25383368b92032f3a61209_2_624x289.png" alt="" data-base62-sha1="l4AKsApGQulvE0edvUixcG6Iu5r" width="624" height="289" role="presentation" srcset="https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/9/93b28f2482972e8d3f25383368b92032f3a61209_2_624x289.png, https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/9/93b28f2482972e8d3f25383368b92032f3a61209_2_936x433.png 1.5x, https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/9/93b28f2482972e8d3f25383368b92032f3a61209_2_1248x578.png 2x" data-dominant-color="F9F4E8" loading="lazy" style="aspect-ratio: 624 / 289; background-color: rgb(249, 244, 232);"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename"></span><span class="informations">1600×741 55.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg>
+</div></a></div><p></p>
+<p>Connect your wallet to Otterspace. You will be automatically prompted to switch your wallet to Optimism. The most common wallets will prompt users directly to switch to Optimism without requiring any additional setup.</p>
+<h2>
+<a name="h-624x289uploadw4dif6uip1g31bnpsjvsowauurlpng-16" class="anchor" href="#h-624x289uploadw4dif6uip1g31bnpsjvsowauurlpng-16"></a><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard14/uploads/bankless/original/2X/e/e0cbdb3a14cf833d1d5f0c8326dfa1a064e0947d.png" data-download-href="/uploads/short-url/w4DIf6uIP1G31BNPSJVSOwAUuRL.png?dl=1" title="" rel="noopener nofollow ugc"><img src="https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/e/e0cbdb3a14cf833d1d5f0c8326dfa1a064e0947d_2_624x289.png" alt="" data-base62-sha1="w4DIf6uIP1G31BNPSJVSOwAUuRL" width="624" height="289" role="presentation" srcset="https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/e/e0cbdb3a14cf833d1d5f0c8326dfa1a064e0947d_2_624x289.png, https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/e/e0cbdb3a14cf833d1d5f0c8326dfa1a064e0947d_2_936x433.png 1.5x, https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/e/e0cbdb3a14cf833d1d5f0c8326dfa1a064e0947d_2_1248x578.png 2x" data-dominant-color="AFAEA9" loading="lazy" style="aspect-ratio: 624 / 289; background-color: rgb(175, 174, 169);"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename"></span><span class="informations">1600×741 130 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg>
+</div></a></div>
+</h2>
+<p>After you’ve signed in, you click on “mint Badge” in the center of the screen. bDAO members do not have to pay for minting fees. As part of the implementation, Otterspace sends every user $1 of ETH on Optimism, which will cover minting fees for 4-8 Badges. The process will be seamless and no additional setup is needed, you only have to sign the transaction.</p>
+<h2>
+<a name="h-624x289uploadbvov1h0vfjv1scd9jrl8lylffc1png-17" class="anchor" href="#h-624x289uploadbvov1h0vfjv1scd9jrl8lylffc1png-17"></a><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard14/uploads/bankless/original/2X/5/50a4a1bf0ada36e43c298f7bea8576d940ba7cc5.png" data-download-href="/uploads/short-url/bvoV1h0VFJv1scd9JRL8lYLfFc1.png?dl=1" title="" rel="noopener nofollow ugc"><img src="https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/5/50a4a1bf0ada36e43c298f7bea8576d940ba7cc5_2_624x289.png" alt="" data-base62-sha1="bvoV1h0VFJv1scd9JRL8lYLfFc1" width="624" height="289" role="presentation" srcset="https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/5/50a4a1bf0ada36e43c298f7bea8576d940ba7cc5_2_624x289.png, https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/5/50a4a1bf0ada36e43c298f7bea8576d940ba7cc5_2_936x433.png 1.5x, https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/5/50a4a1bf0ada36e43c298f7bea8576d940ba7cc5_2_1248x578.png 2x" data-dominant-color="F7F3E7" loading="lazy" style="aspect-ratio: 624 / 289; background-color: rgb(247, 243, 231);"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename"></span><span class="informations">1600×741 67.7 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg>
+</div></a></div>
+</h2>
+<p>After successful minting, members can view their Badge in the user profile and use the Badge for gating in various downstream integrations, such as Collab.Land. </p><div class="lightbox-wrapper"><a class="lightbox" href="https://global.discourse-cdn.com/standard14/uploads/bankless/original/2X/b/b37f17d98ca30756702332995f870700f8ec74d3.png" data-download-href="/uploads/short-url/pBTLjbPlzh90j3T8b1qb7FLmJnJ.png?dl=1" title="" rel="noopener nofollow ugc"><img src="https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/b/b37f17d98ca30756702332995f870700f8ec74d3_2_624x289.png" alt="" data-base62-sha1="pBTLjbPlzh90j3T8b1qb7FLmJnJ" width="624" height="289" role="presentation" srcset="https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/b/b37f17d98ca30756702332995f870700f8ec74d3_2_624x289.png, https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/b/b37f17d98ca30756702332995f870700f8ec74d3_2_936x433.png 1.5x, https://global.discourse-cdn.com/standard14/uploads/bankless/optimized/2X/b/b37f17d98ca30756702332995f870700f8ec74d3_2_1248x578.png 2x" data-dominant-color="F7F3E7" loading="lazy" style="aspect-ratio: 624 / 289; background-color: rgb(247, 243, 231);"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use href="#far-image"></use></svg><span class="filename"></span><span class="informations">1600×741 67.4 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use href="#discourse-expand"></use></svg>
+</div></a></div><p></p>
+</details>
+<h2>
+<a name="a3-additional-links-18" class="anchor" href="#a3-additional-links-18"></a>A3 - Additional Links</h2>
+<p>Developer docs (all contracts are open sourced):<a href="https://docs.otterspace.xyz/developer-docs" rel="noopener nofollow ugc"> https://docs.otterspace.xyz/developer-docs</a></p>
+<p>Website:<a href="https://otterspace.xyz/" rel="noopener nofollow ugc"> https://otterspace.xyz/ <span class="badge badge-notification clicks" title="3 clicks">3</span></a></p>
+<p>Twitter:<a href="https://twitter.com/otterspace_xyz" rel="noopener nofollow ugc"> https://twitter.com/otterspace_xyz <span class="badge badge-notification clicks" title="1 click">1</span></a></p></div><section class="post-menu-area clearfix"><nav class="post-controls expanded"><button class="widget-button btn-flat show-replies btn-icon-text" title="1 Reply" aria-label="This post has 1 reply. Click to expand" aria-pressed="false"><span class="d-button-label">1 Reply</span><svg class="fa d-icon d-icon-chevron-down svg-icon svg-node" aria-hidden="true"><use xlink:href="#chevron-down"></use></svg></button><div class="actions"><div class="double-button"><button class="widget-button btn-flat button-count like-count highlight-action regular-likes btn-icon-text" title="11 people liked this post" aria-label="11 people liked this post. Click to view" aria-pressed="false">11<svg class="fa d-icon d-icon-d-unliked svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-heart"></use></svg></button></div><button class="widget-button btn-flat share no-text btn-icon" title="share a link to this post"><svg class="fa d-icon d-icon-d-post-share svg-icon svg-node" aria-hidden="true"><use xlink:href="#link"></use></svg></button></div></nav></section></div>

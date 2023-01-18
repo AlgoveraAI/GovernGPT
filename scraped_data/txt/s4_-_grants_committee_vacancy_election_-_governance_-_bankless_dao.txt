@@ -1,0 +1,27 @@
+Title: S4 - Grants Committee Vacancy Election
+Authors: Icedcool🏴#4947
+Date Posted: April 4th, 2022
+TLDR
+Grendel stepped down from the Grants Committee for Season 4
+Due to this and based on the Grants Committee Spec(link) the Grants Committee is taking applicants to fill the position that will be voted on after the application period.
+Summary
+Grendel recently stepped down from the grants committee and due to this the Grants Committee has a vacant seat.
+This post is to take applicants to fill that position, based on the initialization spec(link).
+The Grants Committee consists of 5-7 members along with a multisig with all committee members as signers.
+The Committee is responsible and accountable for managing the grants system, reviewing grant applications, and managing the grants treasury, with the help of other guilds as needed (e.g., treasury).
+The Committee has a quorum with four members over seven OR three members over five, but is otherwise responsible for their own operations.
+The Committee cannot change the application process to be a Committee member without a snapshot vote and is encouraged to accept the DAO’s proposal template.
+The Grants Committee is required to be transparent and communicative with the DAO, such as access to Committee meetings and an opportunity to voice opinions and feedback.
+The voting period will last one week and will take place on Snapshot:
+Grants Committee Applications will be submitted and decided on by a weighted snapshot vote, and the highest voted application will be elected into the Grants Committee.
+Any unapproved candidate can gather feedback, improve their resume, and resubmit for future vacancies.
+Committee members can be recalled with an instant vote of 51% or more. Committee members may leave the Committee at any time by submitting a written resignation note to the Committee.
+To submit your application, please reply to this post including:
+Discord handle
+Reason for applying
+Qualifications
+Sponsor(s) (i.e., those who will second your nomination - the more the merrier!)
+Timeline
+Applications will be closed 4/19/22.
+A weighted vote snapshot will be kicked off, and the highest voted participant will be elected to fill the vacancy starting in Season 4.
+5

@@ -1,0 +1,67 @@
+Title: Subdao Projects - An experimental model
+Author(s): Icedcool🏴#4947
+Date Created: February 23rd, 2022
+Date Posted: March 30th, 2022
+TLDR:
+SubDAO model for projects to allow long term viability, governance, utility and involvement.
+To enable operations and independent governance, projects Tokenize and reward contributors and the DAO with their base token.
+Specific distribution is dependent on the project, token, etc.
+To enable alignment with BanklessDAO, the token is paired at a significant amount to the native token (BANK) then pairs to BANK in liquidity pools. (say 10 tokens to 1 BANK)
+This allows contributors to continue to be paid in native tokens of the project, while accruing value to the BANK token.
+Additionally, if the project takes funding, this would require the funding to FIRST purchase BANK, then purchase the project token.
+This would be a Win/Win for all parties.
+This would be enforced with a written agreement between the project and the DAO.
+Summary:
+Long term projects(including dev) projects are hard, and take time to develop revenue and find product market fit(ex, AWS and many many others).
+This model is to create an additional funding path forward that allows continued work and operational independence while also creating value accrual and alignment with the DAO.
+Background:
+As subDAOs continue to develop throughout the DAO, some of the challenges that we have are:
+Operations within BanklessDAO
+Alignment with BanklessDAO
+Long term funding
+This model is an attempt at a solution around this, that seeks to solve all three challenges.
+Challenge 1: Operations
+With a token, the subDAO is free to operate and design governance as it sees fit, using whatever specific DAO tooling it also sees fit. A secondary token enables many different governance opportunities, from voting, token gating, and more.
+Challenge 2: Alignment with BanklessDAO
+The major alignment mechanism of this model is the liquidity pools paired to BANK, and only BANK (at least initially). This creates value alignment to BanklessDAO through the use of the pairing to BANK token.
+If contributors are long term aligned with the project, they will hold the token. If they need to sell to an open market token, contributors could sell their token to BANK if they so desire.
+If investors are interested in funding the project, they would have to purchase BANK(upward pressure), then purchase the secondary token. Because the LP is an isolated pair between BANK and the token, in the LP this would drive up the price between the token and BANK while BANK would also accrue value on the market in relation to other tokens(eth).
+Example:
+Someone wants to invest 100 ETH into BountyBoard.
+They would purchase 100 eth of BANK (current estimates 5.74M BANK at 179K USD valuation) and would drive the price up 63%.
+100ETH≈ $284,479.00
+5.74M BANK ≈ $179,987.75
+Bank Price would go up 63% (CHECK MY MATH!)
+They would then purchase the secondary token with the 5.74M BANK
+5M BB/500k BANK LP pool
+10/1 valuation
+To be provided by the subdao
+This trade would put 1 BB token = 1.14 BANK
+At first glance, this seems fine if the funding comes in and doubles the price of the token.
+BB contributors could swap to BANK to use for funding, which would be higher across the board.
+Additional short term opportunities is that members can signal their belief in projects by swapping for the tokens, and longer term opportunities is to create project indexes that allow people to buy project groupings with $BANK.
+I could see this translating into a website where people could see all the different projects and pools that they could swap tokens for.
+Lastly, if someone were to independently create a pairing to an additional token, that would most likely be a success scenario where the token is so valuable that people want additional routes to purchase the token.
+Challenge 3: Long term funding
+By projects tokenizing they can reward contributors with their native token and would be less reliant on the DAO to continue to go back for funding.
+Additionally, having a native token allows for project defined engineering and utility to design and implement governance and token utility. This includes ve options, escrow, staking, etc.
+Specifications:
+Projects request funding in whatever form they need
+Projects would mint a token, and then decide on a distribution amongst core contributors and distribution for liquidity.
+This mint would need to be an adequate enough supply to both be distributed to core contributors, compensate future work, AND provide liquidity to the pool.
+The project would then create a liquidity pairing of their funding to the BANK token.
+The pairing price point would need to be decided upon by the project and implemented to support alignment. (10 token <> 1 BANK)
+Success Metrics or KPIs:
+ACKNOWLEDGEMENT:
+THIS IS AN EXPERIMENT.
+I’m hoping we don’t rug ourselves, but at first glance this seems like a very cool way to support the long term alignment of projects and the DAO, while allowing projects to design and express unique governance and tokenomic systems.
+Risks:
+(to name a few)
+Token challenges
+If a core contributor decided to sell all their tokens for bank, it could cause problems for the pool
+Major decrease in price of token to BANK
+Regulation
+Token engineering overhead
+Need simple and easy method to mint tokens
+1 Reply
+7

@@ -1,0 +1,71 @@
+<div class="regular contents"><div class="cooked"><p><strong>Proposal Name:</strong> Tokenomics - Migrate DAO-Owned Liquidity to Uniswap V3<br>
+<strong>Program Champion(s):</strong> 0xLucas, Icedcool, HashedMae, general tokenomics crew<br>
+<strong>OP Date:</strong> January 27, 2022<br>
+<strong>Status:</strong> Forum Voting [Draft-&gt;Voting-&gt;Forum Voting-&gt;Closed]<br>
+<strong>Voting Link:</strong> <a href="https://discord.com/channels/834499078434979890/846544905958457377/934896869346275408">Discord Vote <span class="badge badge-notification clicks" title="3 clicks">3</span></a></p>
+<h2>
+<a name="tldr-1" class="anchor" href="#tldr-1"></a>TL;DR</h2>
+<ul>
+<li>Migrate Sushiswap protocol owned liquidity to Uniswap V3 full range position.</li>
+<li>This move will create a price oracle, allowing us to launch a Rari lending market and generate more revenue as the Uniswap position has fees defined at 1% (Sushiswap is 0.25%).</li>
+</ul>
+<h2>
+<a name="background-2" class="anchor" href="#background-2"></a>Background</h2>
+<p>The Tokenomics Department is working on creating lending markets for $BANK. This will initially begin with deploying a Rari Capital Fuse Pool on Ethereum mainnet while opening up the ability to also launch on a Layer 2 lending protocol (Market.xyz on Polygon or Rari on Arbitrum) in the future.</p>
+<p>Adding a lending market has multiple benefits. For one, it allows BANK holders to deposit and borrow against their holdings rather than having to sell. More importantly, this allows the treasury to open up its own lending market as described by Dan Elitzer.</p>
+<aside class="onebox twitterstatus" data-onebox-src="https://twitter.com/delitzer/status/1449233878757961733">
+  <header class="source"><svg class="fa d-icon d-icon-fab-twitter svg-icon svg-string" xmlns="http://www.w3.org/2000/svg"><use href="#fab-twitter"></use></svg>
+
+      <a href="https://twitter.com/delitzer/status/1449233878757961733" target="_blank" rel="noopener">twitter.com</a>
+  </header>
+
+  <article class="onebox-body">
+    <img src="https://global.discourse-cdn.com/standard14/uploads/bankless/original/2X/f/ff85a43882db0a11c7c44aa35e30ddf00cac9b16.jpeg" class="thumbnail onebox-avatar" width="400" height="400" loading="lazy" style="aspect-ratio: 400 / 400;">
+<h4><a href="https://twitter.com/delitzer/status/1449233878757961733" target="_blank" rel="noopener">Dan Elitzer 🌱 <span class="badge badge-notification clicks" title="7 clicks">7</span></a></h4>
+<div class="twitter-screen-name"><a href="https://twitter.com/delitzer/status/1449233878757961733" target="_blank" rel="noopener">@delitzer</a></div>
+
+<div class="tweet">
+  <span class="tweet-description">Are you hyped about @RariCapital's Fuse permissionless lending pools yet?
+
+What if I told you they are going to be an absolute godsend for DAOs with treasuries, and especially for communities like @FWBtweets and @BanklessHQ?
+
+Let's unpack a DAO Treasury Fuse Pool Template 👇</span>
+</div>
+
+<div class="date">
+  <a href="https://twitter.com/delitzer/status/1449233878757961733" class="timestamp" target="_blank" rel="noopener">9:40 PM - 15 Oct 2021</a>
+
+    <span class="like">
+      <svg viewBox="0 0 512 512" width="14px" height="16px" aria-hidden="true">
+        <path d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path>
+      </svg>
+      311
+    </span>
+
+    <span class="retweet">
+      <svg viewBox="0 0 640 512" width="14px" height="16px" aria-hidden="true">
+        <path d="M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z"></path>
+      </svg>
+      40
+    </span>
+</div>
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both"></div>
+</aside>
+
+<p>In order to kick this off, we need strong price oracles for $BANK that’s supported by lending markets. Rari Capital leverages Uniswap V3 oracles; however, all of the DAO owned liquidity is on Sushi. As such, we can easily bootstrap a lending market by migrating our liquidity to Uniswap v3 as a full range position (the position providing the strongest oracle).</p>
+<h2>
+<a name="implementation-3" class="anchor" href="#implementation-3"></a>Implementation</h2>
+<p>This proposal looks to pull the liquidity that we have acquired from OlympusPro Bonding, owned by the treasury, and migrate that over to Uniswap v3 as a full range position. As of writing, this amounts to $500,000 in liquidity. As a result, this will allow us to have a price oracle that is integrated with Rari, and any future integrations with other defi platforms.</p>
+<p>Additionally, Uniswap offers a 1% fee pool. This fee tier is for smaller cap, exotic tokens with more volatility (perfect for BANK) and is where the majority of the existing liquidity lives. The benefit here is that this will make Uniswap the primary source of liquidity for BANK, driving the majority of the volume Uniswap and the fee revenue to the DAO treasury.</p>
+<p>For reference, Sushiswap fees are 0.25%, meaning the treasury can generate 3x the revenue by migrating.</p>
+<p><strong>More info on uniswap oracles:</strong><br>
+<a href="https://docs.uniswap.org/protocol/V2/concepts/core-concepts/oracles">Uniswap oracles <span class="badge badge-notification clicks" title="3 clicks">3</span></a></p>
+<div class="poll" data-poll-name="poll" data-poll-type="regular"><div><div class="poll-container"><div class="poll-title">Voting Poll</div><ul class="results"><li class=""><div class="option"><p><span class="percentage">98%</span><span>Approve</span></p></div><div class="bar-back"><div style="width:98%" class="bar"></div></div></li><li class=""><div class="option"><p><span class="percentage">2%</span><span>Dispute</span></p></div><div class="bar-back"><div style="width:2%" class="bar"></div></div></li></ul></div><div class="poll-info"><p><span class="info-number">48</span><span class="info-label">voters</span></p></div><div class="poll-buttons"><button class="widget-button btn btn-default toggle-results btn-icon-text" title="Back to your votes" disabled="true"><svg class="fa d-icon d-icon-far-eye-slash svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-eye-slash"></use></svg><span class="d-button-label">Show vote</span></button><span class="info-text" title="February 3, 2022 12:00 AM">Closed <strong>Feb '22</strong></span></div></div></div></div><section class="post-menu-area clearfix"><nav class="post-controls expanded"><div class="actions"><div class="double-button"><button class="widget-button btn-flat button-count like-count highlight-action regular-likes btn-icon-text" title="2 people liked this post" aria-label="2 people liked this post. Click to view" aria-pressed="false">2<svg class="fa d-icon d-icon-d-unliked svg-icon svg-node" aria-hidden="true"><use xlink:href="#far-heart"></use></svg></button></div><button class="widget-button btn-flat share no-text btn-icon" title="share a link to this post"><svg class="fa d-icon d-icon-d-post-share svg-icon svg-node" aria-hidden="true"><use xlink:href="#link"></use></svg></button></div></nav></section></div>

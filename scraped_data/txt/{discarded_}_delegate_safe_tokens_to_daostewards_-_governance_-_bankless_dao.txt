@@ -1,0 +1,57 @@
+Title: Delegate SAFE tokens to DAOstewards
+Author: @Jengajojo Squad: DAOstewards
+TLDR
+This post outlines the rationale for forming a Meta governance squad in BanklessDAO and delegating SAFE tokens from Banklessvault.eth to delegate their SAFE voting power to daostewards.eth 4
+This post is also a follow-up post on BanklessDAO’s participation in Safe DAO governance, 3 which has passed the forum gate on October 8. 2022
+Background
+DAOs rely heavily on token holders to make decisions. Token holders often need more context on proposals and help collect the information required to vote on decisions within the DAO. As a result, they often tend not to vote or make uninformed decisions. Another reason for voter apathy is the reasonably complex nature of decentralised governance; a lengthy discussion period follows a temp check. In most DAOs, temp check leads to off-chain snapshot votes and eventually to on-chain voting. As a result, an average person Getting lost in this long process of multiple voting rounds is to be expected. Lower voter turnover and unmet quorums hinder the maturing process of DAO.
+‘’Governance architects and token holders historically believed in delegating voting power to individuals with competence, discipline, and bandwidth to participate in DAOs. We have seen ineffective and poor delegate participation run rampant in some protocols.
+Specifications
+The solution for lower voter turnover or reduced participation is to include unique and dedicated groups in the governance process who have the resources to take part in the governance process and help the DAO evolve.
+This could be considered an improved version of Metagovernance groups, where both DAOs benefit mutually and help nurture a positive relationship. If you want to know more about Meta governance, here is the Ultimate Guide to Metagovernance - by Ben Giove - BanklessHQ 5. 2
+These governance groups will have dedicated members who understand the problem, do the necessary research to propose a solution, and help the partner DAO process and implement the solution as improvement proposals.
+Introducing Bankless DAOstewards
+DAOstewards are decentralised governance experts from BanklessDAO who specialise in solving the DAO governance trilemma (Voter Apathy, ignorant voting, and plutocratic voting). Bankless DAOstewards will also involve BanklessDAO’s internal governance, carry forward the Bankless mission, and represent the interest of BanklessDAO in the greater web3 ecosystem.
+The meta governance influence of the Bankless DAOstewards will be limited to the delegation of voting power from token holders to us, both from the BanklessDAO community and outside. We prefer to establish DAO2DAO relationship, and The proposals we put forward will not be hostile towards the partner DAOs.
+Mission and vision
+Net positive engagement: We represent a community aiming to empower all parties involved and develop in a positive-sum manner.
+United we stand: DAOstewards believe decentralisation is paramount in governing web3. We aim to represent everyday users of web3 and have their unheard voices heard.
+Bankless Lifestyle: As a group from BanklessDAO, we aim to enable more people to exit their reliability on legacy institutions and fully embrace internet-native digital organisations.
+Quality participation: We believe the quality active contributors could help a DAO evolve. We aim to deliver the best quality of work with minimum bureaucracy.
+SAFE Delegation
+The airdropped SAFE tokens from SAFE DAO have to be delegated to be claimed by each multi-sig. As this proposal suggests, any multi-sig which has received BANK from BanklessDAO should delegate its voting power to ‘daostewards. 4eth’ as outlined in the reasons above.
+Safe delegate Pod structure
+The DAOstewards delegation comprises 5 members @Jengajojo @gruad @thinkDecade @links @link @senad.eth as members who are vetted DAO governance participants.
+Safe DAO delegates.
+The selection process of Pod members
+After the initial Safe DAO governance participation signalling proposal @0xbaer @senad.eth and @Jengajojo has connected a DAO-wide campaign to onboard the best governance talents, interested parties have pitched themselves with their web3 qualifications. (link to delegate pitching 2)
+Thanks to the safe and metropolis pod smart contracts, delegate membership is fluid; the DAO or the initial cohort of delegates can add or remove members if a member is inactive or isn’t value-aligned. The exact process of removal should be fleshed out.
+Safe delegate Pod structure
+The voting pattern of current delegates and DAOstewards.
+The Delegates can express their interests and opinions during the internal debate period. An internal Discord poll is run in #DAOstewards-poll 3 thread to gather internal consensus. BanklessDAO members are invited to contribute to the discussion stage of the proposals in the #DAOstewards-safe-delegation 1 thread.
+Historical voting of DAOstewards in SafeDAO
+Safe DAO Voting Databank 3
+Current voting power: 15,000 SAFE
+Expected voting power after snapshot: 70,000 SAFE
+Financial Implications
+The delegation of tokens requires no groups to make any new or unexpected expenses.
+Claiming SAFE tokens and delegation requires on-chain gas, which is covered by BanklessDAO’s gas refund policy.
+Success metrics or KPIs
+% of all proposals voted on
+Seasonal reporting of the rationale behind votes
+Revenue/perks generated for BanklessDAO
+Update 1: Clarification on the enforcement on DAO multi-sigs. This proposal only aims to delegate Safe tokens from Banklessvault.eth .
+Guilds and Projects of BanklessDAO are free to follow their internal governance structure.
+Closing the initial poll to reflect the changes.
+Removed the original poll and added a new one to reflect the changes.
+Claim Safe tokens from Banklessvault.eth and delegate to DAOstewards
+94%
+Yes
+6%
+No
+16
+voters
+Show vote
+Closed Nov '22
+1 Reply
+1

@@ -1,0 +1,60 @@
+Brain Dump #3 - $BANK is Money
+Brain Dump #1 - Governance, Revenue, and $BANK 16
+Brain Dump #2 - Framework for Balance of Power 9
+NOTE
+These views might be radical. I’m not even sure if I fully believe what I’m writing. But it’s an important conversation that we need to have.
+Introduction
+Is BANK Money?
+Medium of Exchange
+Unit of Measurement
+Store of Value
+Making BANK Money
+Conclusion
+Introduction
+Required Reading: Coordinating Labor in DAOs: The DAO Talent Stack 31 (At least read the Case Study section with Sahej, Margaret, and Jared)
+$BANK is money. This concept is fundamental to the evolution of BanklesDAO. I am starting to see the beginning of an economic engine that BanklessDAO will rely on to operate and generate content.
+In my blog post (^ required reading), I framed a market where goods and services were exchanged using $BANK. Projects, initiatives, budgets, Guilds, and bounties all fit nicely into an operational cadence that relies on the supply and demand of skilled laborers.
+For the market model to actually work, $BANK needs to function as money, these ephemeral units of value that swap hands. And because the social layer decides what is and what is not money, $BANK is money if we make it money.
+Is $BANK Money?
+The short answer is that it’s up to us. $BANK is money if we choose to make it money. But right now? No, it’s not.
+There are three functions of money:
+Medium of Exchange
+Unit of Account
+Store of Value
+Medium of Exchange
+The exchange of goods and services in markets is among the most universal activities of human life. To facilitate these exchanges, people settle on something that will serve as a medium of exchange—they select something to be money. - Source 3
+Over the past couple of weeks, BanklessDAO has organically begun to use $BANK as a medium of exchange. For example - bounties. The idea of bounties has been floating around for some time. The concept is that work can be into small tasks and parceled off based on bidding price, denominated in BANK. Nothing particularly novel here.
+For example, when I needed an editor for the two blog posts I had written, I issued bounties for 100 BANK. I paid both @nonsensetwice for the first article and @gno.thyself for the second.
+Taking this further, these bounties are public for anyone to claim and receive payment for. Visualized, my two bounties would look like:
+Along with the tip bot that @AboveAverageJoe integrated earlier today, I think we can agree that $BANK is a medium of exchange.
+Unit of Account
+Money serves as a unit of account, which is a consistent means of measuring the value of things. - Source 3
+This logic for this is the same as with #Medium of Exchange
+Store of Value
+The third function of money is to serve as a store of value, that is, an item that holds value over time. - Source 3
+This is where things get interested. Interestingly enough, $BANK is not a store of value. Why would it be? If we’re exchanging BANK for goods and services, why not just use ETH or DAI? There’s nothing special about BANK. It can’t store value.
+Could you imagine if we forced everyone that transacts with BanklessDAO to use BANK for no other reason than because we said so? We’d alienate everyone!!! No. Propping up value with arbitrary rules is just a ponzi scheme.
+Right now, BANK is a governance token. It doesn’t even really have a price. Sure, it’s on Uniswap 2, but TVL under 50K USD? You can’t say anything meaningful about price with that type of liquidity.
+Making $BANK Money
+If we could make BANK a store of value, we would have a strong core at the center of our internal economy - Bank as Money. It would allow us to have an internal economy that accepts payment between projects, guilds, members, committees, and likely external parties as well.
+To inject BANK with value, we need to create compelling mechanisms for people to want to hold BANK. Here are just a few possible methods that we can use:
+Media node staking protocol
+Dividends
+Transacting BANK with other DAOs (airdrop?)
+Rewards
+Membership perks
+These methods overlap well with @0x_Lucas 's forum post 2 on how we should orient for each season:
+Distribution
+This can be used to fund public campaigns like writing and meme competitions, Rabbithole Quests and even more altruistic initiatives like funding public goods through Gitcoin. Generally the goal with distribution campaigns is to open up the doors for anyone to earn BANK via participation and become a key contributor.
+Membership Perks
+But beyond basic Discord access, the community can expand the benefits to really anything. Working on a new product and want to give members early access? Perfect. Have a coffee company and want to give discounts to members? Great!
+Conclusion
+The point I want to make here is that BANK can be money. Money is an emergent property and we are seeing its first buds in BanklessDAO. And, if we want to reinforce the market model we are seeing form with Guilds, BANK has to be considered money.
+So how do we get there? Well, we start by continuing to use BANK for internal commerce
+100 BANK for a translated newsletter.
+100 BANK to edit my blog post
+500 BANK to design a podcast thumbnail image
+At this stage, BANK is still valueless. No one will sell the BANK they’ve earned, because all of us believe it has future value. To anyone outside of BanklessDAO, we may as well be using 100 trillion Zimbabwe dollar notes.
+As we progress along seasons, we’ll start to inject value along the way. We’ll introduce membership perks, seasonal subscription perks, dividend payouts, etc. And once we’ve created the infrastructure that will continually increase demand for BANK, then we can say, BANK is Money.
+1 Reply
+20

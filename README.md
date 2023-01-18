@@ -13,3 +13,19 @@ This workflow will soon be added to the [Algovera platform](https://app.algovera
 You can get funded to build your LLM workflow through Algovera Grants. Each month, we give out $10k of grants to projects. For examples of previous proposals, check out our [forum](https://forum.algovera.ai/). For more information on the proposal process, check out our [docs](https://docs.algovera.ai/blog/). We're very grateful to [Ocean Protocol Foundation](https://oceanprotocol.com/) for sponsoring Algovera Grants. 
 
 [Website](https://www.algovera.ai/) | [Twitter](https://twitter.com/AlgoveraAI)  | [Discord](https://discord.gg/e65RuHSDS5)
+
+# 🚜 Files
+
+- `scraper.rb`: Scraper that scrapes over the governance proposals in Bankless DAO
+- `data_cleaner.rb`: Data Cleaner that cleans out the unneccessary HTML tags from the scraped governance proposals
+
+# 📁 Data
+
+- `scraped_data/clean_html`: Cleaned up HTML of governance proposals
+- `scraped_data/html`: Original raw HTML data scraped
+- `scraped_data/txt`: Original raw TXT data scraped
+
+# 🚴 Upcoming
+
+Transform the scraped data into the list of prompts and outputs to train GPT
+Train GPT on that data by Jan 22

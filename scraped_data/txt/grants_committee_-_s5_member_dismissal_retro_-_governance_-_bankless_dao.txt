@@ -1,0 +1,26 @@
+As of October 22, the Grants Committee has voted unanimously to expel member Ap0ll0517 in the middle of his term for absenteeism.
+Below I will lay the timeline out for you to review how we came to this conclusion.
+Above all, we hope that Ap0ll0 is doing well and is able to rejoin the DAO soon.
+Catalyst
+During the October 11 GC weekly meeting 2, it became apparent that Apollo was not attending meetings or responding to messages. There were no indications that this time off
+Upon further inspection, we noted that his last message posted in the GC chat as well as the DAO server was not since Sep 22 1, over 2 weeks. This is still the case today.
+I personally reached out via Discord and Telegram, but have still received no reply.
+With the looming S6 GC election, it dawned on us that the timing of a potential replacement was “ideal” and if Apollo was removed or stepped down, he could be replaced in the same election - preventing a singleton Snapshot election.
+That kicked off a discussion about the Grants Committee’s internal ability to dismiss fellow members.
+GC Powers
+Could we dismiss a member?
+At first, the assumption was that we would need to go to Snapshot to add/remove all members, but upon further inspection the S5 Spec 2 only refers to the limitations for adding members: “The Committee cannot change the application process to be a Committee member.”
+Notably, the GC is “otherwise responsible for their own operations”.
+The combination of these two facts led us to consider that, so long as quorum could still be met, the GC could dismiss a member with a unanimous vote (excluding the member in question).
+Procedure
+So, we first established an asynchronous vote to confirm what we believed: the GC could dismiss a member. This passed.
+Poll 4
+Procedure 1
+Then, a follow up poll was posted to the S6 Community Vote to confirm that with the community sentiment. We acknowledged that if the community voted against it, we would escalate the matter to a Snapshot.
+Lastly, an asynchronous vote was created for the dismissal of Ap0ll0517 3. This passed with 6 of 6 members voting yes.
+Resulting Considering
+At present, the incoming election has more than enough applicants to fill the additional vacancy.
+The member who replaces Apollo should serve a half term (one season) to maintain a more equitable turnover in the future (avoid replacing 5 members every other season).
+The GC recommends that the member with the 5th most votes take this half term.
+Again, we don’t take this outcome lightly and hope that Ap0ll0 is well & rejoins us at the DAO soon.
+6

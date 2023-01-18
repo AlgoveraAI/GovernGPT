@@ -1,0 +1,115 @@
+<p><strong>Title</strong>: bDIP-01: Correcting Grant Proposal Requirements<br>
+<strong>Scope</strong>: patch (bug fix)<br>
+<strong>Draft Authors</strong>: links<br>
+<strong>Working Group</strong>: links, hirokennelly, trewkat, siddhearta</p>
+<h1>
+<a name="bdip-summary-1" ></a>BDIP SUMMARY</h1>
+<p>The <a >BanklessDAO Constitution <span >2</span></a> failed to capture the operational realities of the Grants Committee, and incorporated incorrect requirements (quorum, ungated polls) for grant proposals. This bDIP will bring the Constitution in line with the practices of the Grants Committee, providing clarity for future funding requests.</p>
+<h1>
+<a name="bdip-background-2" ></a>BDIP BACKGROUND</h1>
+<p>The BanklessDAO Constitution lists Forum quorum requirements for grant applications which are specified in the <a >Firming Up Governance <span >9</span></a> Snapshot vote. Those quorum requirements were interpreted by the Grants Committee as having been vacated by the <a >Quorum Removal Vote <span >3</span></a>. In the perceived absence of a quorum, the Grants Committee created its <a >own quorum adjustment method <span >3</span></a>, with help from the GSE, and this has been in operation since July, 2022. Later, the Constitution was enacted via a <a >Snapshot vote which incorporated the incorrect quorum information <span >5</span></a>.</p>
+<p>The BanklessDAO Constitution also states that proposal votes are REQUIRED to be ungated. This was never specified in any seasonal specification or previous Snapshot, and introduces significant security issues (sybil attacks). There have already been one suspected and one confirmed case of non-BanklessDAO members voting for grant proposals to meet quorum requirements, so it’s important we ensure the Constitution does not encourage this.</p>
+<p>This bDIP’s intent is to patch the two bugs listed above.</p>
+<h1>
+<a name="bdip-specification-3" ></a>BDIP SPECIFICATION</h1>
+<p>Since this is a “bug fix”, this bDIP can be considered a patch.</p>
+<h2>
+<a name="current-form-4" ></a>Current Form</h2>
+<p>Forum voting leverages one vote per user and is not token-weighted or gated. Forum proposals require 70% approval to pass to successive stages of governance. Proposals must be posted for one week unless the request exceeds 1M BANK. In these instances, they must be posted for two weeks. Forum quorum is the minimum number of voters that need to be present for the vote to be valid and is listed in the following table. For example, if your Forum post is asking for 50,000 BANK or less, only 25 voters need to cast their votes for the vote to be valid.</p> <table>
+<thead>
+<tr>
+<th>Requested Bank</th>
+<th>Forum Quorum</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&lt; 50k BANK</td>
+<td>25</td>
+</tr>
+<tr>
+<td>50k - 250k BANK</td>
+<td>31</td>
+</tr>
+<tr>
+<td>250k - 500k BANK</td>
+<td>40</td>
+</tr>
+<tr>
+<td>500k - 1M BANK</td>
+<td>51</td>
+</tr>
+<tr>
+<td>&gt; 1M BANK</td>
+<td>63</td>
+</tr>
+<tr>
+<td>Governance (Major)</td>
+<td>63</td>
+</tr>
+<tr>
+<td>Governance (Minor)</td>
+<td>51</td>
+</tr>
+<tr>
+<td>Governance (Patch)</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>
+<p>[<a >See Snapshot <span >9</span></a>]</p>
+<h2>
+<a name="proposed-form-5" ></a>Proposed Form</h2>
+<p>Proposal votes are one vote per user and are not token-weighted. Grant proposals must meet the quorum requirements set by the Grants Committee (available on their <a >Notion page <span >4</span></a>), which may be adjusted seasonally at their discretion.</p>
+<p>Governance quorums are listed below.</p> <table>
+<thead>
+<tr>
+<th>Governance Update</th>
+<th>Forum Quorum</th>
+<th>Approval %</th>
+<th>Timeline</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Major</td>
+<td>63</td>
+<td>70%</td>
+<td>1 week</td>
+</tr>
+<tr>
+<td>Minor</td>
+<td>51</td>
+<td>70%</td>
+<td>1 week</td>
+</tr>
+<tr>
+<td>Patch</td>
+<td>40</td>
+<td>70%</td>
+<td>1 week</td>
+</tr>
+</tbody>
+</table>
+<h1>
+<a name="expected-impact-6" ></a>EXPECTED IMPACT</h1>
+<p>The Constitution will accurately reflect the current quorum requirements in effect at BanklessDAO.</p>
+<h1>
+<a name="analytics-7" ></a>ANALYTICS</h1>
+<p>None</p>
+<h1>
+<a name="next-steps-8" ></a>NEXT STEPS</h1>
+<ol>
+<li>Get Forum consensus (40 votes)</li>
+<li>Get Snapshot consensus</li>
+<li>Update the Constitution</li>
+</ol>
+<h1>
+<a name="working-group-background-9" ></a>WORKING GROUP BACKGROUND</h1>
+<p><strong>links</strong> was the Grants Committee Lead from S4-5 and Champion of Bankless Card.<br>
+<strong>HiroKennelly</strong> is a long-time DAO member and helps lead various projects…<br>
+<strong>Trewkat</strong> is a member of Writers Guild and Lead Staff Editor of the EPA.<br>
+<strong>Siddhearta</strong> is the Writers Guild Coordinator and Newsletter Team Champion.</p>
+<h1>
+<a name="poll-do-you-accept-this-bdip-change-10" ></a>POLL - Do you accept this bDIP change?</h1>
+<ul><li ><use xlink:></use></svg> <span>Yes!</span></li><li ><use xlink:></use></svg> <span>No! (I’ll explain why in comments)</span></li></ul><p><span >48</span><span >voters</span></p><section ><nav ></nav></section>

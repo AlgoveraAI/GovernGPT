@@ -1,0 +1,140 @@
+Squad: @jakeandstake @siddhearta
+Summary
+This post is a potential project funding structure to do the following:
+Create an evaluation framework to help the DAO make strategic decisions with treasury and grant funding
+Create a new evaluation process that optimizes for both community consensus and responsible decision making
+Refine and formalize the funding mechanism in alignment with the evaluation framework and processes
+At a high level, this Optimistic Governance structure would allow project evaluation and funding to be done by subject matter experts. Each review period, a group of “Representatives” will evaluate projects based on their strategic value and send them to the Grants Committee for budgeting approval. This separates the evaluation of each project and its strategic alignment from project funding and deliverables.
+The process of determining which projects to fund starts with project evaluation by the strategy group (representatives) and goes to compensation evaluation by the budgeting/deliverables group (Grants Committee).
+The representatives serve as an incubator for projects. Improving collaboration across guilds and the sharing of ideas. The Grants Committee holds the keys to the treasury and is responsible for accountability. The emergence would come from the projects put forward.
+Both entities would be responsible for affecting the strategy, compensation, and deliverables. To enact high transparency, decisions made by the Representative group and the Grants Committee will be subject to snapshot approval. This ensures a high level of transparency where token holders can also have a direct influence on project funding.
+Background
+In Season 2, the Grants Committee ran out of funding with a month left in the Season, despite increasing the budget by an additional 40% from Season 1. The DAO needs a better strategy to evaluate projects that go to the Grants Committee for funding. This is done through the standardization of project roles and their compensation.
+At the same time, we don’t want these decisions to be made in a vacuum. This framework is a new evaluation process that optimizes for both community consensus and responsible decision making. Through the election of subject matter experts to serve on the Representative group, projects are evaluated by people with intimate knowledge of the requirements for a project’s success and the compensation necessary to fulfill the work. This structure also serves to decentralize the Grants Committee.
+Yet, a truly decentralized structure (token voting) is still insufficient. Community voting does not reflect critical evaluation because the DAO will often vote yes without deeply evaluating the full scope of a proposal and engaging in proposal discussion.
+The structure outlined in this post is a potential solution to improve the strategic prioritization of DAO project funding and continue to decentralize decision making.
+More background here:
+[Draft 2] Governance Solutions Engineer Program
+Proposals
+Title: [Draft 2] Governance Solutions Engineer Program Authors: frogmonkee#6855 Squad: frogmonkee#6855 Date Created: January 4th, 2022 Date Posted: January 5th, 2022 Changes from Draft 1 are marked with a [the govinatooooooor] SUMMARY I want to preface this by saying that I have no idea if this will work. What I present below is my best attempt to activating the DAO to work on hard problems that materially affect everyone. Remember what I said about this still b…
+Funding Philosophy
+What is our “North Star” for funding projects?
+A principled approach to project funding and evaluation requires that our mission, vision and values are clearly stated and that our community is aligned behind this mission. From our Mission, Vision, and Values page:
+“We will help the world go Bankless by creating user-friendly onramps for people to discover decentralized financial technologies through education, media, and culture.”
+In my opinion, our funding philosophy should prioritize revenue generation and a strong BANK token. This will lead to a flywheel of projects and set us up to create long-term sustainable impact on the world. I’ve outlined my thoughts on the subject here:
+BanklessDAO Project Revenue and Ownership Discussion - DRAFT 1
+Governance
+Seeing as how the DAO is not yet sustainable, the most DAO-aligned investment model is most compelling to me. Once we are sustainable we can decentralize our projects. We don’t have to only use one model. We can use them sequentially. Project progression would look like this: Department SubDAO Separate Entity We can either dilly dally our way to being self-sustaining or we can focus on getting there immediately. In the former, BANK will slowly bleed to 0 and we might never become self-sustai…
+TL;DR - We need a strong BANK token to continue to impact the world and the best way to create a strong BANK token is through revenue generation and a strong treasury.
+Given these goals: sustainability, strong BANK, and impact. How should we get there? Fundamentally, all things will flow from revenue generation. This is what we should be optimizing for, but how we get there is another question. Clearly, we’re funding projects, but how do we prioritize them?
+At present, I think about this as a scale between two philosophies: long-term revenue generation and short-term revenue generation.
+In the long-term case, the DAO will have a high risk tolerance — a tolerance for lack of cash flows and for delayed cash flows. The long-term projects will likely take time to fruit (ex: software products/services) but are set to have strong business models once they do (SaaS, tokens, etc).
+In the short-term case, we’ll have a lower risk tolerance and we’ll cut projects that do not generate revenue — or lack a concrete plan to do so — and prioritize projects that generate income today. Again, I see these two poles not as an “either/or” but a dichotomy for us to manage through revenue modeling and rigorous project evaluation. In all cases, projects will be held accountable for the milestones they promise.
+My thoughts on our goals are ordered here:
+Be cash flow positive - This means on-chain revenue, clearly stated KPIs and set deliverables that are highly aligned with this goal, and being careful with the money we spend. bDAO is like a nation that must create goods and achieve income; a strong nation should have a strong treasury.
+Begin incubator phase - Once we have reached “escape velocity” we can begin to fund more ambitious projects. But funded projects have to execute on their promises.
+Without a clear view of where we are going and what we are trying to accomplish, the path forward towards evaluating and funding projects becomes tenuous at best. Many of the problems we are currently facing are due to a lack of the ability to strategically align behind a clearly stated purpose.
+In order to create a framework for the strategic prioritization of project evaluation and funding, this post proposes the following Project Evaluation Framework and Optimistic Governance Structure 2.
+Funding Mechanism
+Project Evaluation Framework
+Projects Evaluation Variables
+Minimum Viable Product
+Revenue (or projected revenue)
+Mission Alignment
+Member Benefit (Culture)
+Budget needed
+Important to compare between projects that are similar in nature
+What is the capital for?
+Key Performance Indicators
+Revenue, engagement, and progress
+Project lead/team track record
+Projects must be re-reviewed on a Seasonal Basis (3 months)
+Review progress → Cut projects if there’s not progress (Grants Committee)
+Ensure targets are being hit (KPIs)
+Every project has a cash inflow and outflow statement (akin to a P/L sheet)
+Projects can reapply for funding → Project track record is reviewed
+Bonus multipliers for achieving project KPIs
+Opinion: The focus should be on increasing on-chain revenue and align with our goals
+Reason: We should be able to sustain ourselves without needing to mint more tokens and dilute holders
+A strong treasury will support the BANK token and serve as “backing”. It’s always better to have a strong treasury than not.
+This will also increase the value of the BANK we issue, giving it a higher premium. We can raise equal (or more) funds with less dilution
+Marketplace for service bounties/ideas
+Funding Public Goods
+The evaluation framework will be similar for public goods funding. These projects will likely continue to receive funding from the Grants Committee. The need for revenue will be deemphasized in favor of KPIs. It’s much more important for the project to hit their KPIs as a measure for success. The project’s benefit should be apparent and the team should continue to explore revenue generating mechanisms.
+Optimistic Governance Structure
+Elections for “Representative” seats
+The role of the Representatives is to evaluate the strategic value of projects
+Allows flexibility to fund projects and lets DAO members influence the results indirectly.
+Guild and project members have a sense of how to evaluate projects through their expertise. This will help cross-guild knowledge sharing regarding the creation, funding, organization, and implementation of projects.
+The Representatives will determine the project’s value alignment with the DAO and have power to say no. Where community consensus is almost always “yes”, this body would have the flexibility and focus to critically evaluate projects and still give bDAO community members a voice.
+Project sanity check (input from other Guilds)
+This body will serve to improve project proposals and help teams make adjustments to compensation and strategy
+Guilds can influence how their members are paid.
+Side note: Proposals/discussion points go on-chain for transparency.
+Guilds vote on representatives to participate in the project approval process
+Each guild sends a subject matter expert
+Guilds serve as talent pools for projects and are aligned through token ownership
+Grants Committee members may not serve as Representatives concurrently.
+Term limits 4-8 seasons?
+Let guilds decide their own election process
+Prefer guilds qualify who votes in their elections → Who qualifies as an x-guild member?
+Grants Committee
+The role of the Grants Committee is as a compensation and deliverables group.
+The primary responsibility is asset/treasury management; they ensure we don’t run out of funds. The PLM working group could help advise the Grants Committee through this process.
+They ensure our budget is on track. They do this by evaluating deliverables created by the representative group
+This will function like a Treasury Leadership group
+Keep an eye on cash flows out of the treasury
+They are also responsible for standardization of project/contributor compensation
+Standardize revenue flow mechanisms (DAO/Guild/Project) and costs/budget
+If the project passes the Representatives, the proposal goes to the Grants committee
+The serves as the “executive” branch and can Veto proposals
+Focus should be on managing the Treasury
+The Grants Committee will vote to Veto the proposal or not
+Opinion: The Grant’s Committee should have at least
+1 Dev Guild Member → Evaluate software projects
+Maybe: Analytics Guild & Ops Guild & Treasury Guild
+In all votes deliberated upon by each body, the size of quorum is correlated with the size of grants. In other words, a small grant needs a small quorum and a large grant needs a large quorum. The treasury structure would remain the same:
+Grants Committee Treasury → Funds projects
+DAO Treasury → Funds Guild operations
+Project Evaluation Process
+Project leads must present their project to the Representatives
+Typical Grants committee process
+No “ongoing” project proposal evaluations.
+New project proposals are reviewed halfway between seasons
+Review occurs over a set period of time (ex: 2-3 weeks)
+No new proposals until the next season → gives us leeway for funding
+This will reduce the ongoing drain of the grants treasury
+Our budget is predefined
+The opportunities present themselves at once so we can pick the most important/valuable projects to fund
+Representatives Evaluate Project proposals
+Evaluate proposals based on the Project Evaluation Framework
+Work with project leads to set milestones and metrics for next review
+If the project achieves a quorum, the proposal goes to the Grants Committee
+Grants Committee
+Can Veto the project or not
+Decided on a quorum
+If the project is Vetoed it goes back to the Representatives to be reworked
+If the project is still Vetoed, it will not be funded
+Projects may reapply during the next funding round
+If a project passes it will be added to a snapshot vote, where BANK holders can vote to veto particular projects.
+FAQ
+Why focus on revenue?
+Without the generation of revenue we are forced to fund projects through the minting of BANK. This inflation will reduce the value of BANK, diluting token holders until the value is effectively 0. Revenue allows us to fund initiatives in a self-sustainable manner.
+What problem does this solve?
+This structure will allow us to fund projects more strategically, decentralize governance over the Grants Committee Treasury, and improve our project evaluation process.
+Why are we adding more bureaucracy to this process?
+In general, the addition of the Representative group will slow down the approval process and give us more granular evaluation of projects. When we’re approving things too loosely, added friction will slow down the velocity of BANK. This also serves to decentralize the Grants Committee’s responsibilities.
+Shouldn’t we be decentralized and flexible?
+The addition of the Representative working group will both improve project evaluation and decentralize the funding process. Previously, the Grants committee held sole responsibility for project evaluation. In the new framework, members have a more direct influence on what gets funded through representatives.
+How do projects work with guilds to set prices?
+The Grants Committee and Representatives will monitor market prices for roles and expertise. Price discovery should occur through executed bounties.
+Why only fund twice a season?
+The benefit here is twofold:
+This will allow project leads to create MVPs and build a strong case for their project.
+The Grants Committee will have better control over the purse. Given a limited set of projects to fund, the Grants Committee and Representatives can pick the most important projects for the DAO.
+Closing Thoughts
+These are my thoughts as of now and this structure is not a final solution. It should be iterated and improved on. Still, this gives us something to work with and I think a structure like this will solve many of the challenges we have as a DAO.
+bDAO strong!
+Thank you to @siddhearta for working through this problem with me. Your feedback was invaluable.
+1 Reply
+10

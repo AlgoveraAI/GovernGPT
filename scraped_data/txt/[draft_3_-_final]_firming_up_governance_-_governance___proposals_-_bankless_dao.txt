@@ -1,0 +1,104 @@
+Title: [Draft 3 - Final] Firming Up Governance
+Authors: frogmonkee#6855
+Squad: frogmonkee#6855
+Date Created: October 27th, 2021
+Date Posted: November 17th, 2021
+[Draft 1] Firming up Governance
+Grants/Funding
+Title: [Draft 1] Firming up Governance Authors: frogmonkee#6855 Squad: frogmonkee#6855 Date Created: October 27th, 2021 Date Posted: October 28th, 2021 There’s a lot to unpack here. Before I do, I want to recognize that this proposal is coming to light based on the issues around the Olympus Pro proposal. To be clear this is not a personal attack on any individual. The proposal simply kicked the hornet’s nest and surfaced flaws in our governance processes that need to be addressed…
+[Draft 2] Firming up Governance
+Grants/Funding
+Title: [Draft 2] Firming up Governance Authors: frogmonkee#6855 Squad: frogmonkee#6855 Date Created: November 7th, 2021 Date Posted: November 8th, 2021 CC’ing those that replied to the original post: @NFThinker @hashedMae @hodl @RedVan @Kouros @Grendel @cyclist @tomahawk @angyts @chao @jameswmontgomery.eth @ZrowGz @chao @samanthaj Changes from the previous draft are marked with a SUMMARY This proposal introduces some voting parameters and guidelines in response to …
+Changes from the previous draft are marked with a
+SUMMARY
+This proposal introduces some voting parameters and guidelines in response to feedback around the recent Proposal: Olympus Pro 14 post.
+Included are:
+Specificity on what goes to snapshot and what does not
+Quorum and voting requirements
+Community education guidelines
+Proposal wording and presentation
+BACKGROUND
+Olympus Pro was first formally mentioned on October 1st during the inaugural tokenomics discussion 2.
+On October 14th, Proposal: Olympus Pro 14 was posted to the forums.
+On October 22nd, the proposal was uploaded to Snapshot and went live for voting on Monday, October 25th.
+Since then, voting 6 is 78% in favor, with 6.7M BANK voting no. Relative to previous snapshots, this discrepancy shows a divide in the community’s sentiment. Previously 2, the largest deny vote we saw was just under 600K BANK at 2.66% voting Deny.
+Having spent much time listening to people thoughts and concerns, I’ve identified the following pain points:
+Many individuals were surprised to know this vote would go to snapshot and not to the Grants Committee, as they were accustomed to seasonal specs being ratified on snapshot and the GC distributed the seasonal allocated budget.
+The proposal went to snapshot before some members could even participate in the forums. Specifically those with less time to participate in day-to-day activities
+Individuals that were not educated on the topic felt like they had to sit out
+Individuals felt like their opinions were ignored.
+The snapshot vote left out crucial information, like a link to the forum post and the voting options were worded were not impartial (Deny option)
+MISSION & VALUES ALIGNMENT
+Back during Season 0, when we began outlining our governance processes, we emphasized the importance of gathering consensus within the community and using Snapshot as a way to ratify decisions, hence a consistent 95%+ approval rating on prior snapshots. This was because, historically:
+Many snapshot voters are not engaged in day-to-day operations in the DAO and will miss a lot of context. Simple things like framing language are enough to significantly sway votes.
+Voter fatigue is real. Too many votes is too much noise. This is reflected in Index Coop 2, which has very low participation on many of their snapshots and is reflected in our own snapshots, with a variance of almost 50% of voters at times.
+This is consistent with what Boardroom, a governance platform, is noticing as well.
+twitter.com
+Kevin Nielsen
+@kevinknielsen
+Key learning from building @boardroom_info - voting just ratifies and formalizes changes after rough consensus has been already established 90% of the coordination and decision-making happens beforehand, off-chain Access to data ≠ transparency, context is the whole ball game
+3:41 PM - 27 Oct 2021
+19
+1
+For these reasons, we have a robust proposal process (unlike Sushiswap that has proposal like this 7) and a seasonal spec that embeds much of our decision into one ratified vote.
+To align with these values, I’d like to introduce a number of different rules and mechanisms that will help us gather community consensus before moving something to snapshot.
+SCOPE OF WORK
+Proposes a series of changes to governance that, upon soft consensus will be ratified with an on-chain snapshot vote and subsequently included in each Seasonal Spec thereafter, as parameters are likely to change.
+SPECIFICATION
+What Goes to Snapshot?
+Part of the confusion here is understanding what goes to snapshot and what doesn’t. Historically, we’ve sent the Seasonal Spec to snapshot, along with validating project and guild funding. This is the first time we’ve had a purely tokenomic post gain traction and it wasn’t clear to the community that it would go to snapshot. As such, here are few reasons something should go to snapshot. Please comment if you have further suggestions:
+Seasonal specification (including Grants Committee allocation) [1] 3 [2] 3
+Seasonal Project and Guild funding [1] 8
+Major Governance changes [1] 1 [2] [3]
+Tokenomic changes [1] 6
+Grant committee decision with sufficient conflict of interest (eg. cannot achieve majority vote) [1] [2] 2
+Extending budget
+Emergency vote / “Break glass” scenario (See Appendix A)
+What does not go to Snapshot?
+Individual projects funding
+Additional guild funding
+Quorum & Voting Requirements
+Quorum requirements are formalities to achieve sufficient consensus. Culturally, we should thinking beyond quorum. If a proposal reaches quorum and voting requirements, it is your responsibility to capture feedback and dissent in order to achieve better alignment. If someone raises a good point or you gauge sufficient disagreement, go back to the drawing board and incorporate that feedback. @Kouros has a great example with his Gas Reimbursement post. Despite having a nearly 90% in-favor voting, he has opted to redraft 1 his post to incorporate feedback. We are a DAO, we move together. Ape strong together.
+As such, authors will be expected to have reasonably attempted to incorporate feedback. as part of the passing requirements.
+Below is a table for quorum, timeline, and voting thresholds. Numbers are a weighted average 4 of the results from the previous post 10.
+Each season, quorum & voting requirements can be updated as part of the Seasonal Spec
+Education Requirements
+Proposals with big asks and governance changes are often complex. As such, they need to be properly communicated to the DAO with time for them to digest and process new information.
+In the Additional Requirements section, there are three education tools to use:
+A short 5 minute presentation on the community call
+A longer Q&A and presentation, selected at an optimal time via Lettucemeet (needs to be included in the forum post and scheduled after surfaced on the community call.)
+Presentation must be recorded with at least 1 week to let people listen to the on demand video. This could extend the 2 week timeline if the recorded video is uploaded with less than a week in the timeline. PLAN ACCORDINGLY.
+Tokenomic and governance decisions would get priority editorial placement in the Weekly Rollup 1 as an educational explainer piece while they are in the forums.
+Proposal wording, presentation, and conflicts of interest
+Snapshot posts must always include a link back to the proposal’s forum posts
+Snapshot voting options must have a clear ask followed by two options: “For” and “Needs Revisions” as much as possible. Given that soft consensus is meant to be gathered well before moving to snapshot, multiple voting options can skew the outcomes, as pointed out by HashedMae 2.
+Proposals can have more than two options when asking the community to select between an array of options for an already-approved option. For example: [1] and [2] are not asking for consensus on whether we should execute a particular action, but rather asking for consensus on how to do something that has already been approved.
+Proposals must include a section for disclosing any conflicts of interest, namely if (1) Members of the squad are associated with any party involved outside of BanklessDAO and (2) Members of the squad hold any investments with any party involved outside of BanklessDAO.
+Proposals on Snapshot must include quorum and voting requirement criteria
+FINANCIAL IMPLICATIONS
+Not applicable
+BRAND USAGE
+Not applicable
+SUCCESS METRICS OR KPIS
+Not applicable
+NEXT STEPS
+Move to snapshot
+SQUAD BACKGROUND
+@frogmonkee - Long time contributor to BanklessDAO. Active in Writers Guild, Ops Guild, and strategy for the DAO. Care deeply about governance.
+POLL
+Should we move this to snapshot?
+Yes
+Need Revision
+57
+voters
+Vote now!
+Show results
+APPENDIX A - Emergency Scenarious
+An “Emergency Scenario” would refer to a proposal/motion that needs to fast track consensus and would likely consolidate power into the hands of a few for a short period of time, often the multisig signers. Examples could include:
+Liquidating positions due to black swan events
+Legal action against the DAO
+Smart contract hacks
+Immediate changes to governance (IE closing a governance loophole)
+Emergency proposals would be titled with “Emergency Protocol” in the heading, which fast tracks soft and hard consensus by increasing quorum + voting requirements and removing all time requirements.
+2 Replies
+4
