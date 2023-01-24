@@ -1,0 +1,23 @@
+{
+  "title": "Snapshot Voting - Implement Shielded Voting - Governance Proposals - Bankless Dao",
+  "headings": [
+    "TLDR:",
+    "Summary",
+    "BACKGROUND",
+    "MISSION & VALUES ALIGNMENT",
+    "SCOPE OF WORK",
+    "Acknowledgements",
+    "NEXT STEPS",
+    "POLL"
+  ],
+  "sections": {
+    "TLDR:": "Implement Shielded Voting 8 for all Snapshot Votes\n\nTest out Shielded Voting here 11.",
+    "Summary": "This proposal is to suggest and gain consensus for implementing Shielded Voting for all Snapshot votes at BanklessDAO. Shielded voting will enable partial voter privacy, which prevents the voting process from influencing the voting results.Votes and voting results will be hidden for the entirety of the vote, and will be revealed at closure of the vote.",
+    "BACKGROUND": "The aim of Snapshot voting is for BanklessDAO contributors to express their sentiment through token weighted voting. Currently BanklessDAO Snapshot Votes are transparent and visible through the entirety of the vote. This can create scenarios where the current results influence the vote.By implementing Shielded Voting, we support voter sentiment expression that is more accurate, while preventing different voter gaming potentials.",
+    "MISSION & VALUES ALIGNMENT": "Snapshot votes at BanklessDAO are meant to be a clear expression of sentiment from contributors and the DAO.By implementing Shielded Voting we enable this expression, while decreasing the capacity for negative voting externalities.This is in direct alignment with the mission and values of the DAO of decentralized governance, culture and integrity.",
+    "SCOPE OF WORK": "Once consensus and approval are gained for Shielded Voting on the forum, this will be implemented on Snapshot for the rest of Season 6.At the end of Season 6, we will collect feedback via the coordinape form to surface sentiment around the implementation, and either modify or submit a bDIP to add shielded voting verbiage to the constitution.",
+    "Acknowledgements": "Shielded Voting (like much of the technology in the space) is in development and in a beta phase.The risks are outlined here: 3The underlying threshold encryption implementation is still rather new and, therefore, may contain unknown bugs.\nThe infrastructure to communicate the encryption and decryption keys between the Snapshot Hub and the Shutter Network is equally new.\nIn this initial deployment, the Keyper set (the entities collaborating to perform the threshold encryption mechanism) will not be fully decentralized.",
+    "NEXT STEPS": "If approved, implement Shielded voting for the rest of Season 6.\nGather feedback on the experiment from the DAO\na. Via Coordinape form\nIf sentiment is positive\na. Create a bDIP and put on the forum for consensus\nb. Put bDIP on Snapshot\nc. Enjoy Shielded voting!",
+    "POLL": "Approve Deny59votersShow results"
+  }
+}

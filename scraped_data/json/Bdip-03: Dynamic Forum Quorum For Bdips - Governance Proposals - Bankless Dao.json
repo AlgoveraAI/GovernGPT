@@ -1,0 +1,37 @@
+{
+  "title": "Bdip-03: Dynamic Forum Quorum For Bdips - Governance Proposals - Bankless Dao",
+  "headings": [
+    "BDIP SUMMARY",
+    "BDIP BACKGROUND",
+    "BDIP SPECIFICATION",
+    "How can we address this challenge?",
+    "Option A: Update thresholds at regular intervals",
+    "Option B: Update thresholds based on formula",
+    "Current Form",
+    "Proposal",
+    "EXPECTED IMPACT",
+    "ANALYTICS",
+    "NEXT STEPS",
+    "WORKING GROUP BACKGROUND",
+    "Polls",
+    "1. What type of update is this?",
+    "2. Modify forum quorum to a formula based approach as detailed in this proposal"
+  ],
+  "sections": {
+    "BDIP SUMMARY": "The static forum quorum requirements set in the constitution do not reflect the activity of active contributors in the DAO which consequently leads to governance frustration. Instead, the suggestion is to adopt a formula based approach which can evolve as the activity in the DAO evolves.",
+    "BDIP BACKGROUND": "Recently we saw in bDIP-02: Coordinated timings across bDAO 1 that in times when there are less active contributors, it was really difficult to reach quorum for something relatively simple. The quorum thresholds were defined in the constitution in a time when there were many more active contributors. The challenge with a static threshold is that it cannot reflect the number of active contributors in the DAO at any given time, this is especially relevant for an industry such as crypto where the attention can vary significantly between the bull and the bear phases.",
+    "BDIP SPECIFICATION": "",
+    "How can we address this challenge?": "",
+    "Option A: Update thresholds at regular intervals": "This option allows contributors to suggest new thresholds based on manually sensing activity in the DAO. The con is the bDIP needs to reach a threshold each time for an update and there may be several updates required each year which costs a lot of admin overhead. Hence I do not recommend this option",
+    "Option B: Update thresholds based on formula": "This option requires less changes as compared to option A if the formula allows for thresholds to be set dynamically based on activity within the DAO. Overall this reduces the admin overhead.",
+    "Current Form": "Governance update\nForum quorum\nApproval %\nTimeline\n\n\n\n\nMajor\n63\n70%\n1 week\n\n\nMinor\n51\n70%\n1 week\n\n\nPatch\n40\n70%\n1 week",
+    "Proposal": "Modify the quorum tableGovernance update\nForum quorum\nApproval %\nTimeline\n\n\n\n\nMajor\n30 Day Average + (0.2 x 30 Day Average)\n70%\n1 week\n\n\nMinor\n30 Day Average\n70%\n1 week\n\n\nPatch\n30 Day Average - (0.2 x 30 Day Average)\n70%\n1 weekAdd the following items are criteria for the above in the constitution- The dataset for 30D avg starts 1 day prior to the date of posting a proposal.- All forum quorum calculations are rounded to the nearest whole number- Only polls which have been live for atleast 7 days should be taken into account- If a forum post includes more than one poll, each poll should be considered a separate datapoint- 30D Average formula = Sum of votes / number of independent pollsModify the bDIP proposal template and add the following:Date posted\nPost title\n#votes\n\n\n\n\nddmmyyyy\nTitle\nnTitle\nValue\n\n\n\n\nMajor\nm + (0.2 x m)\n\n\nMinor\nm = 30D avg\n\n\nPatch\nm - (0.2 x m)",
+    "EXPECTED IMPACT": "Makes forum quorum more dynamic and reflective of the latest activity in the DAO",
+    "ANALYTICS": "Here is an example of this formula applied for the current proposal.Date posted\nPost title\n#votes\n\n\n\n\n02-12-2022\nSnapshot voting - Implement Shielded Voting\n53\n\n\n14-12-2022\nWeekly rollup recap video series\n38\n\n\n12-12-2022\nPurpose Driven Guild Funding\n29\n\n\n06-12-2022\nProposal to re-create the Education Guild Organizational Unit within the DAO\n29\n\n\n25-11-2022\nMarketing Department Season 6 - Content Coordinator Re-election\n58Title\nValue\n\n\n\n\nMajor\n50\n\n\nMinor\n41\n\n\nPatch\n33",
+    "NEXT STEPS": "Update ConstitutionUpdate bDIP Format",
+    "WORKING GROUP BACKGROUND": "jengajojo: bDAO contributor involved in governance and project management",
+    "Polls": "",
+    "1. What type of update is this?": "Major Minor Patch24votersShow results",
+    "2. Modify forum quorum to a formula based approach as detailed in this proposal": "Yes No24votersShow results"
+  }
+}

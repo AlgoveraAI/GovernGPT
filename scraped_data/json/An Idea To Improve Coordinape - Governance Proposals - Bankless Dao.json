@@ -1,0 +1,27 @@
+{
+  "title": "An Idea To Improve Coordinape - Governance Proposals - Bankless Dao",
+  "headings": [
+    "An Idea to Improve Coordinape",
+    "Background",
+    "The Problems",
+    "The Idea",
+    "The Benefits",
+    "The Impact",
+    "POLL - Which multipliers do you like?",
+    "Next Steps",
+    "What do you Think?",
+    "POLL - What do you think of this proposal?"
+  ],
+  "sections": {
+    "An Idea to Improve Coordinape": "",
+    "Background": "Coordinape is the product we use to distribute 4.5M BANK a season for contributor rewards. This represents around 15% of our total seasonal budget. This BANK is distributed monthly - 500K BANK respectively for Guest Pass, L1, and L2 contributors.Contributors sign up for the coordinape round monthly and allocate GIVE to their fellow contributors. After a week, the GIVE amounts are tallied and then converted to percentages, which are then used to allocate the pot of BANK for each member circle (i.e. if you receive 1% of all GIVE, you are rewarded with 1% of 500K BANK, 5000 BANK).The intent behind coordinape is to compensate contributors for their work the previous month. Put another way: the goal of coordinape is to encourage contributors to contribute.",
+    "The Problems": "Coordinape is complicated, especially for BanklessDAO newcomers. There are 3 circles (one for each member level), and it can be difficult to understand how to use the system, much less how you should be allocating on each circle.\n\nCoordinape doesn’t reward contribution. Our L2s are our most active contributors, and it’s possible (and probable) that less active Guest Passes receive MORE in coordinape rounds than these extremely active contributors simply because there are more L2s sharing the same 500K BANK. I’ve personally dumped a ton of GIVE on a Guest Pass simply because I didn’t have anyone else to give it to.\n\nCoordinape doesn’t encourage contributors to move up member levels. In May’s coordinape allocation 7, the top Guest Pass and L1 each received around 2x more BANK than the top L2. I’ve even seen contributors refuse L2 nominations.",
+    "The Idea": "Convert the 3 circles into a single BanklessDAO circle.\nUse pirate math 11 to weight the rewards towards higher-level contributors. How this works in practice is that after all GIVE is allocated, L1’s and L2’s will have their GIVE multiplied by certain percentages (i.e. L1’s GIVE is multiplied by 1.5 and L2’s GIVE is multiplied by 2)\n(optional) Remove status for L2’s who fail to register for coordinape or receive any GIVE for 3 months in a row.An example of pirate math, with Guest Passess getting 2 shares, L1’s getting 3 shares, and L2’s getting 4 shares (i.e. using 1/1.5/2 multipliers):1462×340 29.8 KB",
+    "The Benefits": "The coordinape process will be simplified. Instead of having 3 circles, there’s just one, which makes it easier to teach people how to use it.\n\nCoordinape will more closely reward contribution. With everyone in the same circle, it’s easier to align your GIVE with who you’ve actually seen contribute, rather than run out of GIVE in the L2 circle and have excess in the Guest Pass level.\n\nThis could encourage L2’s to stick around longer. I can’t be the only person to notice that L2’s have a habit of reducing their commitment after a few months. These are, by definition, our top contributors. We need to encourage them to stick around and contribute\n\nContributors will be encouraged to move up member levels. This means contributors will be encouraged to hold onto BANK. We often talk about utility of BANK…this is utility!\n\nThis becomes a mechanism to remove L2s who aren’t contributing.",
+    "The Impact": "Here’s a little spreadsheet  8to see the impact of this change on May’s Coordinape.  Note that this simulation doesn’t take into account how things would change if all contributors were in a single circle.",
+    "POLL - Which multipliers do you like?": "I like 1/1.25/1.5 multipliers I like 1/1.5/2 multipliers I like another set of multipliers (I’ll comment below) I don’t like this system at all52votersShow results",
+    "Next Steps": "Work with Coordinape Workstream in Ops Guild to see if it’s technically feasible\nGather consensus in a forum post, and push to Snapshot if we have it\nImplement the proposal for the next Coordinape round",
+    "What do you Think?": "I’d love your feedback!",
+    "POLL - What do you think of this proposal?": "I love it!  Implement it right away! I like the idea, but I have some issues which I’ll comment below. I’m against it, and I’ll tell you why in the comments.50votersShow results"
+  }
+}

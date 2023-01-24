@@ -1,0 +1,15 @@
+{
+  "title": "S7 Gc Election Application Submission - Governance - Bankless Dao",
+  "headings": [
+    "Governance Election: Season 7 - Grants Committee Election Application Submission",
+    "SUMMARY",
+    "SPECIFICATION",
+    "To submit your application you must reply to this post by including:"
+  ],
+  "sections": {
+    "Governance Election: Season 7 - Grants Committee Election Application Submission": "Date: 1/9/23\nSubmission Period: 1/9/23 - 1/19/23\nElection Period: 1/20/23 - 1/27/23 (Snapshot)",
+    "SUMMARY": "According to the Seasonal spec 3, there will be 4 seats open for Season 7 Grants Committee.The Grants Committee consists of 5-7 members along with a multisig with all committee members as signers.The Committee is responsible and accountable for managing the grants system, reviewing grant applications, and managing the grants treasury, with the help of other guilds as needed (e.g., treasury).\nThe Committee has a quorum with five members and is otherwise responsible for their own operations.\nThe Committee cannot change the application process to be a Committee member without a snapshot vote and is encouraged to accept the DAO’s proposal template.\nThe Grants Committee is required to be transparent and communicative with the DAO, such as access to Committee meetings and an opportunity to voice opinions and feedback.",
+    "SPECIFICATION": "The voting period will last one week and will take place on Snapshot:Grants Committee Applications will be submitted and decided on by a weighted snapshot vote, and the highest 4 voted applications will be elected into the Grants Committee.\nAny unelected candidate can gather feedback, improve their resume, and resubmit for future vacancies.\nCommittee members can be recalled by Snapshot with a simple majority. Committee members may leave the Committee at any time by submitting a written resignation note to the Committee.Submitter must be Level 1 or higher\nElected GC members serve for a term (2 seasons) for a maximum of 2 consecutive terms.\nFor a deep-dive, check out the following notion page: Grants Committee 3",
+    "To submit your application you must reply to this post by including:": "Discord handle\nReason for applying\nQualifications\nSponsor(s) (i.e., those who will second your nomination - the more the merrier!)"
+  }
+}
