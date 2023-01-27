@@ -19,15 +19,13 @@ You can get funded to build your LLM workflow through Algovera Grants. Each mont
 - `scraper.rb`: Scraper that scrapes over the governance proposals in Bankless DAO
 - `data_cleaner.rb`: Data Cleaner that cleans out the unneccessary HTML tags from the scraped governance proposals
 - `prepare_dataset.rb`: Convert HTML into the structured JSON format that contains title, headings, and sections. This JSON is used in turn to generate prompt/output pairs for OpenAI GPT model fine-tuning
+- `prepare_prompts.rb`: Script that converts the scraped data in JSON format into the prompts/outputs used to fine-tune GPT.
 
 # 📁 Data
 
+- `scraped_data/prompts_prepared.jsonl`: Prompts and outputs prepared for fine-tuning after running `openai tools fine_tunes.prepare_data -f gpt_data/prompts.jsonl` script
+- `scraped_data/prompts.jsonl`: Prompts and outputs initially prepared for fine-tuning
 - `scraped_data/json`: Cleaned up JSON of governance proposals that contains title, headings, and sections. Used to generate prompts/outputs for fine-tuning
 - `scraped_data/clean_html`: Cleaned up HTML of governance proposals
 - `scraped_data/html`: Original raw HTML data scraped
 - `scraped_data/txt`: Original raw TXT data scraped
-
-
-# 🚴 Upcoming
-
-Train GPT on that data by Jan 25
